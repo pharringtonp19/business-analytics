@@ -5,7 +5,7 @@ permalink: /case-studies/
 nav_order: 2
 ---
 
-### **Bershire Hathaway**
+### **Berkshire Hathaway**
 
 <iframe src="https://slides.com/pharringtonp19/business-analytics-berkshire-hathaway/embed?byline=hidden&share=hidden" width="576" height="420" title="Business Analytics - Berkshire Hathaway" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 

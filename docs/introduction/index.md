@@ -2,7 +2,7 @@
 title: Introduction
 layout: default
 permalink: /introduction/
-nav_order: 3
+nav_order: 2
 ---
 
 ### **Getting Started**

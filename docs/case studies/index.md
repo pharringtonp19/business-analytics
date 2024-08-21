@@ -2,7 +2,7 @@
 title: Case Studies
 layout: default
 permalink: /case-studies/
-nav_order: 2
+nav_order: 5
 ---
 
 ### **Berkshire Hathaway**

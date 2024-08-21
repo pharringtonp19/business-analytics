@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# [QST BA 222](https://www.bu.edu/academics/questrom/courses/qst-ba-222/): Buisness Analytics
+# [QST BA 222](https://www.bu.edu/academics/questrom/courses/qst-ba-222/): Business Analytics
 
 
 ![Alt text](assets/images/ba_intro.png)

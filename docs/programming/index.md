@@ -9,10 +9,17 @@ nav_order: 3
 
 We introduce the building blocks of creating and running code in Python.
 
+##### **Notebooks**
+- [Getting Started](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/Getting_Started.ipynb)
+- [Introduction to Lists](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/Intro_to_Lists.ipynb)
+
 <iframe src="https://slides.com/pharringtonp19/business-analytics-programming/embed?byline=hidden" width="576" height="420" title="Business Analytics - Programming" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
 
 ### **Data Manipulation**
 
 We explore the Pandas library for data manipulation and analysis.
+
 
 <iframe src="https://slides.com/pharringtonp19/business-analytics-data-manipulation/embed?byline=hidden" width="576" height="420" title="Business Analytics - Data Manipulation" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

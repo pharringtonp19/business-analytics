@@ -15,7 +15,7 @@ nav_order: 5
 
 ### **Wild Fire Prevention**
 
-<iframe src="https://slides.com/pharringtonp19/business-analytics-wild-fire-prevention-888dbe/embed?byline=hidden&share=hidden" width="576" height="420" title="Business Analytics - Wildfire Prevention" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://slides.com/pharringtonp19/business-analytics-wildfire-prevention-888dbe/embed?byline=hidden&share=hidden" width="576" height="420" title="Business Analytics - Wildfire Prevention" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### **Generative AI**
 

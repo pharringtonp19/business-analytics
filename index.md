@@ -10,8 +10,10 @@ nav_order: 1
 ![Alt text](assets/images/ba_intro.png)
 
 
-### **Overview**
+### Overview (<a href="{{ site.baseurl }}/assets/files/bas.pdf" target="_blank">Syllabus</a>) 
 Examines the use of economic and statistical tools for making business decisions at an advanced level, and prepares students for future study in business analytics. Introduces programming for data analysis (no previous programming knowledge required) and links data analysis to decision making using both spreadsheet modeling and statistical programming. Topics include multiple regression, causal inference, forecasting, predictive analytics, machine learning, demand modeling, and optimization. Case studies apply advanced concepts to practical business problems. 
+
+
 
  <style>
   .footer {

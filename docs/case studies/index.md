@@ -1,10 +1,12 @@
 ---
-title: Case Studies
+title: In The News
 layout: default
-permalink: /case-studies/
+permalink: /in-the-news/
 nav_order: 5
 ---
 
+- [AlphaChip](https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design/)
+<!-- 
 ### **Berkshire Hathaway**
 
 <iframe src="https://slides.com/pharringtonp19/business-analytics-berkshire-hathaway/embed?byline=hidden&share=hidden" width="576" height="420" title="Business Analytics - Berkshire Hathaway" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -19,4 +21,4 @@ nav_order: 5
 
 ### **Generative AI**
 
-<iframe src="https://slides.com/pharringtonp19/business-analytics-generative-ai/embed?byline=hidden&share=hidden" width="576" height="420" title="Business Analytics - Generative AI" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://slides.com/pharringtonp19/business-analytics-generative-ai/embed?byline=hidden&share=hidden" width="576" height="420" title="Business Analytics - Generative AI" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->

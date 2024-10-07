@@ -5,7 +5,7 @@ permalink: /in-the-news/
 nav_order: 5
 ---
 
-- [AlphaChip](https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design/)
+- [Jane Street Hiring Challenge](https://www.bloomberg.com/opinion/articles/2024-10-07/retail-investor-had-too-much-tesla?srnd=undefined)
 <!-- 
 ### **Berkshire Hathaway**
 

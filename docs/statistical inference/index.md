@@ -5,12 +5,6 @@ permalink: /statistical-inference/
 nav_order: 7
 ---
 
-### **Statistical Inference**
-
-### **Class #14**
-- [Lecture Notes](https://daffodil-brand-804.notion.site/Class-14-11752d8e3f6d8068b30ac904ffc49f42)
-- [Colab Notebook](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/statistical_inference_four.ipynb)
-
 ### **Class #15**
 - [Lecture Notes](https://daffodil-brand-804.notion.site/Class-15-11852d8e3f6d8096b277fabaf553764e)
 - [Colab Notebook](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/statistical_inference_five_class.ipynb)

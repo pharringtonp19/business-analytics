@@ -5,7 +5,9 @@ permalink: /programming/
 nav_order: 4
 ---
 
-### **Basics of Programming**
+## **Basics of Programming**
+
+We discuss the fundamentals aspects of programming. In particular, we structure these notes around the idea of creating data (variables, lists, etc.), and transformaing data via functions. 
 
 ### **Class #2**
 - [Lecture Notes](https://daffodil-brand-804.notion.site/Class-2-10252d8e3f6d806187f1cf1506a814b6)

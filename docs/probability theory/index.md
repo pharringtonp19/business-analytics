@@ -17,10 +17,7 @@ nav_order: 6
 - [Lecture Notes](https://daffodil-brand-804.notion.site/Class-12-10f52d8e3f6d80aba35ff074832fe582)
 
 ### **Class #13**
-- [Lecture Notes](https://daffodil-brand-804.notion.site/Class-13-10852d8e3f6d807c83dadc86030c7c21)
+- [Lecture Notes](https://daffodil-brand-804.notion.site/Class-13-11752d8e3f6d8068b30ac904ffc49f42)
 - [Colab Notebook #1](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/statistical_inference_three.ipynb)
 - [Colab Notebook #2](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/statistical_inference_four.ipynb)
 
-### **Class #14**
-- [Lecture Notes](https://daffodil-brand-804.notion.site/Class-14-11752d8e3f6d8068b30ac904ffc49f42)
-- [Colab Notebook](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/nlp_one.ipynb)

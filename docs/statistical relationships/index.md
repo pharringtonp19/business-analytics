@@ -1,9 +1,13 @@
 ---
-title: Statistical Inference
+title: Statistical Relationships
 layout: default
-permalink: /statistical-inference/
+permalink: /statistical-relationships/
 nav_order: 7
 ---
+
+### **Class #14**
+- [Lecture Notes](https://daffodil-brand-804.notion.site/Class-14-10852d8e3f6d807c83dadc86030c7c21)
+- [Colab Notebook](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/nlp_one.ipynb)
 
 ### **Class #15**
 - [Lecture Notes](https://daffodil-brand-804.notion.site/Class-15-11852d8e3f6d8096b277fabaf553764e)
@@ -14,7 +18,3 @@ nav_order: 7
 - [Colab Notebook](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/statistical_inference_six_class.ipynb)
 
 <iframe src="https://slides.com/pharringtonp19/business-statistical-inference/embed?byline=hidden&share=hidden" width="576" height="420" title="Business Analytics - Statistical Inference" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-### **Regression**
-
-<iframe src="https://slides.com/pharringtonp19/business-analytics-linear-regression/embed?byline=hidden&share=hidden" width="576" height="420" title="Business Analytics - Linear Regression" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

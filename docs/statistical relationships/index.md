@@ -7,7 +7,8 @@ nav_order: 7
 
 ### **Class #14**
 - [Lecture Notes](https://daffodil-brand-804.notion.site/Class-14-10852d8e3f6d807c83dadc86030c7c21)
-- [Colab Notebook](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/nlp_one.ipynb)
+- [Colab Notebook 1](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/statistical_relationship_one.ipynb)
+- [Colab Notebook 2](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/nlp_one.ipynb)
 
 ### **Class #15**
 - [Lecture Notes](https://daffodil-brand-804.notion.site/Class-15-11852d8e3f6d8096b277fabaf553764e)

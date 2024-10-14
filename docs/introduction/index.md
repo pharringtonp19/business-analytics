@@ -14,7 +14,7 @@ nav_order: 2
 
 - To check that your setup is working **and** to install the necessary packages on your computer download and run the following [notebook](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/Check_Local_Setup.ipynb)
 
-- The following YouTube video walks you through through how to execute a Python notebook in VSCode:
+- The following YouTube video walks you through how to execute a Python notebook in VSCode:
 
 <figure style="text-align: center;">
   <a href="https://youtu.be/T6VFy57DLlk">

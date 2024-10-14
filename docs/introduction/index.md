@@ -18,7 +18,7 @@ nav_order: 2
 
 <figure style="text-align: center;">
   <a href="https://youtu.be/T6VFy57DLlk">
-    <img src="./../../assets/images/yt.png" alt="Alt text">
+    <img src="{{ site.baseurl }}/assets/images/yt.png" alt="Alt text">
   </a>
   <figcaption>Getting Started With VSCode</figcaption>
 </figure>

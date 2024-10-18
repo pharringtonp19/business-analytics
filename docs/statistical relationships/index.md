@@ -19,4 +19,8 @@ nav_order: 7
 - [Colab Notebook 1](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/statistical_relationship_three.ipynb)
 - [Colab Notebook 2](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/nlp_two.ipynb)
 
-<iframe src="https://slides.com/pharringtonp19/business-statistical-inference/embed?byline=hidden&share=hidden" width="576" height="420" title="Business Analytics - Statistical Inference" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+### **Class #17**
+- [Lecture Notes](https://daffodil-brand-804.notion.site/Class-17-11f52d8e3f6d80d78456fee37cdba1b9)
+- [Colab Notebook 1](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/statistical_relationship_four_a.ipynb)
+- [Colab Notebook 2](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/statistical_relationship_four.ipynb)

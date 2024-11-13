@@ -1,0 +1,2865 @@
+Country,Region,Year,Alcohol_consumption,BMI,GDP_per_capita,Population_mln,Schooling,Economy_status_Developed,Life_expectancy
+Turkiye,Middle East,2015,1.32,27.8,11006,78.53,7.8,0,76.5
+Spain,European Union,2015,10.35,26,25742,46.44,9.7,1,82.8
+India,Asia,2007,1.57,21.2,1076,1183.21,5,0,65.4
+Guyana,South America,2006,5.68,25.3,4146,0.75,7.9,0,67
+Israel,Middle East,2012,2.89,27,33995,7.91,12.8,1,81.7
+Costa Rica,Central America and Caribbean,2006,4.19,26.4,9110,4.35,7.9,0,78.2
+Russian Federation,Rest of Europe,2015,8.06,26.2,9313,144.1,12,0,71.2
+Hungary,European Union,2000,12.23,25.9,8971,10.21,10.2,1,71.2
+Jordan,Middle East,2001,0.52,27.9,3708,5.22,9.6,0,71.9
+Moldova,Rest of Europe,2008,7.72,26.5,2235,2.87,10.9,0,68.7
+Brazil,South America,2012,7.12,26.1,9057,199.29,7.3,0,74.2
+Malta,European Union,2007,7.47,27.1,19338,0.41,9.9,1,79.8
+"Bahamas, The",Central America and Caribbean,2011,9.23,27.6,32027,0.36,11,0,72.3
+Ukraine,Rest of Europe,2002,7.13,25.8,1660,48.2,10.5,0,68.3
+Switzerland,Rest of Europe,2006,10.24,25,79368,7.48,12.3,1,81.5
+Norway,Rest of Europe,2001,5.49,25.7,68489,4.51,12.1,1,78.8
+Finland,European Union,2013,9.08,26,43045,5.44,12.3,1,81
+Comoros,Africa,2007,0.15,23.5,1166,0.64,3.5,0,60.7
+Japan,Asia,2005,7.98,22.6,33099,127.77,11.2,1,81.9
+Gabon,Africa,2012,7.47,24.9,7181,1.75,7.8,0,62.9
+Ghana,Africa,2011,1.67,23.7,1580,25.39,6.8,0,61.4
+Philippines,Asia,2001,4.53,22.3,1847,79.67,7.7,0,68.8
+"Congo, Rep.",Africa,2003,0.9,22.3,2072,3.41,5.7,0,53.8
+Madagascar,Africa,2011,0.89,21.1,464,21.74,6.1,0,63.8
+Estonia,European Union,2004,15.52,25.8,13283,1.36,12,1,71.9
+Belize,Central America and Caribbean,2013,6.6,28.7,4667,0.35,10.5,0,73.5
+Kazakhstan,Asia,2006,6.76,25.8,7838,15.31,11.7,0,66.2
+Cameroon,Africa,2015,4.55,24.3,1383,23.3,6.1,0,57.6
+Jordan,Middle East,2006,0.55,28.3,4516,5.99,9.8,0,72.8
+Zimbabwe,Africa,2009,2.77,23.6,941,12.53,7.2,0,48.4
+Bhutan,Asia,2005,0.73,22.8,1489,0.65,2.3,0,65.3
+Switzerland,Rest of Europe,2010,10.01,25.1,82027,7.82,13.3,1,82.2
+South Africa,Africa,2006,7.3,26.6,5827,48.49,9,0,53.8
+Jordan,Middle East,2012,0.36,28.7,4387,8.09,9.9,0,73.7
+Eritrea,Africa,2012,1.03,20.6,699,3.28,3.9,0,63.2
+Germany,European Union,2010,11.58,26.3,37761,81.78,13.8,1,80
+Saudi Arabia,Middle East,2014,0,28.3,20328,30.92,9.5,0,74.5
+Kiribati,Oceania,2004,0.49,29.1,1488,0.09,7.2,0,64.2
+Seychelles,Africa,2011,7.83,26.3,13664,0.09,8.4,0,72.7
+Madagascar,Africa,2012,0.85,21.1,465,22.35,6.1,0,64.3
+Singapore,Asia,2014,1.84,23.6,54683,5.47,11.4,0,82.5
+Togo,Africa,2008,1.44,22.9,456,6.08,4.3,0,56.2
+Denmark,European Union,2009,10.08,25.3,50457,5.52,12.7,1,78.6
+"Gambia, The",Africa,2015,2.69,23.9,661,2.09,3.4,0,60.9
+Costa Rica,Central America and Caribbean,2014,3.12,27.2,11355,4.8,8.6,0,79.4
+Belize,Central America and Caribbean,2010,6.47,28.4,4768,0.32,10.5,0,72.1
+Sweden,European Union,2010,7.38,25.8,48370,9.38,12.3,1,81.5
+Austria,European Union,2014,12.4,25.5,44245,8.55,12.1,1,81.5
+Kyrgyz Republic,Asia,2012,5.98,26.1,994,5.61,10.7,0,70
+Grenada,Central America and Caribbean,2013,7.81,26.7,8067,0.11,8.5,0,72.6
+Brunei Darussalam,Asia,2010,0.25,26.4,33437,0.39,8.8,0,74.7
+Greece,European Union,2009,8.32,27,22839,11.11,10.1,1,80.2
+Norway,Rest of Europe,2010,6.59,26.4,72427,4.89,12.7,1,81
+Uruguay,South America,2006,6.45,26.3,10575,3.33,8,0,76
+Croatia,European Union,2006,10.98,26.2,11960,4.31,9.9,1,75.8
+Romania,European Union,2008,12.38,25.8,8280,20.54,10.6,1,72.6
+Central African Republic,Africa,2011,1.97,22.5,550,4.42,3.7,0,48
+Algeria,Africa,2015,0.55,25.5,4178,39.73,7.9,0,76.1
+"Yemen, Rep.",Middle East,2011,0.04,23.4,2311,23.81,2.8,0,65.8
+Armenia,Rest of Europe,2009,3.97,26,2884,2.89,11.1,0,73.1
+Zimbabwe,Africa,2004,2.48,23.4,1212,12.02,6.8,0,43.1
+St. Vincent and the Grenadines,Central America and Caribbean,2003,5.47,25.8,6075,0.11,7.8,0,71.1
+Kenya,Africa,2007,1.2,22.6,1287,38.71,6,0,57.5
+"Micronesia, Fed. Sts.",Oceania,2003,3.16,28.9,3035,0.11,5.5,0,65.1
+Antigua and Barbuda,Central America and Caribbean,2004,6.72,25.5,14400,0.08,9.1,0,74.8
+Nepal,Asia,2007,0.2,21.4,643,26.38,3,0,66.3
+Lithuania,European Union,2005,12.42,26.2,9766,3.32,11.8,1,71.3
+Vanuatu,Oceania,2003,0.88,25.6,2519,0.2,6.5,0,68
+Afghanistan,Asia,2000,0.02,21.7,148,20.78,2.2,0,55.8
+Kuwait,Middle East,2011,0,29.1,33167,3.17,7,0,74.6
+Kenya,Africa,2011,1.47,22.9,1357,43.18,6.2,0,61.9
+Germany,European Union,2004,11.83,26,35034,82.52,12.9,1,78.7
+Argentina,South America,2014,7.93,27.5,13568,42.67,9.8,0,75.9
+Panama,Central America and Caribbean,2008,6,26.3,9894,3.52,9.2,0,76.4
+Oman,Middle East,2015,0.45,26.3,18445,4.27,9.5,0,76.9
+France,European Union,2014,12.07,25,36379,66.31,11.4,1,82.7
+Bosnia and Herzegovina,Rest of Europe,2011,4.71,25.4,4185,3.66,7.2,0,76.2
+Mauritania,Africa,2002,0.012,23.9,1234,2.78,3.1,0,60.9
+Somalia,Africa,2008,0,22.7,265,11.4,2.1,0,53.3
+Azerbaijan,Asia,2011,0.6,26.5,5153,9.17,10.7,0,71.2
+Maldives,Asia,2007,1.51,24.1,8535,0.34,3.9,0,74.6
+Armenia,Rest of Europe,2012,3.89,26.1,3313,2.88,11.3,0,73.8
+Ghana,Africa,2009,1.26,23.5,1348,24.17,6.7,0,60.6
+Somalia,Africa,2006,1e-04,22.5,237,10.76,2.1,0,52.7
+Switzerland,Rest of Europe,2014,9.62,25.1,84348,8.19,13.4,1,83.2
+Argentina,South America,2005,7.6,26.6,11192,38.89,9.1,0,74.5
+Guinea-Bissau,Africa,2010,3.06,23,586,1.52,2.6,0,54.6
+Solomon Islands,Oceania,2000,0.71,24.9,1939,0.41,4.6,0,67.4
+"Congo, Dem. Rep.",Africa,2000,2.05,20.7,351,47.11,3.3,0,50
+Namibia,Africa,2010,1.4,23.8,4147,2.12,6.2,0,56.7
+Russian Federation,Rest of Europe,2004,11.5,25.9,6857,144.07,11.4,0,65.5
+Japan,Asia,2003,7.82,22.5,31830,127.72,11,1,81.8
+Mauritania,Africa,2004,0.014,24.1,1307,2.94,3.3,0,61.2
+Eswatini,Africa,2007,6.34,26.1,3175,1.04,5.3,0,43.3
+Nigeria,Africa,2011,4.99,23,2464,162.81,5.5,0,51.3
+United Arab Emirates,Middle East,2002,1.6,27.3,56815,3.48,8.6,0,74.8
+Burundi,Africa,2005,6.07,21,296,7.36,2.3,0,53.4
+Tajikistan,Asia,2006,0.56,24.7,662,6.92,10.5,0,66.8
+Honduras,Central America and Caribbean,2000,2.47,24.8,1790,6.57,4.3,0,70.7
+Colombia,South America,2008,4.35,25.5,4992,44.25,7.3,0,75
+"Gambia, The",Africa,2009,3.05,23.3,733,1.74,2.7,0,59.3
+Madagascar,Africa,2015,0.86,21.3,467,24.23,6.1,0,65.5
+Iceland,Rest of Europe,2003,6.52,25.7,43764,0.29,9.8,1,81
+Morocco,Africa,2002,0.46,24.8,1905,29.45,3.6,0,69.8
+Pakistan,Asia,2011,0.04,23.5,1246,183.34,4.8,0,65.6
+Bolivia,South America,2009,3.64,25.7,2455,9.88,7.9,0,67.5
+Cambodia,Asia,2006,1.18,21.2,760,13.48,3.6,0,63.9
+Malaysia,Asia,2006,0.45,24.6,7531,26.2,8.2,0,73.7
+Romania,European Union,2006,9.89,25.5,6846,21.19,10.3,1,72.2
+Dominican Republic,Central America and Caribbean,2008,5.91,25.7,5410,9.46,7.2,0,71.6
+Norway,Rest of Europe,2015,5.97,26.6,74356,5.19,12.5,1,82.3
+Italy,European Union,2005,8.65,25.6,33258,57.97,9.2,1,80.8
+Vietnam,Asia,2015,2.98,21.7,2582,92.68,8,0,75.1
+Albania,Rest of Europe,2007,5.46,25.8,3045,2.97,9.2,0,75.6
+Oman,Middle East,2013,0.44,26.1,19654,3.76,8.9,0,76.4
+Czechia,European Union,2001,13.64,26.5,12735,10.22,10.9,1,75.2
+Tonga,Oceania,2002,1.5,31.4,3952,0.1,9.1,0,69.8
+"Congo, Rep.",Africa,2001,0.9,22.1,2080,3.22,5.6,0,52.5
+Slovenia,European Union,2010,10.33,26.1,20613,2.05,12.1,1,79.4
+Gabon,Africa,2001,9.27,23.8,7867,1.26,6.3,0,58
+Zambia,Africa,2014,4.22,22.4,1341,15.4,6.9,0,60.8
+Eswatini,Africa,2015,7.49,26.8,3680,1.1,6.5,0,55.4
+Togo,Africa,2000,1.08,22,506,4.92,4,0,53.5
+Dominican Republic,Central America and Caribbean,2014,5.23,26.3,6547,10.17,7.8,0,73
+"Egypt, Arab Rep.",Africa,2001,0.13,27.8,2652,70.15,4.9,0,68.8
+Papua New Guinea,Oceania,2014,1.35,25.4,2565,7.95,4.3,0,63.2
+Ireland,European Union,2000,13.84,26.3,41623,3.81,10.8,1,76.5
+Bhutan,Asia,2010,0.23,23.3,2235,0.69,2.3,0,68.4
+Comoros,Africa,2001,0.1,22.9,1188,0.56,3,0,59.5
+Chile,South America,2014,7.92,27.8,13367,17.76,10.1,0,79.5
+Syrian Arab Republic,Middle East,2006,0.75,27.4,1550,19.06,6.2,0,74.4
+Cambodia,Asia,2009,1.42,21.5,855,14.09,3.7,0,66
+Serbia,Rest of Europe,2004,9.17,25.5,4162,7.46,10,0,72.7
+Belgium,European Union,2002,11.29,25.6,36393,10.33,10.3,1,78.1
+Belize,Central America and Caribbean,2004,6.07,27.8,4830,0.28,10.3,0,69.7
+Costa Rica,Central America and Caribbean,2000,4.24,25.8,7678,3.96,8,0,77.5
+Romania,European Union,2007,11.06,25.6,7450,20.88,10.5,1,72.6
+Cuba,Central America and Caribbean,2008,4.25,25.1,6501,11.24,10.6,0,78.2
+Honduras,Central America and Caribbean,2014,2.42,26.5,2256,8.96,6.2,0,74.3
+Trinidad and Tobago,Central America and Caribbean,2007,6.03,26.7,18076,1.31,10.5,0,71.2
+Botswana,Africa,2004,4.91,23.9,4860,1.77,8.1,0,51.2
+St. Vincent and the Grenadines,Central America and Caribbean,2005,6.37,26,6465,0.11,7.9,0,71.3
+Bolivia,South America,2003,2.32,25.1,2083,8.91,7.1,0,64.2
+Paraguay,South America,2002,4.81,25.1,3725,5.53,6.5,0,71
+"Bahamas, The",Central America and Caribbean,2014,9.22,27.8,31689,0.37,11.1,0,72.8
+Costa Rica,Central America and Caribbean,2004,4.08,26.2,8395,4.23,7.9,0,78
+Malta,European Union,2001,5.99,26.9,16860,0.39,8.2,1,78.8
+Malawi,Africa,2000,1.36,21.7,294,11.15,3,0,45.1
+Finland,European Union,2006,10.15,25.9,44074,5.27,12,1,79.2
+Montenegro,Rest of Europe,2007,9.68,25.8,5798,0.62,10.8,0,74.3
+"Egypt, Arab Rep.",Africa,2004,0.14,28.1,2759,74.17,5.4,0,69.3
+United Arab Emirates,Middle East,2010,1.69,28,32535,8.55,9.9,0,76.3
+Iceland,Rest of Europe,2006,7.2,25.9,50732,0.3,10.2,1,81.2
+Malaysia,Asia,2013,0.55,25.4,9179,29.47,10.1,0,75.1
+Antigua and Barbuda,Central America and Caribbean,2002,6.67,25.3,13171,0.08,9,0,74.4
+Central African Republic,Africa,2002,1.6,21.7,477,3.8,3,0,44.1
+Timor-Leste,Oceania,2013,0.48,21,1287,1.15,4.5,0,68
+Serbia,Rest of Europe,2010,8.87,25.8,5206,7.29,10.4,0,74.3
+Hungary,European Union,2001,13.18,26,9357,10.19,10.3,1,72.2
+Malaysia,Asia,2005,0.49,24.5,7275,25.69,7.6,0,73.6
+Botswana,Africa,2015,6.14,24.3,6403,2.12,9.2,0,67.3
+Chad,Africa,2005,0.46,21.3,676,10.1,1.5,0,48.5
+Malawi,Africa,2002,1.25,21.9,271,11.71,3.2,0,45.5
+Sierra Leone,Africa,2012,3.19,22.6,627,6.71,3.2,0,51
+Mali,Africa,2005,0.55,22.1,688,12.78,1.7,0,52.1
+Bangladesh,Asia,2007,0.004,20.8,856,142.66,4.7,0,68.6
+Latvia,European Union,2015,10.8,26.6,13786,1.98,12.8,1,74.5
+Angola,Africa,2002,2.08,21.9,2031,17.52,4.4,0,47.7
+Jamaica,Central America and Caribbean,2003,3.43,25.9,5083,2.71,7.8,0,74.1
+Zambia,Africa,2005,2.41,21.8,918,11.86,6.3,0,48.5
+Kyrgyz Republic,Asia,2002,5.84,24.9,742,4.99,10,0,68.2
+Zimbabwe,Africa,2000,1.89,23.3,1697,11.88,6.5,0,44.6
+China,Asia,2003,2.89,22.6,2797,1288.4,6.7,0,72.4
+Nepal,Asia,2015,0.24,22.4,902,27.02,4.7,0,69.5
+Chad,Africa,2004,0.42,21.2,598,9.73,1.4,0,48.3
+Afghanistan,Asia,2014,0.01,23.2,565,33.37,3.5,0,63
+Cuba,Central America and Caribbean,2001,4.05,24.6,4222,11.16,9.7,0,76.9
+Tanzania,Africa,2014,7.43,23.1,920,49.96,5.6,0,62.3
+Ecuador,South America,2013,3.78,26.9,6084,15.71,8.3,0,75.7
+Djibouti,Africa,2011,0.39,23.9,1452,0.85,4,0,60.7
+Slovenia,European Union,2003,11.55,25.6,17803,2,11.5,1,76.9
+Grenada,Central America and Caribbean,2004,8.68,25.8,7578,0.1,7.7,0,73.1
+"Congo, Dem. Rep.",Africa,2015,4.47,21.9,497,76.24,6.4,0,59.3
+Cuba,Central America and Caribbean,2002,4.1,24.7,4269,11.2,9.5,0,77.1
+Maldives,Asia,2013,1.16,25,8955,0.42,5.7,0,77
+Cote d'Ivoire,Africa,2004,0.85,23,1583,17.97,3.6,0,49.8
+Nigeria,Africa,2001,11.17,22.4,1499,125.39,5.2,0,46.5
+Nicaragua,Central America and Caribbean,2008,3.59,26.5,1709,5.67,5.8,0,71.9
+Grenada,Central America and Caribbean,2006,9.26,26,8195,0.1,7.9,0,73.1
+Iraq,Middle East,2007,0.15,27.7,3627,27.91,6.1,0,68.1
+Myanmar,Asia,2007,0.75,21.8,682,49.62,3.8,0,62.3
+Panama,Central America and Caribbean,2007,5.46,26.2,9169,3.45,9.2,0,76.2
+Bahrain,Middle East,2011,1.66,25,20774,1.28,8.6,0,76.2
+Djibouti,Africa,2001,1.33,23.6,781,0.73,3.3,0,57.1
+Japan,Asia,2004,7.69,22.6,32515,127.76,11.1,1,82
+Namibia,Africa,2004,1.89,23.3,3647,1.91,5.9,0,50.6
+Cabo Verde,Africa,2001,3.86,23.4,1983,0.44,3.7,0,69.1
+Uganda,Africa,2003,11.37,21.4,573,25.98,4.3,0,49.4
+Kazakhstan,Asia,2007,3.99,25.9,8438,15.48,11.6,0,66.3
+St. Lucia,Central America and Caribbean,2012,9.62,29.1,10531,0.18,8.4,0,75.1
+Cabo Verde,Africa,2000,3.49,23.3,1974,0.43,3.5,0,68.6
+Germany,European Union,2008,11.37,26.2,38278,82.11,13.7,1,79.7
+Belarus,Rest of Europe,2015,9.79,26.6,5967,9.46,12.2,0,73.6
+Honduras,Central America and Caribbean,2010,2.69,26.1,2121,8.32,5.4,0,73.3
+Senegal,Africa,2005,0.34,22.5,1134,11.09,2.4,0,60.6
+Cameroon,Africa,2007,5.22,23.8,1249,18.73,5.2,0,53.7
+Philippines,Asia,2012,4.96,22.9,2611,97.21,9.1,0,70.1
+Maldives,Asia,2009,1.41,24.4,8222,0.35,4.7,0,75.5
+Nicaragua,Central America and Caribbean,2006,3.64,26.4,1616,5.51,5.6,0,71.4
+Mongolia,Asia,2003,1.67,24.6,1784,2.47,8.4,0,64.2
+Iraq,Middle East,2001,0.19,27.1,4284,24.21,5.2,0,69
+Haiti,Central America and Caribbean,2011,2.36,24.7,1343,10.1,4.8,0,60.9
+Uruguay,South America,2013,6.42,27,15168,3.39,8.5,0,77.1
+Azerbaijan,Asia,2007,0.95,26.1,4327,8.58,10.2,0,69.8
+Pakistan,Asia,2002,0.014,22.7,1040,149.55,3.8,0,63.3
+Singapore,Asia,2000,2.02,23.4,34891,4.03,8.9,0,78
+Angola,Africa,2015,6.53,23.2,3128,27.88,5,0,59.4
+Azerbaijan,Asia,2004,0.63,25.9,2078,8.31,10.6,0,68.2
+Solomon Islands,Oceania,2014,0.95,26.1,2195,0.59,5.3,0,71.9
+Ukraine,Rest of Europe,2015,6.04,26.5,2125,45.15,11.3,0,71.2
+Senegal,Africa,2006,0.37,22.5,1130,11.38,2.4,0,61.4
+Bhutan,Asia,2012,0.32,23.5,2479,0.7,2.5,0,69.3
+Azerbaijan,Asia,2012,0.52,26.6,5195,9.3,10.7,0,71.5
+Serbia,Rest of Europe,2003,9.1,25.4,3808,7.48,9.9,0,72.4
+Niger,Africa,2009,0.1,21.5,424,15.84,1.4,0,56.6
+Haiti,Central America and Caribbean,2010,2.28,24.6,1297,9.95,4.7,0,60.5
+Slovak Republic,European Union,2006,10.89,25.8,12396,5.37,10.9,1,74.2
+"Bahamas, The",Central America and Caribbean,2007,9.92,27.3,35697,0.34,10.9,0,72
+Finland,European Union,2005,9.95,25.9,42531,5.25,12,1,78.8
+Denmark,European Union,2004,11.26,25.1,50792,5.4,12.8,1,77.5
+Tunisia,Africa,2010,1.26,25.9,3955,10.64,6.7,0,75
+Thailand,Asia,2007,6.12,23.5,4827,66.18,7.1,0,72.9
+France,European Union,2009,12.66,25,35131,64.71,10.8,1,81.4
+Samoa,Oceania,2013,1.84,31.8,3961,0.19,10.3,0,72.4
+Nepal,Asia,2005,0.22,21.2,616,25.74,2.8,0,65.3
+Panama,Central America and Caribbean,2013,6.21,26.7,12695,3.84,9.7,0,77.4
+Ireland,European Union,2011,11.49,27.2,46221,4.58,10.9,1,80.7
+"Yemen, Rep.",Middle East,2001,0.08,22.4,2404,17.92,1.3,0,61.2
+Germany,European Union,2007,11.51,26.2,37842,82.27,13.7,1,79.5
+Tajikistan,Asia,2010,0.68,25.2,783,7.53,10.9,0,68.7
+Nicaragua,Central America and Caribbean,2005,3.65,26.3,1573,5.44,5.5,0,71.2
+Costa Rica,Central America and Caribbean,2015,3.19,27.3,11643,4.85,8.8,0,79.6
+Chad,Africa,2002,0.4,21.1,421,9.02,1.4,0,47.9
+Libya,Africa,2011,0.01,27.7,6670,6.25,7.3,0,72
+Norway,Rest of Europe,2004,6.22,26,71655,4.59,12.7,1,79.8
+France,European Union,2011,12.35,25.1,36246,65.34,10.9,1,82.1
+Honduras,Central America and Caribbean,2007,2.94,25.7,2141,7.81,5,0,72.5
+Iraq,Middle East,2006,0.035,27.6,3620,27.45,5.9,0,68.2
+St. Lucia,Central America and Caribbean,2008,12.05,28.4,10528,0.17,7.8,0,74.6
+Paraguay,South America,2009,6.06,25.9,4350,6.16,7,0,72.5
+Sweden,European Union,2009,7.31,25.7,46043,9.3,12.2,1,81.4
+Bulgaria,European Union,2002,10.8,25.4,4260,7.84,10,1,71.9
+Slovenia,European Union,2004,10.01,25.6,18568,2,12,1,77.2
+Montenegro,Rest of Europe,2011,9.02,26.1,6169,0.62,11.1,0,76
+Madagascar,Africa,2006,0.59,20.9,482,18.88,5.7,0,61.7
+Zimbabwe,Africa,2011,3.91,23.7,1249,12.89,7.3,0,52.9
+Romania,European Union,2011,9.58,26.2,7810,20.15,10.8,1,74.4
+Senegal,Africa,2013,0.19,22.9,1141,13.78,2.8,0,65.9
+Netherlands,European Union,2005,9.5,25.3,42202,16.32,11.6,1,79.3
+Romania,European Union,2002,13.15,25,5225,21.73,9.6,1,71
+Estonia,European Union,2005,16.58,25.8,14631,1.35,12.1,1,72.6
+Liberia,Africa,2000,4.47,23,776,2.85,3.5,0,51.7
+Ethiopia,Africa,2012,0.54,20.4,518,92.73,2.4,0,63.3
+Brunei Darussalam,Asia,2008,0.65,26.2,33981,0.38,8.7,0,74.5
+Benin,Africa,2008,1.38,22.9,1001,8.7,2.8,0,58.7
+Germany,European Union,2011,11.33,26.4,39977,80.27,13.9,1,80.4
+Latvia,European Union,2012,10.2,26.4,12410,2.03,12.6,1,73.8
+"Congo, Dem. Rep.",Africa,2005,2.28,21.1,364,54.79,4.3,0,53.7
+Israel,Middle East,2015,2.74,27.2,35808,8.38,13,1,82.1
+Seychelles,Africa,2002,8.13,25.6,10714,0.08,7.6,0,71.1
+"Yemen, Rep.",Middle East,2005,0.038,22.8,2536,20.11,1.9,0,63.5
+New Zealand,Oceania,2015,8.68,28,38631,4.61,12.4,1,81.5
+Comoros,Africa,2003,0.26,23.1,1183,0.58,3,0,59.7
+New Zealand,Oceania,2012,9.17,27.8,36521,4.41,12.1,1,81.2
+Croatia,European Union,2009,11.11,26.6,11871,4.31,10.6,1,76.2
+Turkiye,Middle East,2004,1.48,27,7195,67.01,5.9,0,72
+Nepal,Asia,2011,0.25,21.9,754,27.04,3.3,0,68
+Azerbaijan,Asia,2001,0.5,25.6,1615,8.11,10.6,0,67.1
+France,European Union,2000,13.92,24.8,33597,60.91,9.8,1,79.1
+Germany,European Union,2014,11.07,26.5,40851,80.98,14,1,81.1
+Croatia,European Union,2003,12.99,25.9,10510,4.3,9.8,1,74.6
+Kyrgyz Republic,Asia,2006,6.78,25.4,837,5.22,10.2,0,67.7
+Vanuatu,Oceania,2006,1,25.8,2776,0.21,6.5,0,68.5
+Tonga,Oceania,2014,0.28,32.1,4276,0.1,11.1,0,70.4
+Sweden,European Union,2013,7.32,25.9,49049,9.6,12.2,1,82
+Mauritania,Africa,2001,0.012,23.8,1252,2.7,3,0,60.8
+Nicaragua,Central America and Caribbean,2010,3.33,26.7,1679,5.82,6,0,72.4
+Tanzania,Africa,2008,4.96,22.7,765,41.85,5,0,56.8
+Latvia,European Union,2007,12.12,26.1,13186,2.2,12.3,1,71
+"Congo, Rep.",Africa,2004,0.9,22.4,2080,3.51,5.8,0,54.7
+Seychelles,Africa,2006,6.43,25.9,11562,0.08,7.8,0,72.2
+Rwanda,Africa,2007,7.84,21.5,512,9.27,3.1,0,58.9
+Bosnia and Herzegovina,Rest of Europe,2001,4.11,24.8,2913,3.76,7.1,0,74.6
+Italy,European Union,2009,7.25,25.7,31615,59.1,9.6,1,81.6
+Sao Tome and Principe,Central America and Caribbean,2013,5.4,24.6,1486,0.19,5.2,0,68.7
+India,Asia,2010,2.73,21.4,1244,1234.28,5.4,0,66.7
+Guinea-Bissau,Africa,2003,3.07,22.4,550,1.28,2.3,0,51.5
+Guatemala,Central America and Caribbean,2012,1.91,26.2,3732,14.78,4.6,0,72.2
+Cyprus,European Union,2006,11.48,26.6,26394,1.05,10.9,1,78.8
+Germany,European Union,2009,11.23,26.3,36190,81.9,13.8,1,79.8
+Chad,Africa,2015,0.66,21.9,776,14.11,2.3,0,53.1
+"Venezuela, RB",South America,2008,8.41,26.5,11433,27.64,8.2,0,73.1
+Ireland,European Union,2013,10.51,27.3,46339,4.62,11.8,1,80.9
+Solomon Islands,Oceania,2015,1.01,26.2,2167,0.6,5.4,0,72.2
+Argentina,South America,2002,7.81,26.3,8943,37.68,9.2,0,73.9
+Spain,European Union,2006,11.86,26.2,26763,44.4,9,1,80.8
+Gabon,Africa,2011,8.01,24.8,7086,1.68,7.7,0,62.2
+Montenegro,Rest of Europe,2014,8.55,26.4,6307,0.62,11.3,0,76.4
+Serbia,Rest of Europe,2013,7.94,25.9,5525,7.16,10.4,0,75.2
+Portugal,European Union,2013,9.52,25.7,18585,10.46,8.6,1,80.7
+Somalia,Africa,2000,0,22.1,174,8.87,2.1,0,50.9
+"Gambia, The",Africa,2006,3.25,22.9,686,1.59,2.5,0,58.3
+Niger,Africa,2012,0.15,21.6,464,17.8,1.6,0,58.8
+Cambodia,Asia,2007,1.29,21.3,825,13.68,3.7,0,64.7
+Kiribati,Oceania,2006,0.69,29.3,1497,0.09,7.4,0,64.7
+Equatorial Guinea,Africa,2003,7.87,22.9,8745,0.69,5.4,0,54.1
+Israel,Middle East,2009,2.67,26.9,31323,7.49,12.6,1,81.4
+Kuwait,Middle East,2002,0.011,28.4,29591,2.14,6.1,0,73.3
+St. Vincent and the Grenadines,Central America and Caribbean,2004,5.77,25.9,6313,0.11,7.8,0,71.2
+Zambia,Africa,2001,2.8,21.6,794,10.69,6,0,44.6
+St. Vincent and the Grenadines,Central America and Caribbean,2009,6.98,26.5,7098,0.11,8.2,0,71.7
+Dominican Republic,Central America and Caribbean,2013,5.41,26.2,6187,10.05,7.6,0,72.8
+Jamaica,Central America and Caribbean,2014,3.2,27.5,4890,2.88,9.6,0,74
+"Iran, Islamic Rep.",Middle East,2008,0.026,25.6,5260,72.12,8.6,0,73
+Eritrea,Africa,2005,1.18,20.4,762,2.83,3.7,0,58.7
+Lao PDR,Asia,2010,6.1,22.2,1586,6.25,4.6,0,64.3
+Netherlands,European Union,2001,9.82,25.1,41087,16.05,11,1,78.2
+Bangladesh,Asia,2011,0,21.2,1024,149.27,5.1,0,70.3
+Mexico,North America,2002,4.92,26.9,8581,101.68,7,0,74.9
+"Iran, Islamic Rep.",Middle East,2000,0.012,25,3923,65.62,6.2,0,70.2
+Iraq,Middle East,2015,0.16,28.6,4688,35.57,6.6,0,69.9
+Lebanon,Middle East,2007,1.59,26.9,7295,4.77,7.8,0,77.6
+Pakistan,Asia,2006,0.034,23.1,1217,164.02,4.4,0,64.2
+Guinea-Bissau,Africa,2015,3.13,23.4,603,1.74,2.9,0,57
+Thailand,Asia,2004,6.1,23.2,4263,65,6.8,0,71.7
+Guatemala,Central America and Caribbean,2010,2.03,26,3606,14.26,4.9,0,71.5
+Kyrgyz Republic,Asia,2007,6.98,25.5,900,5.27,10.3,0,67.9
+Austria,European Union,2012,12.1,25.5,44550,8.43,11.8,1,80.9
+Mali,Africa,2013,0.58,22.8,701,16.45,2.2,0,56.6
+Bahrain,Middle East,2005,1.92,25.3,22344,0.89,8.4,0,75.3
+Russian Federation,Rest of Europe,2011,10.75,26.1,9124,142.96,11.6,0,69.7
+Guinea-Bissau,Africa,2005,3.69,22.6,562,1.34,2.3,0,52.3
+Turkmenistan,Asia,2006,2.54,25.3,3057,4.81,9.9,0,65.4
+St. Lucia,Central America and Caribbean,2009,11.06,28.6,10099,0.17,7.9,0,74.7
+Belarus,Rest of Europe,2012,13.56,26.4,6048,9.45,12,0,72
+Portugal,European Union,2007,11.54,25.8,19951,10.54,7.7,1,78.3
+Vanuatu,Oceania,2000,0.82,25.4,2837,0.18,6.5,0,67.4
+"Micronesia, Fed. Sts.",Oceania,2012,2.89,29.4,3076,0.1,7.7,0,66.8
+Pakistan,Asia,2007,0.034,23.2,1247,167.81,4.4,0,64.4
+Malawi,Africa,2005,1.45,22.1,289,12.63,3.4,0,47.8
+Indonesia,Asia,2002,0.054,21.8,1968,217.36,7,0,66.3
+Afghanistan,Asia,2013,0.01,23,569,32.27,3.5,0,62.5
+United States,North America,2000,8.3,27.5,48746,282.16,12.7,1,76.6
+Vanuatu,Oceania,2004,0.85,25.7,2553,0.2,6.5,0,68.2
+Sao Tome and Principe,Central America and Caribbean,2006,5.68,24.1,1282,0.16,4.5,0,65.3
+Zambia,Africa,2011,2.79,22.2,1244,14.02,6.7,0,57.1
+Papua New Guinea,Oceania,2008,0.77,24.9,1991,6.98,3.8,0,61.4
+Dominican Republic,Central America and Caribbean,2001,6.36,25,4249,8.6,6.5,0,69.7
+Equatorial Guinea,Africa,2011,9.38,23.6,14099,0.99,5.5,0,55.9
+Peru,South America,2010,5.23,26,5178,29.03,8.4,0,74.4
+Myanmar,Asia,2002,0.14,21.5,381,47.7,3.3,0,60.7
+"Congo, Dem. Rep.",Africa,2012,4.4,21.7,433,69.02,5.8,0,57.9
+Libya,Africa,2005,0.005,27.2,12760,5.8,6.4,0,71.9
+Indonesia,Asia,2008,0.071,22.3,2514,235.47,7.1,0,68.5
+Sierra Leone,Africa,2006,3.68,22.4,476,5.83,2.8,0,45.5
+Spain,European Union,2004,11.32,26.2,25655,42.92,8.6,1,79.9
+Armenia,Rest of Europe,2002,2.87,25.7,1619,3.03,10.8,0,72.1
+Hungary,European Union,2009,11.52,26.7,11167,10.02,11.7,1,73.9
+"Congo, Rep.",Africa,2005,0.86,22.5,2172,3.62,5.8,0,55.6
+"Yemen, Rep.",Middle East,2010,0.06,23.3,2722,23.15,2.6,0,65.5
+Trinidad and Tobago,Central America and Caribbean,2010,5.79,27,18189,1.33,10.7,0,71.9
+Albania,Rest of Europe,2005,4.98,25.6,2676,3.01,9.1,0,75.2
+Israel,Middle East,2014,2.71,27.2,35711,8.22,12.9,1,82.2
+Colombia,South America,2000,4.52,24.8,3962,39.63,6.5,0,72.9
+Honduras,Central America and Caribbean,2002,2.92,25,1810,6.93,4.5,0,71.2
+Mozambique,Africa,2007,0.69,22.1,429,21.67,3,0,50.9
+Central African Republic,Africa,2001,1.67,21.6,470,3.72,2.9,0,44.1
+Kazakhstan,Asia,2003,6.22,25.7,6046,14.91,11.2,0,65.7
+Kiribati,Oceania,2013,0.73,29.8,1453,0.11,7.9,0,66.7
+Ethiopia,Africa,2010,0.4,20.3,453,87.64,2.3,0,61.6
+United Kingdom,Rest of Europe,2013,9.42,27.1,43621,64.13,12.6,1,81
+Belize,Central America and Caribbean,2005,6.1,27.9,4809,0.28,10.3,0,70
+Kuwait,Middle East,2003,0.012,28.5,34322,2.16,6.1,0,73.4
+Niger,Africa,2001,0.093,20.9,413,11.75,1.1,0,50.6
+Kuwait,Middle East,2001,0.013,28.4,29186,2.1,6.2,0,73.2
+St. Vincent and the Grenadines,Central America and Caribbean,2012,6.81,26.8,6810,0.11,8.5,0,71.9
+Morocco,Africa,2010,0.47,25.4,2534,32.34,4.2,0,74.4
+Greece,European Union,2004,9.1,26.9,22118,10.96,9.6,1,79
+Ireland,European Union,2012,11.38,27.2,46001,4.6,11.3,1,80.8
+Benin,Africa,2007,1.23,22.8,981,8.45,2.8,0,58.3
+Luxembourg,European Union,2001,13.1,25.6,94244,0.44,10.5,1,77.8
+Mali,Africa,2000,0.58,21.5,572,10.95,1.2,0,48.1
+Namibia,Africa,2013,2.45,24,4588,2.23,6.6,0,60.5
+Uruguay,South America,2014,6.15,27.1,15609,3.4,8.6,0,77.2
+Djibouti,Africa,2009,0.47,23.8,1267,0.83,3.9,0,59.6
+Seychelles,Africa,2013,8.32,26.5,14260,0.09,9.1,0,73.1
+Turkiye,Middle East,2014,1.39,27.7,10550,77.23,7.6,0,76.2
+Sri Lanka,Asia,2011,3.03,22.6,3177,20.4,10.8,0,75.6
+Mexico,North America,2009,4.37,27.5,8569,112.46,8.2,0,75.1
+Cuba,Central America and Caribbean,2013,4.35,25.4,7318,11.28,11,0,78.5
+France,European Union,2003,13.45,24.9,34190,62.24,10.2,1,79.1
+Uganda,Africa,2012,8.79,22.1,818,34.56,5.3,0,59
+Eswatini,Africa,2009,5.65,26.3,3206,1.06,5.6,0,45.3
+Mongolia,Asia,2002,2.41,24.5,1685,2.44,8.4,0,63.8
+Nigeria,Africa,2003,11.33,22.5,1764,131.9,5.2,0,47.2
+Azerbaijan,Asia,2002,0.55,25.7,1754,8.17,10.6,0,67.4
+Mauritania,Africa,2005,0.014,24.2,1379,3.02,3.4,0,61.3
+Israel,Middle East,2013,2.9,27.1,34961,8.06,12.8,1,82.1
+Syrian Arab Republic,Middle East,2008,0.75,27.5,1579,20.66,6.3,0,73.6
+Armenia,Rest of Europe,2014,4.22,26.2,3511,2.91,11.5,0,74.3
+Equatorial Guinea,Africa,2012,9.79,23.7,14614,1.03,5.5,0,56.3
+Turkmenistan,Asia,2012,3,26.1,5250,5.27,9.8,0,67.2
+Kazakhstan,Asia,2011,3.41,26.1,9507,16.56,11.5,0,68.7
+Uzbekistan,Asia,2000,3.03,24.8,1277,24.65,9.1,0,67.2
+Namibia,Africa,2002,1.99,23.1,3211,1.85,5.8,0,50.9
+Honduras,Central America and Caribbean,2015,2.49,26.7,2302,9.11,6.3,0,74.5
+Hungary,European Union,2011,11.37,26.9,11557,9.97,12,1,74.9
+Croatia,European Union,2010,10.71,26.7,11749,4.3,10.8,1,76.5
+Equatorial Guinea,Africa,2006,8.7,23.2,13283,0.78,5.4,0,54.6
+Gabon,Africa,2006,7.77,24.4,7092,1.43,7,0,58.6
+Slovak Republic,European Union,2004,10.52,25.7,10717,5.37,10.6,1,74
+Lesotho,Africa,2004,1.78,24.3,804,2.01,5.2,0,43.1
+Uganda,Africa,2001,11.8,21.2,527,24.39,4,0,47.2
+Libya,Africa,2014,0.01,27.9,7723,6.36,7.3,0,72
+Ukraine,Rest of Europe,2001,7.31,25.7,1561,48.66,10.4,0,67.8
+St. Lucia,Central America and Caribbean,2011,9.94,28.9,10619,0.18,8.4,0,75
+Guinea,Africa,2015,0.38,22.9,769,11.43,2.6,0,59.6
+Sweden,European Union,2006,6.81,25.6,47865,9.08,12.4,1,80.7
+Sao Tome and Principe,Central America and Caribbean,2014,5.63,24.7,1554,0.2,5.3,0,69.1
+Poland,European Union,2010,10.07,26.1,10859,38.04,12.2,1,76.2
+Jordan,Middle East,2003,0.5,28,3923,5.43,9.7,0,72.3
+Italy,European Union,2000,9.78,25.4,32351,56.94,8.6,1,79.8
+Samoa,Oceania,2002,3.29,30.7,3433,0.18,9.1,0,69.5
+Chile,South America,2013,7.23,27.7,13272,17.57,9.9,0,79.3
+Saudi Arabia,Middle East,2004,0.059,27.7,18220,23.13,7.5,0,73.2
+Malaysia,Asia,2003,0.51,24.2,6728,24.7,8,0,73.2
+Belarus,Rest of Europe,2003,11.17,25.9,3139,9.8,9.1,0,68.6
+Iceland,Rest of Europe,2008,7.19,26,53821,0.32,10.4,1,81.6
+Italy,European Union,2007,8.37,25.7,34081,58.44,9.4,1,81.4
+Dominican Republic,Central America and Caribbean,2003,6.53,25.2,4256,8.85,6.8,0,70.2
+Canada,North America,2009,8.4,26.8,40368,33.63,12.5,1,81
+Argentina,South America,2001,7.76,26.2,10146,37.28,9.1,0,73.8
+Papua New Guinea,Oceania,2011,0.81,25.1,2211,7.47,4.1,0,62.3
+Sweden,European Union,2015,7.13,26,51545,9.8,12.4,1,82.2
+Singapore,Asia,2007,1.59,23.5,46180,4.59,10.2,0,80.4
+Central African Republic,Africa,2006,1.7,22.1,467,4.12,3.3,0,45.2
+"Iran, Islamic Rep.",Middle East,2004,0.012,25.4,4683,68.95,6.9,0,71.6
+Greece,European Union,2006,8.68,27,23369,11.02,9.9,1,79.4
+Bosnia and Herzegovina,Rest of Europe,2005,4.5,25,3502,3.77,7.4,0,75.2
+Germany,European Union,2005,11.68,26.1,35310,82.47,13.3,1,78.9
+Panama,Central America and Caribbean,2009,6.14,26.4,9840,3.58,9.3,0,76.6
+Indonesia,Asia,2015,0.08,23,3332,258.38,7.9,0,70.8
+Ireland,European Union,2010,11.57,27.1,45932,4.56,12.2,1,80.7
+Belize,Central America and Caribbean,2001,4.77,27.5,4353,0.26,10.1,0,69
+Equatorial Guinea,Africa,2004,8.11,23,11559,0.72,5.4,0,54.3
+"Congo, Rep.",Africa,2009,1.3,22.7,2272,4.15,6,0,59.3
+Cameroon,Africa,2005,4.9,23.6,1218,17.73,5.1,0,52.8
+Austria,European Union,2006,12.58,25.3,42496,8.27,10.1,1,79.9
+"Congo, Dem. Rep.",Africa,2008,3.23,21.4,392,60.41,5,0,55.7
+Suriname,South America,2013,5.84,26.3,9673,0.55,8.1,0,71
+Cyprus,European Union,2003,10.62,26.5,23929,0.99,10.4,1,78.4
+Cyprus,European Union,2000,9.56,26.3,22382,0.94,10,1,78
+Afghanistan,Asia,2008,0.028,22.5,399,27.72,3,0,59.9
+Estonia,European Union,2000,9.03,25.4,9960,1.4,11.7,1,70.4
+Armenia,Rest of Europe,2007,3.91,25.9,3093,2.93,11,0,72.8
+"Bahamas, The",Central America and Caribbean,2000,11.93,26.7,35794,0.3,10.9,0,71.9
+Austria,European Union,2003,12.31,25.1,39815,8.12,9.6,1,78.6
+Vietnam,Asia,2011,2.46,21.2,2123,88.87,7.6,0,74.9
+Norway,Rest of Europe,2009,6.68,26.3,72823,4.83,12.7,1,80.8
+Kiribati,Oceania,2011,0.54,29.7,1366,0.1,7.9,0,66.1
+Sao Tome and Principe,Central America and Caribbean,2011,6.31,24.5,1431,0.18,5,0,67.9
+Kazakhstan,Asia,2008,3.42,25.9,8555,15.78,11.5,0,67.1
+Mozambique,Africa,2014,1.08,22.6,569,26.29,3.4,0,56.1
+Dominican Republic,Central America and Caribbean,2015,5.39,26.4,6922,10.28,7.8,0,73.2
+"Congo, Dem. Rep.",Africa,2013,4.43,21.8,454,71.36,6,0,58.4
+Djibouti,Africa,2000,1.24,23.5,768,0.72,3.2,0,57
+Slovenia,European Union,2008,10.94,25.9,22297,2.02,11.9,1,78.8
+Benin,Africa,2013,1.43,23.3,1052,10,3.2,0,60.1
+Hungary,European Union,2014,10.92,27.1,12237,9.87,11.8,1,75.8
+Slovenia,European Union,2006,12.26,25.8,20280,2.01,11.8,1,78.1
+Nicaragua,Central America and Caribbean,2003,3.72,26.1,1472,5.29,5.3,0,70.6
+"Bahamas, The",Central America and Caribbean,2013,9.23,27.8,31408,0.37,11.1,0,72.6
+Mauritania,Africa,2000,0.03,23.7,1296,2.63,3,0,60.7
+Guatemala,Central America and Caribbean,2000,2.52,25,3195,11.59,3.7,0,67.8
+China,Asia,2010,5.75,23.2,5647,1337.71,7.3,0,74.4
+Cameroon,Africa,2006,5.1,23.7,1230,18.22,5.2,0,53.2
+Lithuania,European Union,2008,13.79,26.3,12425,3.2,12.2,1,71.8
+Mexico,North America,2015,4.24,27.9,9617,121.86,8.6,0,74.9
+Cabo Verde,Africa,2003,4.21,23.6,2106,0.45,4,0,69.9
+Iraq,Middle East,2005,0.18,27.5,3493,26.92,5.8,0,68.3
+Grenada,Central America and Caribbean,2005,8.85,25.9,8559,0.1,7.8,0,73.1
+Colombia,South America,2003,4.14,25.1,4099,41.48,6.5,0,73.8
+Sao Tome and Principe,Central America and Caribbean,2001,5.1,23.6,1081,0.14,4.3,0,62
+Slovak Republic,European Union,2000,11.33,25.5,8915,5.39,10.3,1,73.1
+Botswana,Africa,2006,7.14,24,5295,1.84,8.4,0,53.4
+Czechia,European Union,2015,12.76,27,17830,10.55,12.7,1,78.6
+Denmark,European Union,2014,9.55,25.3,52405,5.64,12.8,1,80.7
+Mauritius,Africa,2010,3.15,25,7818,1.25,8.2,0,73
+Benin,Africa,2015,1.53,23.5,1077,10.58,3.5,0,60.6
+"Gambia, The",Africa,2014,2.68,23.8,654,2.02,3.3,0,60.7
+Algeria,Africa,2009,0.43,25,3851,35.33,6.9,0,74.6
+Poland,European Union,2003,9.06,25.6,7878,38.2,11.5,1,74.6
+Burundi,Africa,2014,3.95,21.6,328,9.84,2.8,0,59.7
+Bangladesh,Asia,2004,0.004,20.5,733,136.99,4.5,0,67.3
+Barbados,Central America and Caribbean,2002,7.59,26.6,15905,0.27,9.1,0,77.5
+Spain,European Union,2001,12.01,26.1,24708,40.85,8.5,1,79.4
+Uzbekistan,Asia,2010,1.74,26,2131,28.56,10.7,0,69.7
+Turkmenistan,Asia,2014,3.24,26.3,6149,5.47,9.8,0,67.6
+Central African Republic,Africa,2008,1.73,22.2,480,4.27,3.4,0,46.2
+Cuba,Central America and Caribbean,2004,4.36,24.8,4665,11.25,9.8,0,77.5
+Togo,Africa,2013,1.21,23.3,537,6.95,4.5,0,59.2
+St. Vincent and the Grenadines,Central America and Caribbean,2015,7.41,27.1,7207,0.11,8.6,0,72.1
+Montenegro,Rest of Europe,2008,10.89,25.9,6206,0.62,10.9,0,75.1
+Malaysia,Asia,2002,0.52,24.1,6488,24.21,8.2,0,73
+Sri Lanka,Asia,2005,1.97,22,2245,19.54,10.4,0,74.7
+Uzbekistan,Asia,2013,1.95,26.4,2487,30.24,11.3,0,70.4
+Greece,European Union,2014,7.06,27.1,18000,10.89,10.5,1,81.4
+Serbia,Rest of Europe,2008,9.59,25.7,5271,7.35,10.4,0,73.9
+Mauritania,Africa,2014,0,24.8,1489,3.93,4.3,0,63.7
+Bolivia,South America,2002,2.24,24.9,2066,8.74,7.2,0,63.6
+Rwanda,Africa,2011,6.66,21.7,631,10.29,3.8,0,64.5
+Lebanon,Middle East,2006,1.65,26.8,6684,4.76,7.6,0,77.3
+Turkiye,Middle East,2012,1.47,27.6,9587,74.65,7.5,0,75.4
+Jamaica,Central America and Caribbean,2013,3.16,27.4,4884,2.86,9.4,0,74
+Moldova,Rest of Europe,2014,7.4,26.9,2720,2.86,11.6,0,71.3
+Belgium,European Union,2014,10.57,26.1,40421,11.21,11.5,1,81.3
+Serbia,Rest of Europe,2014,7.19,26,5463,7.13,10.7,0,75.3
+India,Asia,2012,3.04,21.5,1347,1265.78,5.6,0,67.5
+Nicaragua,Central America and Caribbean,2013,3.55,27,1916,6.06,6.4,0,73.2
+Japan,Asia,2011,8.41,22.7,33011,127.83,11.8,1,82.6
+Bahrain,Middle East,2012,1.72,24.9,21188,1.3,8.8,0,76.3
+Mauritius,Africa,2003,4.02,24.7,6022,1.21,6.8,0,72.1
+Djibouti,Africa,2005,1.22,23.7,905,0.78,3.7,0,58
+Poland,European Union,2001,7.74,25.5,7451,38.25,11.1,1,74.2
+Netherlands,European Union,2008,9.51,25.4,45939,16.45,12,1,80.3
+Sweden,European Union,2003,6.88,25.4,43195,8.96,11.8,1,80.1
+Lebanon,Middle East,2014,1.18,27.5,7938,6.26,8.4,0,78.7
+Finland,European Union,2012,9.27,26,43637,5.41,12.4,1,80.6
+Belarus,Rest of Europe,2004,12.08,26,3522,9.73,9.2,0,69
+Czechia,European Union,2013,12.54,27,16594,10.51,12.6,1,78.2
+Bhutan,Asia,2009,0.15,23.2,2018,0.68,2.3,0,67.9
+Equatorial Guinea,Africa,2001,6.79,22.7,6983,0.63,5.4,0,53.6
+Montenegro,Rest of Europe,2002,10.24,25.4,4529,0.61,10.3,0,73.2
+Albania,Rest of Europe,2011,5.03,26.2,3678,2.91,9.3,0,76.9
+Kuwait,Middle East,2005,0.013,28.7,39850,2.27,5.8,0,73.5
+"Gambia, The",Africa,2001,3.28,22.1,747,1.36,2.1,0,56.4
+Kiribati,Oceania,2015,0.35,30,1535,0.11,7.9,0,67.3
+Burundi,Africa,2012,4.33,21.4,319,9.25,2.7,0,58.6
+"Micronesia, Fed. Sts.",Oceania,2006,1.73,29.1,3042,0.11,6.3,0,65.7
+Angola,Africa,2007,4.68,22.5,2845,20.91,4.5,0,52.2
+Israel,Middle East,2008,2.59,26.8,31718,7.31,12.6,1,81
+El Salvador,Central America and Caribbean,2013,2.35,27.4,3591,6.27,6.6,0,71.9
+Montenegro,Rest of Europe,2006,10.38,25.8,5436,0.62,10.7,0,73.8
+El Salvador,Central America and Caribbean,2007,2.73,26.8,3308,6.11,5.8,0,70.5
+United States,North America,2012,8.85,28.6,54213,313.88,13.3,1,78.7
+Bulgaria,European Union,2006,10.18,25.7,5629,7.6,10.4,1,72.6
+Brazil,South America,2015,6.63,26.5,8814,204.47,7.6,0,75
+Spain,European Union,2013,8.55,26,24361,46.62,9.5,1,83.1
+Guyana,South America,2015,5.48,26.3,5577,0.77,8.4,0,69.3
+Oman,Middle East,2001,0.54,25.5,21296,2.29,5.6,0,72.6
+Dominican Republic,Central America and Caribbean,2012,5.49,26.1,5969,9.93,7.5,0,72.5
+Angola,Africa,2006,4.02,22.4,2589,20.15,4.5,0,51.1
+Cambodia,Asia,2000,0.6,20.7,487,12.16,3.2,0,58.4
+Ghana,Africa,2005,0.56,23.2,1176,21.81,6.4,0,58.7
+Canada,North America,2001,7.6,26.4,34227,31.02,11.2,1,79.3
+Japan,Asia,2000,7.96,22.5,31431,126.84,10.7,1,81.1
+Brazil,South America,2007,6.91,25.5,7937,190.13,6.5,0,72.6
+Saudi Arabia,Middle East,2002,0.056,27.6,16095,21.81,7,0,72.9
+Mongolia,Asia,2011,6.65,25.6,3028,2.77,9.8,0,67.8
+Dominican Republic,Central America and Caribbean,2011,5.47,26,5881,9.81,7.4,0,72.3
+Brazil,South America,2014,6.91,26.3,9215,202.76,7.4,0,74.7
+Ukraine,Rest of Europe,2013,8.73,26.4,2466,45.49,11.3,0,71.2
+Poland,European Union,2013,10.8,26.4,11656,38.04,12.1,1,77
+Ukraine,Rest of Europe,2009,8.97,26.2,2215,46.05,11.3,0,69.2
+Costa Rica,Central America and Caribbean,2003,4.05,26.1,8158,4.16,7.9,0,77.9
+El Salvador,Central America and Caribbean,2000,2.65,26,2993,5.89,5.2,0,68.9
+Chad,Africa,2014,0.68,21.8,780,13.66,2.2,0,52.8
+Tonga,Oceania,2007,2.05,31.7,3817,0.1,9.8,0,69.9
+Somalia,Africa,2010,0,22.8,296,12.04,2.1,0,54
+China,Asia,2015,5.66,23.7,8016,1379.86,7.7,0,75.9
+Albania,Rest of Europe,2002,3.96,25.3,2247,3.05,9,0,74.6
+Uruguay,South America,2007,6.51,26.4,11245,3.33,8.2,0,76.3
+Russian Federation,Rest of Europe,2006,11.83,26,7950,143.05,11.4,0,66.7
+Cyprus,European Union,2010,11.33,26.7,26020,1.11,11.5,1,79.4
+Eritrea,Africa,2015,1.03,20.7,9011,0.35,3.9,0,64.7
+Panama,Central America and Caribbean,2002,4.94,25.8,6881,3.15,8.7,0,75.4
+"Bahamas, The",Central America and Caribbean,2001,11.38,26.8,36178,0.3,10.9,0,72
+"Yemen, Rep.",Middle East,2007,0.05,23,2555,21.28,2.2,0,64.5
+Panama,Central America and Caribbean,2004,4.97,26,7427,3.27,8.9,0,75.7
+Guinea,Africa,2007,0.19,22.4,684,9.52,1.6,0,54.9
+Kuwait,Middle East,2015,0,29.5,29870,3.84,7.1,0,75.1
+Finland,European Union,2002,9.25,25.8,39351,5.2,9.5,1,78.1
+Croatia,European Union,2007,11.36,26.3,12550,4.31,10.1,1,75.7
+St. Lucia,Central America and Caribbean,2004,12.58,27.6,9800,0.16,7.4,0,74
+Burkina Faso,Africa,2001,5.53,21,456,11.94,1.3,0,50.9
+United States,North America,2009,8.67,28.4,51996,306.77,13.2,1,78.4
+Cabo Verde,Africa,2010,4.93,24.2,3011,0.49,5.1,0,71.1
+Poland,European Union,2004,9.19,25.7,8275,38.18,11.6,1,74.8
+Canada,North America,2015,8,26.9,43596,35.7,13.1,1,81.9
+Ethiopia,Africa,2005,0.21,20.1,310,76.35,1.9,0,56.2
+"Venezuela, RB",South America,2010,7.4,26.6,13825,28.44,8.9,0,73.1
+Namibia,Africa,2014,2.59,24.1,4782,2.27,6.7,0,61.4
+Ukraine,Rest of Europe,2010,7.77,26.3,2315,45.87,11.3,0,70.3
+Equatorial Guinea,Africa,2009,7.2,23.4,15906,0.9,5.5,0,55.3
+Mongolia,Asia,2010,7.73,25.4,2630,2.72,9.5,0,67.4
+United States,North America,2001,8.25,27.7,48727,284.97,12.7,1,76.8
+Belarus,Rest of Europe,2002,11.78,25.8,2912,9.87,9.1,0,68.1
+Myanmar,Asia,2011,1.09,22.2,963,50.99,4.3,0,64
+Grenada,Central America and Caribbean,2015,8.2,26.9,9097,0.11,8.7,0,72.4
+Nigeria,Africa,2002,11.09,22.5,1685,128.6,5.2,0,46.8
+China,Asia,2007,3.89,22.9,4319,1317.89,7,0,73.6
+"Venezuela, RB",South America,2011,6.88,26.6,10956,28.89,9.8,0,73.1
+Antigua and Barbuda,Central America and Caribbean,2009,7.64,26,15402,0.09,9.3,0,75.7
+Timor-Leste,Oceania,2008,0.062,20.5,1020,1.06,4,0,66.3
+Afghanistan,Asia,2006,0.026,22.3,354,26.43,2.7,0,58.8
+Peru,South America,2009,5.04,25.9,4819,28.79,8.4,0,74.1
+Guyana,South America,2011,5.64,25.9,5089,0.75,8.2,0,68.3
+Senegal,Africa,2010,0.18,22.7,1150,12.68,2.4,0,64.3
+"Egypt, Arab Rep.",Africa,2011,0.19,28.9,3473,84.53,6.7,0,70.5
+Angola,Africa,2001,1.94,21.8,1847,16.95,4.4,0,47.1
+Italy,European Union,2014,7.56,25.6,29980,60.79,10.1,1,83.1
+Slovak Republic,European Union,2011,10.27,26.1,14890,5.4,12.1,1,76
+Algeria,Africa,2013,0.5,25.3,4043,38.14,7.8,0,75.7
+United Kingdom,Rest of Europe,2005,11.38,26.7,43137,60.4,12.2,1,79
+El Salvador,Central America and Caribbean,2003,2.91,26.4,3060,5.99,5.7,0,69.7
+Cameroon,Africa,2009,5.72,23.9,1247,19.79,5.2,0,54.6
+Albania,Rest of Europe,2015,4.33,26.6,3953,2.88,9.7,0,78
+Cameroon,Africa,2014,4.7,24.2,1344,22.68,6,0,57.1
+Lesotho,Africa,2015,3.07,24.9,1146,2.06,6.1,0,51
+Rwanda,Africa,2004,7.83,21.2,425,8.68,2.7,0,53.6
+Switzerland,Rest of Europe,2005,10.15,25,76785,7.44,12,1,81.2
+Mozambique,Africa,2010,0.79,22.3,480,23.53,3.2,0,52.3
+Cambodia,Asia,2002,0.75,20.8,539,12.64,3.3,0,60.3
+Liberia,Africa,2006,4.06,23.5,578,3.33,3.8,0,56.4
+Suriname,South America,2003,4.7,25.6,6816,0.49,7.7,0,68.3
+Namibia,Africa,2001,2.29,23,3111,1.82,5.8,0,51.4
+Uganda,Africa,2013,8.12,22.2,821,35.69,5.4,0,59.9
+Nepal,Asia,2008,0.2,21.6,675,26.67,3.1,0,66.7
+Saudi Arabia,Middle East,2015,0,28.4,20628,31.72,9.5,0,74.7
+India,Asia,2015,3,21.7,1606,1310.15,6.3,0,68.6
+Czechia,European Union,2012,12.83,26.9,16607,10.51,12.4,1,78.1
+Luxembourg,European Union,2002,12.88,25.7,96270,0.45,10.7,1,78
+Cameroon,Africa,2010,5.88,24,1248,20.34,5.3,0,55.1
+Cyprus,European Union,2004,13.03,26.5,24798,1.01,10.5,1,78.5
+Montenegro,Rest of Europe,2009,10.17,26,5834,0.62,11,0,75.1
+Peru,South America,2007,4.51,25.7,4439,28.33,8.1,0,73.5
+Djibouti,Africa,2002,1.11,23.6,791,0.75,3.4,0,57.2
+Colombia,South America,2013,4.32,26,5867,46.5,7.8,0,76.1
+Indonesia,Asia,2012,0.08,22.7,2981,248.45,7.6,0,69.9
+South Africa,Africa,2004,7.2,26.5,5374,47.29,8.8,0,53.4
+Lithuania,European Union,2015,14.2,26.4,14264,2.9,13,1,74.3
+Czechia,European Union,2004,13.42,26.6,14070,10.2,11.6,1,75.7
+Italy,European Union,2008,7.96,25.7,33530,58.83,9.5,1,81.5
+New Zealand,Oceania,2011,9.45,27.7,35916,4.38,12,1,80.9
+Nigeria,Africa,2010,5.22,23,2404,158.5,5.2,0,50.9
+Thailand,Asia,2010,6.19,23.8,5164,67.2,7.7,0,74.2
+Bulgaria,European Union,2008,10.73,25.8,6460,7.49,10.5,1,73
+Central African Republic,Africa,2004,1.6,21.9,459,3.96,3.2,0,44.4
+Honduras,Central America and Caribbean,2001,2.61,24.9,1791,6.75,4.4,0,71
+Haiti,Central America and Caribbean,2008,3.49,24.3,1339,9.65,4.6,0,59.8
+Austria,European Union,2013,12.1,25.5,44299,8.48,11.9,1,81.1
+Dominican Republic,Central America and Caribbean,2000,6.72,24.9,4209,8.47,6.4,0,69.4
+Djibouti,Africa,2003,0.52,23.6,819,0.76,3.5,0,57.4
+Rwanda,Africa,2001,9.27,21,361,8.23,2.4,0,49.9
+Ghana,Africa,2013,1.78,23.8,1768,26.61,6.9,0,62.1
+Malta,European Union,2005,6.14,27.1,18134,0.4,9.8,1,79.3
+Chile,South America,2003,6.37,26.9,9233,15.85,9.4,0,77.1
+Saudi Arabia,Middle East,2013,0,28.3,20176,30.05,9.5,0,74.4
+Colombia,South America,2014,4.22,26,6069,46.97,8,0,76.3
+St. Vincent and the Grenadines,Central America and Caribbean,2007,6.2,26.3,7154,0.11,8.1,0,71.6
+Namibia,Africa,2003,2.29,23.2,3298,1.88,5.8,0,50.6
+Togo,Africa,2003,0.89,22.4,522,5.33,4.1,0,53.9
+"Yemen, Rep.",Middle East,2014,0.03,23.6,2283,25.82,3,0,66.1
+Bosnia and Herzegovina,Rest of Europe,2012,4.83,25.5,4216,3.6,8.3,0,76.4
+St. Lucia,Central America and Caribbean,2014,9.18,29.6,10280,0.18,8.7,0,75.4
+Maldives,Asia,2002,1.82,23.4,6832,0.29,3.2,0,71.7
+Armenia,Rest of Europe,2013,3.92,26.2,3407,2.9,11.4,0,74.1
+Uganda,Africa,2005,11.3,21.6,610,27.68,4.4,0,51.7
+Cyprus,European Union,2009,10.81,26.7,26182,1.1,11.3,1,79.2
+Afghanistan,Asia,2002,0.02,21.9,320,22.6,2.3,0,56.8
+Tonga,Oceania,2008,1.1,31.7,3967,0.1,10.1,0,69.9
+Zimbabwe,Africa,2003,1.96,23.4,1291,11.98,6.8,0,43.2
+Luxembourg,European Union,2000,13.21,25.6,92528,0.44,10.3,1,77.9
+Antigua and Barbuda,Central America and Caribbean,2010,7.16,26.1,13987,0.09,9.2,0,75.8
+Burkina Faso,Africa,2004,5.51,21.3,491,13.03,1.3,0,52.6
+St. Lucia,Central America and Caribbean,2006,13.02,28,10141,0.17,7.6,0,74.3
+Solomon Islands,Oceania,2006,1.01,25.4,1871,0.48,4.9,0,69.5
+Turkmenistan,Asia,2015,3.36,26.4,6433,5.57,9.8,0,67.7
+Qatar,Middle East,2005,1.08,28,57624,0.87,8.8,0,78.3
+Nigeria,Africa,2005,11.24,22.7,1948,138.87,5.2,0,48.3
+Kenya,Africa,2009,1.17,22.8,1261,40.9,6.1,0,59.9
+Lesotho,Africa,2008,2.91,24.5,962,1.99,5.4,0,43.4
+Indonesia,Asia,2004,0.054,22,2109,223.29,7.3,0,67
+Vietnam,Asia,2002,0.82,20.1,1295,81.53,5.8,0,73.4
+Bahrain,Middle East,2003,2.04,25.4,22336,0.78,8.4,0,75
+Paraguay,South America,2003,4.49,25.3,3816,5.63,7,0,71.2
+Antigua and Barbuda,Central America and Caribbean,2015,9.06,26.6,14285,0.09,9.2,0,76.5
+Burundi,Africa,2000,7.17,20.6,307,6.38,1.8,0,49.1
+Fiji,Oceania,2006,2.07,26.8,4620,0.83,9.3,0,66.4
+Malawi,Africa,2015,2.04,22.8,381,16.75,4.4,0,62
+Guinea,Africa,2005,0.2,22.2,661,9.11,1.6,0,53.2
+Comoros,Africa,2014,0.13,24.2,1258,0.76,4.8,0,63.2
+Rwanda,Africa,2013,6.15,21.9,683,10.81,3.8,0,66.2
+Antigua and Barbuda,Central America and Caribbean,2011,7.24,26.2,13525,0.09,9.2,0,76
+Turkmenistan,Asia,2007,2.23,25.4,3353,4.87,9.9,0,65.7
+Vanuatu,Oceania,2008,1.17,25.8,2877,0.22,6.6,0,68.8
+United Kingdom,Rest of Europe,2008,10.66,26.9,44121,61.81,12.8,1,79.6
+Kyrgyz Republic,Asia,2008,7.29,25.6,966,5.32,10.3,0,68.5
+Italy,European Union,2013,7.35,25.6,30258,60.23,10.3,1,82.7
+Czechia,European Union,2014,12.75,27,16951,10.53,12.8,1,78.8
+St. Vincent and the Grenadines,Central America and Caribbean,2014,7.12,27,7029,0.11,8.6,0,72
+Tanzania,Africa,2001,6.25,22.2,587,34.39,4.3,0,51.4
+Morocco,Africa,2001,0.45,24.7,1870,29.13,3.5,0,69.2
+Estonia,European Union,2009,14.66,26.1,14205,1.33,12.4,1,74.8
+El Salvador,Central America and Caribbean,2011,2.31,27.2,3447,6.21,6.5,0,71.4
+Moldova,Rest of Europe,2010,6.92,26.6,2255,2.86,11.1,0,69.6
+Myanmar,Asia,2015,1.47,22.6,1197,52.68,4.9,0,65.8
+Nepal,Asia,2013,0.28,22.1,821,26.92,4.2,0,68.8
+Tanzania,Africa,2010,6.95,22.8,808,44.35,5.1,0,58.6
+Belarus,Rest of Europe,2010,14.43,26.3,5622,9.48,12,0,70.4
+Jamaica,Central America and Caribbean,2000,3.77,25.5,4841,2.65,7.3,0,74.1
+Rwanda,Africa,2006,8.79,21.4,488,9.04,2.9,0,57.1
+Tajikistan,Asia,2003,0.74,24.4,556,6.54,10.6,0,64.5
+Tonga,Oceania,2011,0.93,31.9,4043,0.1,10.9,0,70.1
+"Congo, Rep.",Africa,2013,1.9,23,2499,4.62,6.3,0,62
+Myanmar,Asia,2014,1.36,22.5,1168,52.28,4.8,0,65.4
+"Micronesia, Fed. Sts.",Oceania,2002,2.79,28.9,2984,0.11,5.3,0,64.9
+Seychelles,Africa,2015,8.7,26.6,15158,0.09,9.5,0,74.3
+Bhutan,Asia,2011,0.25,23.4,2387,0.69,2.3,0,68.8
+Solomon Islands,Oceania,2010,1.09,25.8,2099,0.53,5.1,0,70.7
+Senegal,Africa,2002,0.22,22.3,1061,10.28,2.4,0,58.7
+Thailand,Asia,2001,5.84,23,3605,63.54,6.3,0,70.8
+Netherlands,European Union,2015,8.3,25.5,45193,16.94,12.1,1,81.5
+Portugal,European Union,2014,10.2,25.7,18833,10.4,8.9,1,81.1
+"Yemen, Rep.",Middle East,2004,0.06,22.7,2472,19.54,1.7,0,62.9
+Suriname,South America,2014,5.39,26.4,9593,0.55,8.2,0,71.1
+Guinea-Bissau,Africa,2011,3.19,23.1,617,1.56,2.7,0,55.1
+Zambia,Africa,2008,2.66,22,1068,12.85,6.5,0,52.6
+"Gambia, The",Africa,2003,3.63,22.4,724,1.45,2.2,0,57.2
+United Arab Emirates,Middle East,2011,1.75,28.1,33246,8.95,10,0,76.5
+Burundi,Africa,2015,3.99,21.6,306,10.16,2.9,0,60.1
+United Arab Emirates,Middle East,2009,1.76,27.9,34580,7.92,9.7,0,76.1
+Hungary,European Union,2008,11.75,26.6,11937,10.04,11.5,1,73.7
+Malawi,Africa,2013,2.02,22.7,370,15.84,4.4,0,59.9
+Eritrea,Africa,2000,0.88,20.1,828,2.29,3.7,0,55.3
+Italy,European Union,2012,7.48,25.7,31185,59.54,9.9,1,82.2
+Oman,Middle East,2011,0.5,26,19868,3.25,8.3,0,75.9
+Nepal,Asia,2006,0.19,21.3,629,26.07,2.9,0,65.8
+Serbia,Rest of Europe,2009,9.78,25.7,5148,7.32,10.4,0,74
+France,European Union,2013,11.73,25,36205,66,11.2,1,82.2
+Greece,European Union,2010,8.33,27.1,21560,11.12,10.3,1,80.4
+Guyana,South America,2003,8.75,25,3966,0.75,7.8,0,66.1
+Nigeria,Africa,2009,10.58,22.9,2286,154.32,5.2,0,50.4
+Bolivia,South America,2011,3.3,26,2603,10.21,8,0,68.5
+Australia,Oceania,2010,10.52,26.9,53543,22.03,12.4,1,81.7
+Jordan,Middle East,2009,0.56,28.5,4782,6.89,9.9,0,73.3
+Timor-Leste,Oceania,2010,0.1,20.7,1186,1.09,4.4,0,67.2
+Timor-Leste,Oceania,2003,0.44,20.1,934,0.95,3,0,61.9
+Paraguay,South America,2014,5.39,26.5,5329,6.6,8.2,0,73.5
+Suriname,South America,2002,4.58,25.6,6488,0.48,7.7,0,68.1
+China,Asia,2011,5.36,23.3,6153,1345.04,7.4,0,74.7
+Serbia,Rest of Europe,2012,8.78,25.9,5344,7.2,10.5,0,74.8
+"Yemen, Rep.",Middle East,2013,0.04,23.5,2348,25.15,3,0,66
+Mozambique,Africa,2015,1.22,22.7,590,27.04,3.5,0,57.2
+Poland,European Union,2002,8.02,25.5,7607,38.23,11.4,1,74.5
+Bulgaria,European Union,2015,10.89,26.4,7075,7.18,11.8,1,74.6
+China,Asia,2005,2.92,22.8,3391,1303.72,6.9,0,73
+France,European Union,2006,13.05,25,35826,63.62,10.6,1,80.8
+Czechia,European Union,2008,13.65,26.7,17047,10.38,12.2,1,77
+Sierra Leone,Africa,2015,3.06,22.7,588,7.17,3.4,0,52.9
+Qatar,Middle East,2013,1.03,28.8,62733,2.34,9.9,0,79.5
+Burkina Faso,Africa,2013,5.49,22,639,17.07,1.4,0,58.9
+Sao Tome and Principe,Central America and Caribbean,2002,5.93,23.7,1087,0.15,4.3,0,62.7
+Mauritius,Africa,2007,3.23,24.9,6939,1.24,7.6,0,72.6
+Kazakhstan,Asia,2014,3.64,26.3,10539,17.29,11.7,0,71.4
+Argentina,South America,2012,8,27.3,13896,41.73,9.8,0,75.6
+Ireland,European Union,2001,14.04,26.4,43139,3.87,11,1,77.1
+"Congo, Rep.",Africa,2014,1.9,23.1,2603,4.74,6.3,0,62.6
+Guinea,Africa,2010,0.2,22.6,689,10.19,1.6,0,56.9
+Tonga,Oceania,2001,1.34,31.3,3790,0.1,9.1,0,69.7
+Rwanda,Africa,2009,7.3,21.6,573,9.78,3.3,0,62.1
+Mongolia,Asia,2005,5.17,24.8,2068,2.53,8.6,0,65.1
+Seychelles,Africa,2001,6.84,25.5,10915,0.08,7.5,0,73.3
+Syrian Arab Republic,Middle East,2005,0.79,27.3,1532,18.36,5.8,0,74.4
+Latvia,European Union,2002,7.44,25.7,7849,2.31,10.6,1,71
+France,European Union,2005,12.88,25,35214,63.18,10.4,1,80.2
+Syrian Arab Republic,Middle East,2015,0.23,28.2,979,18,5.1,0,69.9
+Indonesia,Asia,2006,0.062,22.2,2289,229.32,7.9,0,67.7
+United Arab Emirates,Middle East,2013,1.86,28.2,35496,9.2,10.3,0,76.9
+Burkina Faso,Africa,2010,5.44,21.8,582,15.61,1.4,0,57.1
+Haiti,Central America and Caribbean,2005,3.49,23.9,1284,9.2,4.3,0,58.7
+Mali,Africa,2008,0.58,22.4,707,14.11,1.9,0,54.2
+Cambodia,Asia,2013,2.8,21.9,1048,15.03,4.6,0,67.9
+Eswatini,Africa,2000,6.8,25.5,2472,1.01,3.9,0,47.5
+Kyrgyz Republic,Asia,2009,5.98,25.7,982,5.38,10.4,0,69.1
+Grenada,Central America and Caribbean,2000,9.21,25.3,6977,0.1,7.4,0,72.6
+Guyana,South America,2008,5.83,25.6,4512,0.75,8,0,67.5
+"Micronesia, Fed. Sts.",Oceania,2009,2.05,29.3,3015,0.1,7,0,66.3
+Barbados,Central America and Caribbean,2011,8.69,27.4,16619,0.28,9.9,0,78.5
+Kiribati,Oceania,2003,0.44,29,1541,0.09,7.1,0,64
+Bahrain,Middle East,2007,1.83,25.1,22112,1.04,8.4,0,75.6
+Colombia,South America,2006,4.43,25.4,4638,43.2,6.7,0,74.5
+Germany,European Union,2012,11.32,26.4,40069,80.43,14,1,80.5
+Fiji,Oceania,2000,2.46,26.3,4107,0.81,9.6,0,65.7
+India,Asia,2014,3,21.7,1503,1295.6,6.1,0,68.3
+"Venezuela, RB",South America,2004,7.58,26.4,4326,26,7.2,0,72.7
+Belgium,European Union,2006,10.94,25.8,39148,10.55,11.1,1,79.4
+Slovak Republic,European Union,2014,10.26,26.3,15547,5.42,12.3,1,76.8
+Antigua and Barbuda,Central America and Caribbean,2007,8.11,25.8,18062,0.08,9.2,0,75.4
+El Salvador,Central America and Caribbean,2015,2.54,27.6,3706,6.33,6.6,0,72.4
+Panama,Central America and Caribbean,2015,6.84,26.8,13630,3.97,9.9,0,77.8
+Bulgaria,European Union,2010,9.82,26,6428,7.4,10.6,1,73.5
+Mozambique,Africa,2013,1,22.5,544,25.56,3.4,0,54.9
+Croatia,European Union,2005,10.72,26.1,11400,4.31,9.7,1,75.2
+Libya,Africa,2004,0.012,27.1,11583,5.71,6.3,0,71.7
+Bolivia,South America,2000,2.3,24.7,2059,8.42,7.4,0,62.5
+Maldives,Asia,2003,1.95,23.5,7553,0.3,3.3,0,72.4
+Vanuatu,Oceania,2005,0.89,25.7,2622,0.21,6.5,0,68.4
+Eswatini,Africa,2014,7.28,26.7,3630,1.1,6.5,0,53.6
+Iraq,Middle East,2000,0.22,27,4337,23.5,5,0,69.1
+Liberia,Africa,2002,4.29,23.2,780,3.02,3.6,0,52.8
+Guinea-Bissau,Africa,2013,2.95,23.2,593,1.65,2.8,0,56.1
+Cote d'Ivoire,Africa,2011,1.14,23.5,1559,21.03,4.4,0,53.6
+Haiti,Central America and Caribbean,2009,3.53,24.5,1396,9.8,4.7,0,60.1
+Togo,Africa,2002,0.86,22.2,501,5.2,4.1,0,53.7
+"Bahamas, The",Central America and Caribbean,2008,9.65,27.4,34229,0.34,10.9,0,72
+Nicaragua,Central America and Caribbean,2011,3.34,26.8,1761,5.9,6.1,0,72.7
+Trinidad and Tobago,Central America and Caribbean,2011,5.79,27.1,18026,1.34,10.8,0,72.2
+Samoa,Oceania,2009,2.88,31.4,4012,0.18,9.9,0,71.4
+Djibouti,Africa,2004,0.51,23.7,863,0.77,3.6,0,57.7
+Zimbabwe,Africa,2008,2.82,23.6,850,12.38,7,0,46.5
+Liberia,Africa,2009,3.76,23.7,634,3.75,4,0,59
+Jordan,Middle East,2015,0.3,28.9,4164,9.27,10.3,0,74.1
+Latvia,European Union,2008,11.84,26.2,12893,2.18,12.2,1,72.4
+Bangladesh,Asia,2001,0.004,20.3,674,130.09,4.3,0,66
+Moldova,Rest of Europe,2007,7.81,26.4,2069,2.87,10.9,0,68.3
+Grenada,Central America and Caribbean,2010,7.71,26.4,8058,0.11,8.3,0,72.9
+Tanzania,Africa,2015,7.86,23.1,948,51.48,5.8,0,63.1
+Kuwait,Middle East,2014,0,29.4,30857,3.69,6.9,0,75
+Gabon,Africa,2015,8.06,25.2,7385,1.95,8.1,0,64.9
+Mozambique,Africa,2002,0.66,21.7,341,18.76,2.5,0,49.6
+Senegal,Africa,2000,0.24,22.1,1067,9.8,1.9,0,57.8
+Armenia,Rest of Europe,2011,4.07,26.1,3099,2.88,11.2,0,73.6
+Belgium,European Union,2001,11.01,25.5,35943,10.29,10.2,1,78
+Cyprus,European Union,2011,10.71,26.8,25466,1.12,11.6,1,79.6
+Lebanon,Middle East,2005,1.73,26.7,6668,4.7,7.5,0,76.9
+Ireland,European Union,2005,13.06,26.8,49382,4.16,11.7,1,78.9
+Tunisia,Africa,2002,1.15,25.3,2980,9.87,5.2,0,73.6
+Zimbabwe,Africa,2001,1.93,23.3,1715,11.92,6.7,0,44
+Azerbaijan,Asia,2015,0.51,26.9,5500,9.65,10.7,0,72.3
+Sao Tome and Principe,Central America and Caribbean,2003,6.7,23.8,1136,0.15,4.4,0,63.4
+Nigeria,Africa,2015,4.51,23.2,2687,181.14,6,0,53.1
+Thailand,Asia,2015,6.95,24.3,5840,68.71,7.6,0,76.1
+Albania,Rest of Europe,2006,5.17,25.7,2851,2.99,9.2,0,75.4
+Romania,European Union,2014,9.48,26.6,8671,19.91,10.9,1,74.9
+Equatorial Guinea,Africa,2007,8.31,23.3,14620,0.82,5.4,0,54.8
+Brunei Darussalam,Asia,2000,0.35,25.3,34064,0.33,8.3,0,73.1
+Eswatini,Africa,2006,6.26,26,3060,1.04,5.1,0,42.7
+"Egypt, Arab Rep.",Africa,2005,0.15,28.2,2830,75.52,5.6,0,69.4
+Zambia,Africa,2013,2.98,22.4,1321,14.93,6.8,0,59.7
+Kenya,Africa,2003,1.5,22.2,1135,34.68,5.6,0,52.4
+Haiti,Central America and Caribbean,2014,2.69,25.1,1371,10.55,5.1,0,62.1
+Rwanda,Africa,2012,6.43,21.8,669,10.55,3.7,0,65.4
+Iceland,Rest of Europe,2013,6.8,26.1,50947,0.32,11.9,1,82.1
+Sierra Leone,Africa,2008,3.83,22.5,516,6.13,2.9,0,47.5
+Qatar,Middle East,2014,1.01,29,62785,2.46,9.8,0,79.6
+Switzerland,Rest of Europe,2011,9.99,25.1,82678,7.91,13.3,1,82.7
+Kenya,Africa,2006,0.86,22.5,1239,37.65,5.9,0,56.1
+Mongolia,Asia,2015,8.35,26.1,3875,3,10.1,0,69.1
+Central African Republic,Africa,2005,1.57,22,455,4.04,3.3,0,44.7
+Grenada,Central America and Caribbean,2003,9.89,25.7,7653,0.1,7.6,0,73
+Gabon,Africa,2002,8.29,23.9,7662,1.29,6.5,0,57.8
+Mauritania,Africa,2003,0.004,24,1283,2.86,3.2,0,61
+Portugal,European Union,2015,10.34,25.7,19250,10.36,9.1,1,81.1
+Myanmar,Asia,2008,0.79,21.9,753,49.93,3.9,0,62.7
+Algeria,Africa,2012,0.43,25.2,4012,37.38,7.6,0,75.4
+Tanzania,Africa,2011,7.09,22.9,845,45.67,5.1,0,59.5
+Colombia,South America,2011,4.3,25.8,5468,45.66,7.5,0,75.7
+Tanzania,Africa,2005,5.74,22.5,692,38.45,4.8,0,54.3
+Comoros,Africa,2012,0.11,24,1237,0.72,4.6,0,62.6
+Togo,Africa,2014,1.25,23.4,554,7.14,4.7,0,59.6
+Ireland,European Union,2009,10.93,27.1,45386,4.54,12.1,1,80.2
+Jordan,Middle East,2002,0.51,28,3849,5.32,9.6,0,72.1
+Netherlands,European Union,2013,8.59,25.5,44055,16.8,12.1,1,81.3
+Cyprus,European Union,2001,10.16,26.3,23018,0.96,10.1,1,78.1
+Belgium,European Union,2007,13.43,25.8,40290,10.63,11.1,1,79.8
+Lithuania,European Union,2000,9.87,26,6423,3.5,10.7,1,72
+Liberia,Africa,2013,3.74,24,754,4.25,4.4,0,61.2
+Ukraine,Rest of Europe,2011,8.74,26.3,2450,45.71,11.3,0,70.8
+"Gambia, The",Africa,2002,3.37,22.3,700,1.4,2.1,0,56.8
+Suriname,South America,2007,4.69,25.9,8204,0.51,7.7,0,69.6
+Slovenia,European Union,2011,10.61,26.2,20747,2.05,12.2,1,80
+Brazil,South America,2003,6.84,25.1,6896,181.81,6.2,0,71.2
+Somalia,Africa,2009,0,22.7,280,11.72,2.1,0,53.7
+Guinea,Africa,2006,0.15,22.3,655,9.31,1.6,0,54.1
+Sao Tome and Principe,Central America and Caribbean,2012,5.65,24.6,1446,0.19,5.1,0,68.3
+New Zealand,Oceania,2013,9.12,27.8,37219,4.44,12.1,1,81.4
+Saudi Arabia,Middle East,2003,0.057,27.7,17385,22.46,7.1,0,73.1
+Guinea-Bissau,Africa,2007,3.22,22.8,566,1.41,2.3,0,53.1
+Canada,North America,2012,8.3,26.9,42316,34.71,12.8,1,81.6
+Maldives,Asia,2015,1.26,25.3,9033,0.45,6.3,0,77.7
+Lesotho,Africa,2014,2.75,24.9,1120,2.04,6.1,0,49.9
+Comoros,Africa,2015,0.14,24.3,1243,0.78,4.8,0,63.5
+Trinidad and Tobago,Central America and Caribbean,2015,5.97,27.5,18384,1.37,10.8,0,72.9
+Mauritania,Africa,2006,0.011,24.3,1585,3.11,3.4,0,61.6
+Burundi,Africa,2008,4.8,21.2,306,8.13,2.5,0,55.7
+United Arab Emirates,Middle East,2015,2.12,28.4,38663,9.26,10.6,0,77.3
+Latvia,European Union,2009,9.85,26.2,11240,2.14,12.3,1,73.1
+Timor-Leste,Oceania,2009,0.085,20.6,1104,1.07,4.4,0,66.8
+Sri Lanka,Asia,2002,1.62,21.7,1939,19.06,10.2,0,73.1
+Brazil,South America,2008,6.83,25.6,8259,192.03,6.7,0,73
+Moldova,Rest of Europe,2006,7.94,26.4,2004,2.88,10.6,0,68
+Costa Rica,Central America and Caribbean,2012,3.17,27,10945,4.69,8.5,0,79.1
+Slovak Republic,European Union,2008,11.87,25.9,14488,5.38,11.2,1,74.7
+Slovenia,European Union,2002,9.87,25.5,17302,1.99,11.5,1,76
+Costa Rica,Central America and Caribbean,2007,4.25,26.5,9725,4.4,8.1,0,78.4
+Libya,Africa,2007,0.007,27.4,14010,5.97,6.8,0,72.2
+Mexico,North America,2007,4.24,27.3,9214,109.17,8,0,75.3
+Papua New Guinea,Oceania,2009,0.78,24.9,2077,7.14,3.9,0,61.7
+Peru,South America,2001,4.09,25.1,3282,26.8,8.1,0,71.5
+Latvia,European Union,2013,10.43,26.5,12796,2.01,12.7,1,74
+Uzbekistan,Asia,2006,1.81,25.5,1656,26.49,9.9,0,68.7
+Slovenia,European Union,2012,10.95,26.2,20157,2.06,11.7,1,80.1
+Lao PDR,Asia,2004,3.54,21.5,1112,5.66,4.2,0,61.1
+Uzbekistan,Asia,2005,1.76,25.3,1560,26.17,9.8,0,68.4
+Malaysia,Asia,2010,0.52,25,8248,28.21,9.8,0,74.5
+Portugal,European Union,2011,10.86,25.8,19365,10.56,8.3,1,80.5
+Honduras,Central America and Caribbean,2003,2.87,25.2,1846,7.11,4.6,0,71.5
+Samoa,Oceania,2007,3.85,31.2,3949,0.18,9.7,0,70.9
+Algeria,Africa,2011,0.4,25.1,3957,36.66,7.4,0,75.2
+Burkina Faso,Africa,2009,5.52,21.7,554,15.14,1.4,0,56.4
+Guinea-Bissau,Africa,2001,2.75,22.2,578,1.23,2.3,0,50.7
+Philippines,Asia,2010,4.73,22.7,2433,93.97,8.9,0,69.8
+France,European Union,2001,14.15,24.9,34015,61.36,10,1,79.2
+Malawi,Africa,2010,1.69,22.5,359,14.54,4.3,0,55.6
+Antigua and Barbuda,Central America and Caribbean,2003,6.91,25.4,13793,0.08,9,0,74.6
+Grenada,Central America and Caribbean,2002,10.99,25.5,7016,0.1,7.4,0,72.9
+"Congo, Rep.",Africa,2002,0.9,22.2,2115,3.31,5.7,0,53.1
+Tajikistan,Asia,2002,0.8,24.3,510,6.43,10.6,0,63.7
+Angola,Africa,2012,7.83,23,3128,25.11,4.8,0,57.2
+Jordan,Middle East,2004,0.5,28.1,4148,5.58,9.7,0,72.4
+Cuba,Central America and Caribbean,2012,4.33,25.4,7138,11.26,10.8,0,78.4
+South Africa,Africa,2012,7.22,27.1,6232,52.83,9.8,0,60.1
+Israel,Middle East,2005,2.46,26.6,28810,6.93,12.3,1,80.2
+Portugal,European Union,2004,12.26,25.7,19110,10.48,7.4,1,77.7
+Iceland,Rest of Europe,2014,7.01,26.2,51233,0.33,12.2,1,82.9
+Seychelles,Africa,2005,6.6,25.8,10790,0.08,7.7,0,72.1
+"Gambia, The",Africa,2008,2.98,23.1,708,1.69,2.6,0,59
+Libya,Africa,2002,0.002,27,10129,5.53,5.9,0,71.2
+"Congo, Dem. Rep.",Africa,2006,2.68,21.2,371,56.58,4.5,0,54.4
+Cabo Verde,Africa,2014,4.31,24.4,3050,0.52,5.8,0,71.9
+Ukraine,Rest of Europe,2000,6.95,25.7,1420,49.18,10.7,0,67.7
+Djibouti,Africa,2006,1.03,23.7,968,0.79,3.8,0,58.3
+Germany,European Union,2000,12.91,25.8,34490,82.21,11.2,1,77.9
+Kenya,Africa,2013,1.53,23.1,1397,45.52,6.3,0,63.4
+Bolivia,South America,2008,3.51,25.6,2415,9.72,7.6,0,66.9
+Uganda,Africa,2015,7.44,22.4,847,38.23,5.7,0,61.4
+Latvia,European Union,2004,8.81,25.9,9407,2.26,11.7,1,72
+Romania,European Union,2004,11.77,25.3,5981,21.45,9.9,1,71.6
+Cambodia,Asia,2004,0.9,21,625,13.07,3.5,0,62.2
+Bahrain,Middle East,2000,1.97,25.5,23244,0.66,8.3,0,74.4
+Uruguay,South America,2010,5.99,26.7,13433,3.36,8.4,0,76.8
+Turkiye,Middle East,2007,1.37,27.2,8484,69.58,6.2,0,73.2
+South Africa,Africa,2011,7.17,27,6183,52,9.9,0,58.9
+Chile,South America,2001,6.1,26.7,8727,15.52,9,0,76.6
+Madagascar,Africa,2004,0.8,20.8,463,17.8,5.5,0,60.8
+Guatemala,Central America and Caribbean,2014,1.69,26.4,3903,15.31,6.4,0,72.9
+"Gambia, The",Africa,2010,2.82,23.4,753,1.79,2.8,0,59.6
+United States,North America,2011,8.66,28.6,53395,311.58,13.3,1,78.6
+Samoa,Oceania,2012,2.1,31.7,4012,0.19,10.2,0,72.1
+Lao PDR,Asia,2007,5.03,21.8,1325,5.94,4.4,0,62.7
+Australia,Oceania,2003,9.97,26.5,47997,19.9,11.8,1,80.2
+Kenya,Africa,2008,1.32,22.7,1255,39.79,6,0,58.8
+Singapore,Asia,2013,1.86,23.6,53300,5.4,11.4,0,82.2
+Togo,Africa,2004,1.61,22.5,504,5.47,4.2,0,54.2
+Djibouti,Africa,2013,0.36,23.9,2384,0.88,4,0,62.2
+Saudi Arabia,Middle East,2000,0.054,27.6,17691,20.66,6.7,0,72.6
+Eswatini,Africa,2013,7.36,26.6,3624,1.09,6.3,0,51.7
+Eritrea,Africa,2006,1.29,20.4,731,2.92,3.7,0,59.5
+Gabon,Africa,2014,8.21,25.1,7350,1.88,8.1,0,64.3
+Bangladesh,Asia,2005,4e-04,20.6,769,139.04,4.5,0,67.8
+Greece,European Union,2011,7.48,27.1,19401,11.1,10.3,1,80.7
+Armenia,Rest of Europe,2006,3.99,25.9,2697,2.96,10.9,0,72.7
+Indonesia,Asia,2000,0.063,21.6,1868,211.51,6.7,0,65.8
+Pakistan,Asia,2013,0.03,23.7,1290,191.26,4.9,0,66.1
+Vietnam,Asia,2007,1.51,20.7,1752,85.42,6.8,0,74.5
+United Kingdom,Rest of Europe,2011,9.8,27,42772,63.26,13,1,81
+Morocco,Africa,2006,0.48,25.1,2242,30.8,4,0,72.4
+Costa Rica,Central America and Caribbean,2010,3.74,26.8,10237,4.58,8.3,0,78.8
+Brazil,South America,2002,7.02,25,6905,179.54,6,0,70.8
+Hungary,European Union,2013,10.73,27,11710,9.89,12,1,75.6
+Albania,Rest of Europe,2000,3.92,25.2,1961,3.09,8.8,0,74
+"Congo, Rep.",Africa,2012,1.9,22.9,2580,4.51,6.2,0,61.4
+Chile,South America,2000,6.24,26.6,8556,15.34,8.8,0,76.4
+Antigua and Barbuda,Central America and Caribbean,2001,6.85,25.2,13220,0.08,8.9,0,74.2
+Tajikistan,Asia,2001,0.8,24.2,468,6.32,10.6,0,62.8
+Solomon Islands,Oceania,2005,1.13,25.3,1827,0.47,4.8,0,69.2
+Kiribati,Oceania,2007,0.55,29.3,1493,0.1,7.5,0,65
+Afghanistan,Asia,2005,0.016,22.2,346,25.65,2.6,0,58.3
+Sao Tome and Principe,Central America and Caribbean,2015,5,24.7,1585,0.2,5.6,0,69.4
+Myanmar,Asia,2006,0.67,21.8,610,49.3,3.7,0,61.9
+Belarus,Rest of Europe,2014,11.29,26.5,6213,9.45,12.1,0,73
+Albania,Rest of Europe,2013,4.28,26.4,3781,2.9,9.7,0,77.6
+"Yemen, Rep.",Middle East,2006,0.038,22.9,2543,20.69,2,0,64
+St. Lucia,Central America and Caribbean,2003,13.78,27.4,9209,0.16,7.3,0,73.8
+Zimbabwe,Africa,2014,4.22,23.8,1444,13.59,8.2,0,58.4
+Kyrgyz Republic,Asia,2010,6.02,25.8,966,5.45,10.6,0,69.3
+Nicaragua,Central America and Caribbean,2012,3.6,26.9,1851,5.98,6.3,0,73
+Australia,Oceania,2001,9.53,26.3,45865,19.41,11.9,1,79.6
+Turkiye,Middle East,2000,1.66,26.7,6544,63.24,5.5,0,70
+Pakistan,Asia,2015,0.04,23.9,1357,199.43,5.1,0,66.6
+Bhutan,Asia,2006,0.28,22.9,1572,0.66,2.3,0,66
+Montenegro,Rest of Europe,2000,10.25,25.2,4432,0.6,10.3,0,73.2
+Finland,European Union,2011,9.81,26,44467,5.39,12.3,1,80.5
+Qatar,Middle East,2010,1.07,28.5,63002,1.86,8.4,0,79.1
+Paraguay,South America,2013,5.62,26.4,5130,6.51,8.3,0,73.3
+Serbia,Rest of Europe,2002,9.2,25.4,3640,7.5,9.7,0,72.3
+Cote d'Ivoire,Africa,2006,0.81,23.2,1575,18.75,3.8,0,50.6
+China,Asia,2009,4.88,23.1,5129,1331.26,7.1,0,74.1
+Cameroon,Africa,2013,6.56,24.2,1306,22.08,5.9,0,56.6
+Thailand,Asia,2014,6.91,24.2,5685,68.44,7.6,0,75.7
+Philippines,Asia,2014,4.61,23,2867,100.51,9.2,0,70.5
+Somalia,Africa,2003,0,22.3,202,9.82,2.1,0,51.8
+Haiti,Central America and Caribbean,2004,3.58,23.8,1266,9.05,4.2,0,58.3
+Oman,Middle East,2012,0.49,26.1,20102,3.5,8.6,0,76.1
+Azerbaijan,Asia,2010,0.99,26.4,5215,9.05,10.7,0,70.9
+Italy,European Union,2006,8.44,25.6,33752,58.14,9.3,1,81.3
+Montenegro,Rest of Europe,2001,10.22,25.3,4462,0.61,10.3,0,73.2
+Seychelles,Africa,2008,6.68,26.1,12154,0.09,8,0,73.2
+Barbados,Central America and Caribbean,2008,8.63,27.1,18240,0.28,9.3,0,78.2
+"Congo, Dem. Rep.",Africa,2004,2.03,21.1,354,53.07,4.1,0,52.9
+Lao PDR,Asia,2001,3.14,21.2,974,5.41,4,0,59.4
+Japan,Asia,2006,7.48,22.6,33532,127.85,11.2,1,82.3
+Brazil,South America,2010,7.16,25.8,8702,195.71,6.9,0,73.6
+Poland,European Union,2007,10.39,25.9,9749,38.12,11.8,1,75.2
+Tunisia,Africa,2014,1.48,26.2,4098,11.06,6.9,0,75.7
+Moldova,Rest of Europe,2013,8.48,26.8,2589,2.86,11.6,0,71
+Peru,South America,2008,4.95,25.8,4805,28.56,8.4,0,73.8
+Bhutan,Asia,2007,0.15,23,1840,0.66,2.3,0,66.7
+Bosnia and Herzegovina,Rest of Europe,2002,4.08,24.9,3057,3.76,7.2,0,74.8
+United Arab Emirates,Middle East,2005,2.68,27.5,53845,4.59,9.1,0,75.4
+Qatar,Middle East,2004,1,28,61583,0.75,8.4,0,78.1
+Madagascar,Africa,2009,0.83,21,480,20.57,5.9,0,62.9
+St. Lucia,Central America and Caribbean,2000,12.8,26.9,9327,0.16,7,0,73.3
+Finland,European Union,2004,9.89,25.9,41522,5.23,11.9,1,78.7
+Lebanon,Middle East,2004,1.87,26.7,6677,4.57,7.5,0,76.4
+Madagascar,Africa,2010,0.96,21.1,469,21.15,6,0,63.4
+India,Asia,2013,3.03,21.6,1416,1280.84,5.8,0,67.9
+Somalia,Africa,2013,0,23,330,13.06,2.1,0,55.1
+Eritrea,Africa,2014,1.03,20.6,828,3.41,3.9,0,64.2
+Eritrea,Africa,2008,0.66,20.5,638,3.06,3.8,0,61
+Netherlands,European Union,2011,8.95,25.5,44869,16.69,12,1,81.2
+Paraguay,South America,2004,5.17,25.4,3903,5.73,7.1,0,71.5
+Benin,Africa,2004,1.25,22.5,956,7.75,2.7,0,56.9
+China,Asia,2014,5.65,23.6,7533,1371.86,7.6,0,75.6
+Bhutan,Asia,2002,0.3,22.4,1279,0.62,2.3,0,62.7
+Estonia,European Union,2007,17.47,26,17459,1.34,12.2,1,72.8
+Ghana,Africa,2015,1.75,23.9,1774,27.85,6.9,0,62.8
+Mauritius,Africa,2002,3.91,24.6,5726,1.2,6.6,0,72
+Afghanistan,Asia,2010,0.02,22.7,526,29.19,3.2,0,61
+Philippines,Asia,2011,4.85,22.8,2484,95.57,9,0,70
+Mongolia,Asia,2012,7.53,25.7,3336,2.82,9.9,0,68.2
+Malawi,Africa,2011,1.88,22.6,366,14.96,4.3,0,57.2
+Finland,European Union,2015,8.52,25.9,42802,5.48,12.4,1,81.5
+Czechia,European Union,2003,13.87,26.6,13428,10.19,11.4,1,75.2
+Fiji,Oceania,2001,2.35,26.4,4174,0.81,9.5,0,65.9
+Afghanistan,Asia,2015,0,23.3,556,34.41,3.6,0,63.4
+Belize,Central America and Caribbean,2015,6.71,28.9,4805,0.36,10.5,0,74
+Tajikistan,Asia,2008,0.56,25,739,7.21,11,0,67.9
+Mozambique,Africa,2006,0.59,22,409,21.08,2.9,0,50.6
+Cuba,Central America and Caribbean,2005,4.48,24.9,5183,11.26,9.9,0,77.7
+Romania,European Union,2005,9.63,25.4,6299,21.32,10.1,1,71.9
+Burkina Faso,Africa,2014,6.93,22,647,17.59,1.4,0,59.5
+Botswana,Africa,2002,6.43,23.8,4684,1.7,7.9,0,50.2
+Suriname,South America,2000,4.46,25.4,6202,0.47,7.7,0,67.8
+Vietnam,Asia,2009,1.97,20.9,1913,87.09,8,0,74.7
+Oman,Middle East,2004,0.59,25.6,19486,2.45,6.6,0,73.9
+Vanuatu,Oceania,2007,1.01,25.8,2790,0.22,6.6,0,68.7
+Vietnam,Asia,2000,0.71,19.9,1170,79.91,5.4,0,73
+Belarus,Rest of Europe,2007,13.91,26.2,4685,9.56,10.6,0,70.2
+Cameroon,Africa,2011,5.9,24,1255,20.91,5.5,0,55.6
+"Iran, Islamic Rep.",Middle East,2002,0.012,25.2,4234,67.28,6.5,0,70.9
+Kuwait,Middle East,2010,0,29,32035,2.99,6.8,0,74.4
+Gabon,Africa,2005,7.56,24.3,7504,1.39,6.9,0,58.2
+Belarus,Rest of Europe,2011,14.5,26.4,5938,9.46,12,0,70.6
+Iraq,Middle East,2010,0.16,28,4052,29.74,6.4,0,68.6
+Bulgaria,European Union,2000,10.26,25.3,3718,8.17,9.5,1,71.7
+Guinea-Bissau,Africa,2008,3.01,22.9,570,1.45,2.4,0,53.6
+Kuwait,Middle East,2004,0.018,28.6,37169,2.2,6.1,0,73.4
+Mongolia,Asia,2006,4.59,24.9,2217,2.56,8.8,0,65.5
+Pakistan,Asia,2014,0.04,23.8,1323,195.31,5.1,0,66.4
+Mongolia,Asia,2008,8.92,25.2,2588,2.63,9,0,66.4
+Luxembourg,European Union,2011,11.74,26.1,105290,0.52,11.8,1,81
+"Bahamas, The",Central America and Caribbean,2009,8.75,27.4,32244,0.35,10.9,0,72.1
+Lebanon,Middle East,2002,2.06,26.5,6625,4.18,7.5,0,75.5
+Bhutan,Asia,2001,1.42,22.3,1176,0.6,2.3,0,61.8
+Madagascar,Africa,2005,0.74,20.9,471,18.34,5.6,0,61.2
+Oman,Middle East,2008,0.51,25.8,21143,2.75,8.1,0,75.2
+Equatorial Guinea,Africa,2013,8.95,23.8,13422,1.08,5.5,0,56.6
+"Iran, Islamic Rep.",Middle East,2014,0.01,26,5346,77.47,9.8,0,75.5
+Austria,European Union,2001,12.35,25,39185,8.04,9.2,1,78.6
+Germany,European Union,2001,12.46,25.8,35011,82.35,11.7,1,78.3
+Belarus,Rest of Europe,2001,10.74,25.8,2755,9.93,9,0,68.5
+Argentina,South America,2013,8.27,27.4,14072,42.2,9.8,0,75.8
+Greece,European Union,2012,7.62,27.1,18124,11.05,10.3,1,80.6
+Comoros,Africa,2009,0.18,23.7,1193,0.67,3.9,0,61.5
+Australia,Oceania,2009,10.62,26.9,53226,21.69,12.3,1,81.5
+Malawi,Africa,2007,1.93,22.3,314,13.34,3.8,0,50.6
+Central African Republic,Africa,2013,1.7,22.6,365,4.45,4,0,49.4
+Saudi Arabia,Middle East,2007,0.092,27.9,18496,25.18,8.1,0,73.5
+Nicaragua,Central America and Caribbean,2007,3.77,26.5,1675,5.59,5.7,0,71.7
+Netherlands,European Union,2003,9.48,25.2,40785,16.23,11.3,1,78.5
+Solomon Islands,Oceania,2001,0.7,25,1737,0.42,4.6,0,67.8
+Guatemala,Central America and Caribbean,2005,2.34,25.5,3320,12.95,3.5,0,69.8
+"Micronesia, Fed. Sts.",Oceania,2001,2.83,28.8,2964,0.11,5.1,0,64.7
+Sweden,European Union,2012,7.23,25.9,48886,9.52,12.4,1,81.7
+Lebanon,Middle East,2015,1.15,27.5,7643,6.53,8.5,0,78.8
+Sweden,European Union,2002,6.88,25.3,42377,8.92,11.6,1,79.8
+Morocco,Africa,2007,0.48,25.2,2295,31.16,4,0,73
+Armenia,Rest of Europe,2005,4.17,25.8,2364,2.98,10.9,0,72.6
+Ghana,Africa,2002,1.95,22.8,1077,20.25,6.2,0,57.4
+Saudi Arabia,Middle East,2009,0.088,28,18203,26.63,8.6,0,73.8
+Mongolia,Asia,2013,12.58,25.8,3651,2.88,10,0,68.6
+"Venezuela, RB",South America,2012,6.8,26.6,12986,29.36,9.7,0,73
+Malawi,Africa,2004,1.25,22.1,287,12.3,3.3,0,46.8
+Spain,European Union,2009,9.99,26.2,25779,46.36,9.3,1,81.5
+Somalia,Africa,2001,0,22.2,183,9.19,2.1,0,51.2
+Lebanon,Middle East,2000,2.37,26.4,6713,3.84,7.5,0,74.5
+Canada,North America,2002,7.7,26.4,35016,31.36,11.5,1,79.5
+Indonesia,Asia,2011,0.08,22.6,2849,245.12,7.6,0,69.5
+Cabo Verde,Africa,2008,4.25,24.1,3079,0.48,4.8,0,70.8
+El Salvador,Central America and Caribbean,2010,2.3,27.1,3335,6.18,7.1,0,71.2
+Iceland,Rest of Europe,2012,6.82,26.1,49192,0.32,11.5,1,82.9
+Kiribati,Oceania,2008,0.46,29.4,1429,0.1,7.6,0,65.2
+Guinea-Bissau,Africa,2006,3.48,22.7,562,1.38,2.3,0,52.7
+Austria,European Union,2004,12.17,25.2,40651,8.17,9.8,1,79.2
+Canada,North America,2014,8.1,26.9,43635,35.44,13,1,81.8
+Serbia,Rest of Europe,2001,9.2,25.3,3419,7.5,9.6,0,72.2
+Morocco,Africa,2004,0.47,24.9,2066,30.12,3.8,0,71.1
+Eswatini,Africa,2004,5.76,25.8,2749,1.03,4,0,42.7
+Maldives,Asia,2001,1.74,23.3,6544,0.29,3.1,0,71
+Burundi,Africa,2006,4.99,21.1,302,7.61,2.4,0,54.2
+Philippines,Asia,2009,4.34,22.7,2305,92.41,9,0,69.7
+"Congo, Rep.",Africa,2000,0.95,22,2062,3.13,5.5,0,52.1
+Guinea,Africa,2012,0.24,22.7,738,10.65,2.4,0,57.9
+Slovenia,European Union,2015,11.49,26.5,20890,2.06,12,1,80.8
+Hungary,European Union,2003,13.24,26.2,10260,10.13,10.5,1,72.3
+Afghanistan,Asia,2004,0.02,22.1,323,24.73,2.5,0,57.8
+Sweden,European Union,2011,7.31,25.8,49540,9.45,12.4,1,81.8
+Jamaica,Central America and Caribbean,2015,3.27,27.6,4908,2.89,9.6,0,74.1
+United Arab Emirates,Middle East,2014,2,28.3,36996,9.21,10.5,0,77.1
+Papua New Guinea,Oceania,2003,0.56,24.4,1803,6.22,3.4,0,60
+Guyana,South America,2004,8.65,25.1,4025,0.75,7.9,0,66.4
+Brazil,South America,2001,7.18,24.9,6789,177.2,5.8,0,70.5
+Spain,European Union,2002,10.41,26.2,25026,41.43,8.5,1,79.6
+Kiribati,Oceania,2001,0.71,28.8,1506,0.09,6.9,0,63.4
+Belgium,European Union,2015,10.36,26.1,41008,11.27,11.7,1,81
+Equatorial Guinea,Africa,2015,8.11,23.9,11283,1.17,5.5,0,57.4
+Montenegro,Rest of Europe,2013,9.62,26.3,6203,0.62,11.2,0,76.5
+Sri Lanka,Asia,2009,2.05,22.4,2750,20.12,10.9,0,75.3
+Oman,Middle East,2005,0.6,25.6,19448,2.51,6.8,0,74.2
+Albania,Rest of Europe,2001,4.51,25.2,2144,3.06,8.7,0,74.3
+Bosnia and Herzegovina,Rest of Europe,2013,4.69,25.5,4391,3.54,8.7,0,76.6
+Barbados,Central America and Caribbean,2015,9.68,27.7,16559,0.29,10.5,0,78.8
+Afghanistan,Asia,2012,0.01,22.9,558,31.16,3.4,0,62.1
+Tonga,Oceania,2000,1.22,31.2,3672,0.1,9.1,0,69.7
+Colombia,South America,2005,4.27,25.3,4403,42.65,6.8,0,74.3
+Solomon Islands,Oceania,2012,0.97,25.9,2178,0.56,5.2,0,71.3
+Qatar,Middle East,2001,0.75,27.7,56916,0.62,8,0,77.6
+Tajikistan,Asia,2005,0.65,24.6,631,6.79,10.5,0,66.1
+Iraq,Middle East,2009,0.2,27.9,3909,28.97,6.3,0,68.3
+Tanzania,Africa,2009,6.26,22.7,782,43.07,5,0,57.7
+Cambodia,Asia,2001,0.62,20.8,516,12.41,3.3,0,59.3
+Italy,European Union,2004,8.98,25.6,33150,57.69,9.1,1,80.8
+Seychelles,Africa,2012,8.89,26.4,13701,0.09,8.8,0,74.3
+Angola,Africa,2003,2.2,22,2022,18.12,4.4,0,48.4
+Ireland,European Union,2006,13.12,26.8,50462,4.27,11.8,1,79.2
+Brazil,South America,2005,6.76,25.3,7352,186.13,6.3,0,71.9
+Jordan,Middle East,2011,0.38,28.6,4521,7.66,9.9,0,73.6
+Brazil,South America,2000,7.3,24.8,6788,174.79,5.6,0,70.1
+Bangladesh,Asia,2003,0.003,20.4,708,134.79,4.4,0,66.9
+Mali,Africa,2012,0.61,22.7,705,15.98,2.1,0,56.1
+Greece,European Union,2008,8.73,27,23929,11.08,10.1,1,79.9
+Singapore,Asia,2010,1.84,23.5,48753,5.08,11.2,0,81.5
+Madagascar,Africa,2008,0.61,21,514,20,5.9,0,62.5
+Costa Rica,Central America and Caribbean,2009,4.14,26.7,9838,4.52,8.4,0,78.6
+Eritrea,Africa,2007,1.75,20.4,722,3,3.8,0,60.2
+Dominican Republic,Central America and Caribbean,2009,5.63,25.8,5393,9.58,7.2,0,71.8
+Spain,European Union,2008,10.24,26.2,27026,45.95,9.2,1,81.2
+Solomon Islands,Oceania,2009,1.2,25.7,1980,0.52,5,0,70.4
+Norway,Rest of Europe,2003,6.04,25.9,69327,4.56,12.2,1,79.4
+Papua New Guinea,Oceania,2007,0.67,24.8,2046,6.81,3.7,0,61.1
+Togo,Africa,2007,1.52,22.8,450,5.92,4.3,0,55.6
+Lao PDR,Asia,2013,6.25,22.6,1911,6.54,5.1,0,65.7
+Senegal,Africa,2009,0.31,22.7,1143,12.34,2.4,0,63.6
+Burundi,Africa,2010,4.61,21.3,313,8.68,2.6,0,57.2
+Japan,Asia,2015,8.55,22.7,34961,127.14,12.5,1,83.8
+Brunei Darussalam,Asia,2005,0.14,25.8,34441,0.37,8.5,0,74
+Botswana,Africa,2012,5.46,24.2,6089,2.04,9,0,63.5
+Croatia,European Union,2004,12.42,26,10943,4.3,9.7,1,75.5
+Nigeria,Africa,2008,10.79,22.9,2173,150.27,5.2,0,49.9
+Zimbabwe,Africa,2013,4.11,23.7,1435,13.35,8,0,56.9
+Kazakhstan,Asia,2002,5.78,25.7,5551,14.86,11,0,66
+Mauritius,Africa,2014,3.06,25.2,8955,1.26,9.1,0,74.2
+North Macedonia,Rest of Europe,2015,3.57,26.7,4862,2.07,9.6,0,75.4
+Morocco,Africa,2015,0.39,25.9,2875,34.66,5,0,75.7
+Singapore,Asia,2005,1.49,23.5,41799,4.27,10.5,0,80
+Slovenia,European Union,2007,11.02,25.9,21575,2.02,11.8,1,78.6
+United States,North America,2003,8.4,27.9,50036,290.11,12.8,1,77
+New Zealand,Oceania,2009,9.24,27.6,35252,4.3,11.9,1,80.7
+Jamaica,Central America and Caribbean,2006,3.35,26.4,5260,2.75,8.3,0,74.1
+Comoros,Africa,2006,0.24,23.4,1185,0.63,3.3,0,60.4
+Pakistan,Asia,2003,0.014,22.8,1074,153.09,4,0,63.5
+Estonia,European Union,2001,10.1,25.5,10626,1.39,11.8,1,70.3
+Armenia,Rest of Europe,2010,4.23,26,2959,2.88,11.1,0,73.3
+Slovak Republic,European Union,2012,10.14,26.2,15067,5.41,12.3,1,76.1
+Samoa,Oceania,2008,3.97,31.3,4062,0.18,9.8,0,71.2
+Uzbekistan,Asia,2011,1.73,26.2,2231,29.34,10.9,0,69.9
+Qatar,Middle East,2012,1.03,28.7,63234,2.2,9.2,0,79.4
+Namibia,Africa,2009,1.35,23.7,3982,2.08,6.2,0,55.2
+Lebanon,Middle East,2013,1.18,27.4,8201,5.91,8.3,0,78.7
+Afghanistan,Asia,2003,0.02,22,332,23.68,2.4,0,57.3
+Lesotho,Africa,2007,2.85,24.5,912,1.99,5.5,0,42.9
+Lithuania,European Union,2006,13.34,26.2,10659,3.27,12,1,71.1
+Slovak Republic,European Union,2015,10.27,26.4,16342,5.42,12.5,1,76.6
+Ecuador,South America,2002,3.98,25.5,4397,13.14,7.1,0,73.4
+Senegal,Africa,2015,0.19,22.9,1219,14.58,2.9,0,66.7
+Kiribati,Oceania,2005,0.61,29.2,1531,0.09,7.3,0,64.5
+Serbia,Rest of Europe,2005,9.27,25.5,4405,7.44,10.2,0,72.8
+"Egypt, Arab Rep.",Africa,2000,0.14,27.6,2610,68.83,4.8,0,68.6
+Panama,Central America and Caribbean,2012,6.21,26.6,12080,3.77,9.5,0,77.2
+Tanzania,Africa,2003,3.45,22.3,634,36.34,4.4,0,52.9
+Cyprus,European Union,2005,11.41,26.6,25630,1.03,10.7,1,78.6
+Eritrea,Africa,2002,0.89,20.2,857,2.48,3.7,0,56.5
+Sierra Leone,Africa,2010,3.48,22.6,536,6.42,3.1,0,49.4
+Estonia,European Union,2012,16.96,26.2,16257,1.32,12.5,1,76.3
+Eswatini,Africa,2002,5.51,25.6,2572,1.02,3.6,0,44.4
+Fiji,Oceania,2009,2.32,27.1,4426,0.85,9.5,0,66.6
+St. Vincent and the Grenadines,Central America and Caribbean,2008,7.17,26.4,7190,0.11,8.1,0,71.6
+North Macedonia,Rest of Europe,2005,4.24,25.9,3601,2.04,8.2,0,73.7
+Greece,European Union,2013,7.55,27.1,17796,10.97,10.4,1,81.3
+United Arab Emirates,Middle East,2008,1.86,27.8,40755,7.09,9.6,0,76
+"Egypt, Arab Rep.",Africa,2009,0.19,28.7,3381,81.13,6.4,0,70.2
+Kazakhstan,Asia,2010,3.94,26,8979,16.32,11.4,0,68.5
+Ukraine,Rest of Europe,2007,8.12,26.1,2528,46.51,11.2,0,68.2
+Mozambique,Africa,2012,0.97,22.5,523,24.86,3.3,0,53.9
+Bosnia and Herzegovina,Rest of Europe,2010,4.57,25.4,4096,3.71,7.1,0,76
+Nepal,Asia,2003,0.2,21,584,25.08,2.6,0,64.2
+Oman,Middle East,2000,0.38,25.4,20625,2.27,5.3,0,72.1
+Qatar,Middle East,2002,0.83,27.8,58542,0.64,8.1,0,77.8
+St. Lucia,Central America and Caribbean,2015,9.23,29.8,10094,0.18,8.9,0,75.6
+Grenada,Central America and Caribbean,2007,9.14,26.1,8677,0.11,8,0,73.1
+Zambia,Africa,2003,2.39,21.7,843,11.26,6.1,0,46.3
+Togo,Africa,2006,2.01,22.7,468,5.76,4.3,0,55.1
+Zambia,Africa,2010,2.79,22.2,1215,13.61,6.6,0,55.7
+Jamaica,Central America and Caribbean,2009,3.24,26.8,4987,2.8,8.8,0,74.1
+Benin,Africa,2003,1.46,22.4,943,7.52,2.7,0,56.4
+"Congo, Dem. Rep.",Africa,2001,2.05,20.8,334,48.43,3.5,0,50.7
+Ukraine,Rest of Europe,2008,9.41,26.2,2599,46.26,11.3,0,68.3
+Costa Rica,Central America and Caribbean,2001,4.25,25.9,7805,4.03,8,0,77.6
+United Kingdom,Rest of Europe,2006,10.93,26.8,43928,60.85,12.4,1,79.2
+Colombia,South America,2015,4.16,26.1,6176,47.52,8.1,0,76.5
+Morocco,Africa,2014,0.41,25.8,2789,34.19,5,0,75.5
+Libya,Africa,2013,0.01,27.8,10101,6.32,7.3,0,71.9
+Bosnia and Herzegovina,Rest of Europe,2008,5.03,25.2,4132,3.75,7.6,0,75.7
+Tajikistan,Asia,2015,0.92,25.9,978,8.45,10.5,0,70.1
+South Africa,Africa,2014,7.21,27.2,6274,54.54,10,0,62
+Fiji,Oceania,2007,2.1,26.9,4535,0.84,9.3,0,66.4
+Nigeria,Africa,2004,11.33,22.6,1878,135.32,5.2,0,47.7
+Philippines,Asia,2006,4.05,22.5,2149,87.89,8.8,0,69.2
+Guinea,Africa,2001,0.17,21.9,637,8.42,1.5,0,51.3
+Mauritania,Africa,2011,0,24.6,1433,3.6,3.9,0,62.8
+Argentina,South America,2004,7.63,26.5,10389,38.49,9.2,0,74.3
+Maldives,Asia,2014,1.3,25.2,9182,0.44,6.2,0,77.4
+Central African Republic,Africa,2014,1.88,22.7,364,4.46,4.1,0,50.1
+Eswatini,Africa,2005,5.05,25.9,2902,1.03,4.5,0,42.5
+Germany,European Union,2002,12.25,25.9,34883,82.49,12.1,1,78.2
+Maldives,Asia,2008,1.52,24.2,9119,0.34,4.3,0,75.1
+Trinidad and Tobago,Central America and Caribbean,2006,6.05,26.6,17334,1.3,9.9,0,71
+Barbados,Central America and Caribbean,2009,8.24,27.2,17254,0.28,9.3,0,78.3
+Luxembourg,European Union,2009,11.98,26.1,104574,0.5,11.8,1,80.6
+Malaysia,Asia,2011,0.54,25.1,8550,28.65,10.1,0,74.7
+Oman,Middle East,2003,0.55,25.5,19716,2.39,6.4,0,73.4
+Sierra Leone,Africa,2014,3.04,22.7,757,7.02,3.3,0,52.4
+Israel,Middle East,2011,2.81,27,33678,7.77,12.7,1,81.7
+Luxembourg,European Union,2004,12.34,25.8,100293,0.46,11.1,1,79.1
+Iraq,Middle East,2004,0.33,27.4,3515,26.31,5.7,0,68.4
+Liberia,Africa,2010,3.65,23.8,649,3.89,4.1,0,59.6
+Sri Lanka,Asia,2008,2.1,22.3,2675,19.98,11,0,75.2
+Malaysia,Asia,2004,0.51,24.3,7044,25.19,7.8,0,73.4
+Malaysia,Asia,2001,0.52,24,6286,23.71,8.4,0,72.8
+Myanmar,Asia,2001,0.12,21.4,345,47.23,3.2,0,60.4
+France,European Union,2010,12.3,25.1,35640,65.03,10.9,1,81.7
+Bolivia,South America,2012,3.24,26.1,2693,10.38,8.3,0,69
+Ukraine,Rest of Europe,2005,6.82,26,2144,47.11,11.2,0,68
+Thailand,Asia,2005,6.19,23.3,4412,65.42,7,0,72.1
+Slovak Republic,European Union,2009,11.13,26,13679,5.39,11.4,1,74.9
+Ghana,Africa,2010,1.6,23.6,1419,24.78,6.7,0,61
+Algeria,Africa,2005,0.5,24.7,3752,33.15,6.9,0,73.1
+Netherlands,European Union,2004,9.57,25.3,41450,16.28,11.5,1,79.1
+Azerbaijan,Asia,2003,0.55,25.8,1919,8.23,10.6,0,67.8
+Italy,European Union,2001,9.68,25.4,32964,56.97,8.7,1,80.1
+Chile,South America,2002,6.06,26.8,8910,15.68,9.2,0,76.9
+Myanmar,Asia,2013,1.31,22.4,1088,51.85,4.7,0,64.9
+Cote d'Ivoire,Africa,2000,4.65,22.7,1848,16.45,3.3,0,49.6
+Austria,European Union,2015,11.6,25.5,44196,8.64,12.1,1,81.2
+New Zealand,Oceania,2005,9.32,27.2,35052,4.13,11.7,1,79.9
+Tanzania,Africa,2012,6.22,22.9,857,47.05,5.5,0,60.5
+"Iran, Islamic Rep.",Middle East,2003,0.012,25.3,4543,68.12,6.7,0,71.3
+Guyana,South America,2014,5.84,26.2,5568,0.76,8.4,0,69
+"Gambia, The",Africa,2000,3.16,21.9,729,1.32,2,0,56
+Peru,South America,2006,4.48,25.6,4124,28.1,8.1,0,73.2
+Namibia,Africa,2011,1.59,23.9,4282,2.16,6.3,0,58.1
+Switzerland,Rest of Europe,2008,10.29,25,82998,7.65,12.9,1,82
+St. Vincent and the Grenadines,Central America and Caribbean,2011,7.04,26.7,6738,0.11,8.4,0,71.8
+Lebanon,Middle East,2010,1.37,27.1,9115,4.95,7.9,0,78.4
+Latvia,European Union,2010,9.83,26.3,10964,2.1,12.5,1,73.5
+Cabo Verde,Africa,2009,4.2,24.2,3004,0.49,5,0,70.9
+Ecuador,South America,2004,4.09,25.8,4725,13.6,7.2,0,73.9
+Moldova,Rest of Europe,2015,6.76,27,2732,2.83,11.6,0,71.5
+Bolivia,South America,2010,3.37,25.8,2514,10.05,7.8,0,68
+"Venezuela, RB",South America,2003,6.39,26.4,3273,25.55,7,0,72.6
+Malta,European Union,2008,6.87,27.1,19948,0.41,10,1,79.6
+Bosnia and Herzegovina,Rest of Europe,2003,4.29,24.9,3172,3.76,7.2,0,74.9
+Pakistan,Asia,2005,0.039,23,1175,160.3,4.5,0,64
+Bhutan,Asia,2013,0.31,23.6,2501,0.71,2.8,0,69.7
+Canada,North America,2010,8.4,26.8,41155,34,12.6,1,81.2
+Uruguay,South America,2001,6.9,25.9,9679,3.33,8,0,74.9
+Madagascar,Africa,2002,0.8,20.7,426,16.77,5.3,0,59.7
+St. Vincent and the Grenadines,Central America and Caribbean,2010,7.19,26.6,6783,0.11,8.3,0,71.8
+Tajikistan,Asia,2013,0.8,25.6,907,8.06,10.7,0,69.6
+Burundi,Africa,2001,6.62,20.7,306,6.53,1.9,0,49.9
+Morocco,Africa,2000,0.45,24.6,1763,28.79,3.4,0,68.7
+Libya,Africa,2008,0.011,27.4,13794,6.06,7,0,72.2
+Japan,Asia,2013,8.65,22.7,34240,127.45,12.2,1,83.3
+Lithuania,European Union,2013,14.92,26.4,13262,2.96,11.9,1,73.9
+Portugal,European Union,2002,12.5,25.6,19068,10.42,7,1,77.1
+"Congo, Rep.",Africa,2015,2.05,23.1,2449,4.86,6.3,0,63.1
+Zambia,Africa,2006,2.73,21.9,965,12.17,6.4,0,49.8
+Namibia,Africa,2007,1.9,23.5,4012,2.01,6.1,0,52.6
+Australia,Oceania,2006,10.31,26.7,50948,20.7,11.9,1,81
+Cameroon,Africa,2000,3.89,23,1107,15.51,4.8,0,51
+"Egypt, Arab Rep.",Africa,2007,0.19,28.4,3126,78.23,6,0,69.8
+Papua New Guinea,Oceania,2006,0.61,24.7,1944,6.65,3.6,0,60.8
+Lao PDR,Asia,2005,3.69,21.6,1172,5.75,4.2,0,61.6
+Lithuania,European Union,2004,12.1,26.1,8919,3.38,11.5,1,72
+Malta,European Union,2000,5.94,26.9,17189,0.39,8.1,1,78.3
+Ecuador,South America,2011,3.99,26.6,5655,15.24,8,0,75.3
+"Congo, Dem. Rep.",Africa,2003,2.26,21,342,51.43,3.9,0,52.1
+Dominican Republic,Central America and Caribbean,2005,5.75,25.4,4647,9.1,7,0,70.8
+Spain,European Union,2003,11.04,26.2,25311,42.19,8.6,1,79.6
+Czechia,European Union,2011,12.56,26.9,16762,10.5,12.5,1,77.9
+Syrian Arab Republic,Middle East,2003,0.86,27.1,1423,17.42,5.1,0,74
+Argentina,South America,2011,7.69,27.2,14200,41.26,9.8,0,75.4
+Rwanda,Africa,2002,9.16,21.1,399,8.43,2.5,0,51
+Brunei Darussalam,Asia,2011,0.91,26.5,34244,0.39,8.8,0,74.9
+Guinea,Africa,2011,0.24,22.6,712,10.42,2,0,57.4
+Namibia,Africa,2015,2.63,24.2,4897,2.31,6.7,0,62.1
+Guatemala,Central America and Caribbean,2013,1.83,26.3,3802,15.04,4.7,0,72.6
+Nepal,Asia,2014,0.24,22.2,871,26.91,4.5,0,69.2
+Zambia,Africa,2002,2.61,21.6,808,10.97,6.1,0,45.4
+Solomon Islands,Oceania,2007,0.82,25.5,1910,0.49,4.9,0,69.8
+Syrian Arab Republic,Middle East,2000,0.93,26.9,1341,16.41,4.6,0,73.1
+Antigua and Barbuda,Central America and Caribbean,2014,9.66,26.5,13909,0.09,9.2,0,76.3
+Serbia,Rest of Europe,2000,9.2,25.3,3193,7.52,9.4,0,71.6
+Moldova,Rest of Europe,2001,6.34,26,1423,2.92,9.3,0,67.2
+Panama,Central America and Caribbean,2011,6.16,26.5,11194,3.71,9.3,0,77
+Grenada,Central America and Caribbean,2012,7.77,26.6,7934,0.11,8.4,0,72.7
+Uruguay,South America,2002,6.08,26,8929,3.33,8,0,75.2
+Barbados,Central America and Caribbean,2001,7.42,26.6,15834,0.27,9,0,77.4
+Mauritius,Africa,2001,4.31,24.5,5674,1.2,6.4,0,71.8
+North Macedonia,Rest of Europe,2011,3.52,26.4,4434,2.06,9.3,0,75.1
+Haiti,Central America and Caribbean,2006,3.51,24.1,1286,9.34,4.4,0,59
+Armenia,Rest of Europe,2000,2.91,25.7,1290,3.07,10.8,0,71.4
+South Africa,Africa,2001,7.56,26.2,4996,45.57,7.5,0,55.1
+United Arab Emirates,Middle East,2006,2.46,27.6,51197,5.3,9.3,0,75.6
+Suriname,South America,2011,5.69,26.2,9358,0.54,7.8,0,70.7
+Burundi,Africa,2007,5.03,21.1,302,7.86,2.4,0,54.9
+Georgia,Rest of Europe,2013,6.76,27.2,3739,3.72,12.6,0,72.4
+Canada,North America,2008,8.4,26.8,42064,33.25,12.4,1,80.7
+Ethiopia,Africa,2004,0.21,20.1,286,74.24,1.8,0,55.2
+Cote d'Ivoire,Africa,2007,0.91,23.3,1558,19.17,3.9,0,51.1
+Ecuador,South America,2007,3.99,26.1,5048,14.3,7.3,0,74.5
+Finland,European Union,2014,8.76,25.9,42711,5.46,12.4,1,81.2
+Senegal,Africa,2014,0.19,22.9,1179,14.17,2.8,0,66.4
+Turkiye,Middle East,2011,1.47,27.5,9299,73.44,7.2,0,74.9
+Tunisia,Africa,2009,1.36,25.8,3881,10.53,6.4,0,74.9
+"Bahamas, The",Central America and Caribbean,2004,9.61,27.1,35122,0.32,10.9,0,72
+Guatemala,Central America and Caribbean,2003,2.34,25.3,3251,12.42,3.7,0,69.1
+Barbados,Central America and Caribbean,2014,9.27,27.6,16188,0.28,10.5,0,78.7
+Netherlands,European Union,2000,10.13,25,40457,15.93,10.8,1,78
+Uganda,Africa,2009,11.1,21.9,750,31.41,5.2,0,56.1
+Uruguay,South America,2008,6.54,26.5,12022,3.34,8.4,0,76.4
+Luxembourg,European Union,2014,11.42,26.2,105584,0.56,12,1,82.2
+Switzerland,Rest of Europe,2007,10.44,25,81805,7.55,12.6,1,81.7
+Costa Rica,Central America and Caribbean,2008,4.29,26.6,10053,4.46,8.4,0,78.5
+"Gambia, The",Africa,2004,3.56,22.6,751,1.5,2.3,0,57.6
+South Africa,Africa,2010,7.07,26.9,6085,51.22,10,0,57.7
+Brunei Darussalam,Asia,2001,0.44,25.4,34291,0.34,8.3,0,73.1
+Panama,Central America and Caribbean,2010,6.1,26.5,10232,3.64,9.3,0,76.8
+Lesotho,Africa,2006,2.77,24.4,874,1.99,5.4,0,42.6
+Azerbaijan,Asia,2005,0.73,26,2632,8.39,10.7,0,68.7
+South Africa,Africa,2007,7.5,26.7,6060,49.12,9.1,0,54.5
+Nicaragua,Central America and Caribbean,2014,3.54,27.1,1982,6.14,6.5,0,73.4
+"Iran, Islamic Rep.",Middle East,2010,0.03,25.8,5496,73.76,9,0,73.9
+Jamaica,Central America and Caribbean,2002,3.61,25.8,4934,2.69,7.7,0,74.1
+Lesotho,Africa,2010,2.75,24.7,996,2,5.6,0,45.1
+Oman,Middle East,2009,0.5,25.9,21458,2.88,7.7,0,75.4
+"Egypt, Arab Rep.",Africa,2012,0.19,29.1,3472,86.42,6.8,0,70.7
+Ghana,Africa,2000,1.95,22.6,1041,19.28,6.1,0,57
+Japan,Asia,2009,6.98,22.7,31651,128.05,11.4,1,82.9
+Spain,European Union,2012,8.6,26.1,24635,46.77,9.5,1,82.4
+Spain,European Union,2011,8.74,26.1,25403,46.74,9.5,1,82.5
+Croatia,European Union,2011,11.01,26.8,11780,4.28,11,1,76.8
+Uganda,Africa,2000,11.68,21.2,517,23.65,3.9,0,46.2
+Serbia,Rest of Europe,2006,8.82,25.6,4648,7.41,10.2,0,73.4
+Czechia,European Union,2002,13.77,26.5,12960,10.2,11.1,1,75.2
+Sierra Leone,Africa,2000,3.75,22,403,4.58,2.3,0,39.4
+Lebanon,Middle East,2009,1.53,27,8687,4.81,7.9,0,78.2
+Czechia,European Union,2010,12.68,26.8,16506,10.47,12.4,1,77.4
+Philippines,Asia,2002,4.39,22.3,1876,81.37,7.9,0,68.9
+Dominican Republic,Central America and Caribbean,2002,6.65,25.1,4376,8.72,6.7,0,70
+Sri Lanka,Asia,2000,1.45,21.5,1923,18.78,10,0,71.3
+Cyprus,European Union,2014,9.63,26.8,22514,1.15,11.9,1,80.2
+Latvia,European Union,2001,6.68,25.6,7245,2.34,10,1,70.8
+Benin,Africa,2005,1.24,22.6,944,7.98,2.8,0,57.4
+Madagascar,Africa,2003,0.83,20.8,453,17.28,5.4,0,60.3
+Pakistan,Asia,2000,0.015,22.5,1029,142.34,3.3,0,62.8
+Cote d'Ivoire,Africa,2008,0.97,23.3,1596,19.61,4,0,51.7
+Grenada,Central America and Caribbean,2001,9.77,25.4,6809,0.1,7.4,0,72.8
+Finland,European Union,2000,8.88,25.7,37884,5.18,9.3,1,77.5
+Kiribati,Oceania,2009,0.54,29.5,1409,0.1,7.8,0,65.5
+Bulgaria,European Union,2004,10.7,25.5,4850,7.72,10.1,1,72.6
+Cambodia,Asia,2014,3.07,22,1105,15.27,4.7,0,68.3
+Nicaragua,Central America and Caribbean,2000,3.58,25.8,1445,5.07,5.1,0,69.5
+Guyana,South America,2001,7.36,24.8,3947,0.75,7.8,0,65.5
+Ethiopia,Africa,2009,0.32,20.3,414,85.23,2.3,0,60.6
+Turkmenistan,Asia,2010,2.9,25.8,4266,5.09,9.9,0,66.7
+Lithuania,European Union,2007,13.79,26.2,11985,3.23,12.1,1,70.9
+Russian Federation,Rest of Europe,2001,10.47,25.8,5619,145.98,11.4,0,65.4
+Cabo Verde,Africa,2012,4.93,24.3,3085,0.51,5.4,0,71.4
+Myanmar,Asia,2005,0.63,21.7,542,48.95,3.5,0,61.6
+Portugal,European Union,2008,11.47,25.8,19986,10.56,7.8,1,78.5
+Uruguay,South America,2011,6.02,26.8,14086,3.37,8.4,0,76.9
+Ukraine,Rest of Europe,2014,7.58,26.5,2346,45.27,11.3,0,71.2
+Ireland,European Union,2004,13.11,26.7,47731,4.07,11.6,1,78.5
+Denmark,European Union,2012,9.23,25.3,51567,5.59,12.8,1,80.1
+Tanzania,Africa,2002,5.14,22.2,611,35.33,4.3,0,52.1
+Botswana,Africa,2001,5.5,23.7,4495,1.67,7.7,0,50.3
+Sri Lanka,Asia,2006,1.96,22.1,2398,19.7,10.5,0,74.9
+Malta,European Union,2013,7.32,27.1,22071,0.43,11,1,81.7
+Uzbekistan,Asia,2004,2.82,25.2,1476,25.86,9.7,0,68.1
+Serbia,Rest of Europe,2011,8.55,25.8,5354,7.23,10.6,0,74.5
+Finland,European Union,2009,9.96,26,42412,5.34,12.2,1,79.7
+Austria,European Union,2002,12.09,25.1,39636,8.08,9.4,1,78.7
+Suriname,South America,2006,4.57,25.9,7896,0.51,7.7,0,69.2
+Mali,Africa,2014,0.61,22.9,729,16.93,2.3,0,57
+Croatia,European Union,2008,11.36,26.4,12790,4.31,10.3,1,75.9
+Niger,Africa,2014,0.12,21.7,482,19.24,1.7,0,60.1
+Kazakhstan,Asia,2000,5.81,25.6,4446,14.88,10.5,0,65.5
+Croatia,European Union,2013,10.39,27,11537,4.26,11,1,77.1
+Japan,Asia,2007,7.28,22.6,33990,128,11.3,1,82.5
+India,Asia,2000,0.93,20.7,758,1056.58,4.4,0,62.5
+Norway,Rest of Europe,2014,6.06,26.6,73650,5.14,12.5,1,82.1
+Togo,Africa,2009,1.16,23,468,6.25,4.3,0,56.8
+Belize,Central America and Caribbean,2003,5.63,27.7,4736,0.27,10.2,0,69.5
+Vietnam,Asia,2008,1.78,20.8,1833,86.24,7,0,74.6
+Ethiopia,Africa,2011,0.45,20.4,490,90.14,2.4,0,62.5
+Cote d'Ivoire,Africa,2013,1.22,23.6,1769,22.09,4.7,0,54.9
+Mali,Africa,2002,0.61,21.8,641,11.62,1.4,0,49.5
+Turkiye,Middle East,2013,1.33,27.7,10226,75.93,7.7,0,75.8
+Netherlands,European Union,2009,9.12,25.5,44028,16.53,11.9,1,80.5
+"Yemen, Rep.",Middle East,2008,0.038,23.1,2574,21.89,2.3,0,64.9
+Niger,Africa,2007,0.096,21.3,417,14.69,1.4,0,55
+Papua New Guinea,Oceania,2005,0.8,24.6,1888,6.49,3.5,0,60.5
+Chad,Africa,2009,0.67,21.6,659,11.56,1.8,0,50.3
+Mauritius,Africa,2012,3.17,25.1,8384,1.26,8.6,0,73.9
+North Macedonia,Rest of Europe,2002,4.67,25.8,3240,2.02,7.1,0,73
+"Micronesia, Fed. Sts.",Oceania,2005,1.9,29,3023,0.11,6,0,65.5
+Eritrea,Africa,2003,0.62,20.3,796,2.6,3.7,0,57.2
+Zimbabwe,Africa,2015,3.84,23.8,1445,13.81,8.2,0,59.5
+Italy,European Union,2002,9.25,25.5,32998,57.06,8.8,1,80.2
+United Kingdom,Rest of Europe,2012,9.53,27,43100,63.7,12.9,1,80.9
+Lesotho,Africa,2011,2.38,24.7,1037,2,5.8,0,46.2
+United States,North America,2007,8.74,28.3,54300,301.23,12.9,1,78
+Solomon Islands,Oceania,2008,1.07,25.6,1976,0.5,5,0,70.1
+Nigeria,Africa,2014,4.45,23.2,2688,176.4,5.9,0,52.7
+Bulgaria,European Union,2013,10.32,26.2,6693,7.27,10.9,1,74.9
+Poland,European Union,2000,8.4,25.4,7357,38.26,11.1,1,73.7
+Zimbabwe,Africa,2012,3.93,23.7,1432,13.12,7.9,0,55
+Iceland,Rest of Europe,2004,6.71,25.7,46766,0.29,9.9,1,81
+Malta,European Union,2015,7.37,27.1,24922,0.45,11.2,1,81.9
+Georgia,Rest of Europe,2002,2.74,26,1775,3.98,11.9,0,70.2
+Ethiopia,Africa,2003,0.14,20,259,72.17,1.7,0,54.2
+Belgium,European Union,2013,10.33,26,39970,11.16,11.4,1,80.6
+New Zealand,Oceania,2008,9.48,27.5,35655,4.26,11.8,1,80.4
+Sierra Leone,Africa,2013,3.12,22.6,740,6.86,3.3,0,51.7
+Singapore,Asia,2003,1.43,23.5,36710,4.11,9.8,0,79
+Slovak Republic,European Union,2007,10.96,25.8,13734,5.37,11.1,1,74.2
+Nepal,Asia,2002,0.19,20.9,570,24.73,2.5,0,63.6
+Tonga,Oceania,2012,0.22,31.9,4108,0.1,10.9,0,70.2
+"Bahamas, The",Central America and Caribbean,2012,9.37,27.7,32652,0.36,11.1,0,72.4
+Kenya,Africa,2015,1.65,23.3,1465,47.88,6.3,0,64.8
+Cameroon,Africa,2008,5.5,23.8,1249,19.25,5.2,0,54.2
+Timor-Leste,Oceania,2006,0.039,20.3,862,1.02,3.4,0,64.8
+Canada,North America,2003,7.7,26.5,36024,31.64,11.7,1,79.7
+Lithuania,European Union,2011,14.76,26.3,12047,3.03,11.8,1,73.6
+Armenia,Rest of Europe,2004,3.73,25.8,2062,3,10.8,0,72.5
+Bangladesh,Asia,2014,0.01,21.5,1185,154.52,5.2,0,71.2
+Germany,European Union,2006,11.76,26.1,36699,82.38,13.6,1,79.1
+Papua New Guinea,Oceania,2012,0.94,25.2,2266,7.63,4.2,0,62.6
+Tonga,Oceania,2005,1.89,31.6,3875,0.1,9.2,0,69.8
+Cambodia,Asia,2012,2.52,21.8,993,14.78,4.5,0,67.5
+"Gambia, The",Africa,2005,3.31,22.7,711,1.54,2.4,0,57.9
+Bosnia and Herzegovina,Rest of Europe,2009,4.69,25.3,4028,3.74,7.7,0,75.8
+Djibouti,Africa,2010,0.48,23.9,1343,0.84,4,0,60.1
+Ukraine,Rest of Europe,2006,7.42,26.1,2322,46.79,11.2,0,68.1
+Eswatini,Africa,2001,6.7,25.6,2477,1.01,3.7,0,45.8
+Mongolia,Asia,2014,9.88,26,3860,2.94,10.1,0,68.9
+Canada,North America,2004,7.8,26.6,37086,31.94,12,1,79.9
+Costa Rica,Central America and Caribbean,2005,4.11,26.3,8606,4.29,7.9,0,78.1
+Vietnam,Asia,2001,0.76,20,1230,80.74,5.6,0,73.2
+Slovenia,European Union,2013,9.53,26.3,19922,2.06,11.7,1,80.3
+Poland,European Union,2011,10.24,26.2,11369,38.06,12.3,1,76.7
+Mozambique,Africa,2001,0.65,21.7,321,18.22,2.4,0,49.3
+Philippines,Asia,2004,4.42,22.4,2018,84.71,8.6,0,69
+New Zealand,Oceania,2002,9.09,26.9,32657,3.95,11.6,1,78.8
+Chad,Africa,2000,0.3,20.9,375,8.36,1.4,0,47.7
+Sao Tome and Principe,Central America and Caribbean,2009,4.34,24.4,1348,0.18,4.8,0,66.9
+Australia,Oceania,2002,9.84,26.4,47127,19.65,11.8,1,79.9
+Montenegro,Rest of Europe,2015,8.49,26.5,6517,0.62,11.3,0,76.4
+Cambodia,Asia,2003,0.84,20.9,575,12.86,3.4,0,61.2
+Gabon,Africa,2004,8.02,24.2,7507,1.35,6.8,0,57.9
+Singapore,Asia,2006,1.55,23.5,44160,4.4,10.1,0,80.1
+Fiji,Oceania,2012,2.43,27.3,4683,0.87,10.1,0,66.9
+Greece,European Union,2015,6.68,27.1,18084,10.82,10.6,1,81
+Mongolia,Asia,2001,2.18,24.4,1624,2.42,8.3,0,63.3
+Vietnam,Asia,2003,0.93,20.2,1372,82.3,6,0,73.7
+Bosnia and Herzegovina,Rest of Europe,2004,4.38,25,3371,3.76,7.3,0,75.1
+Barbados,Central America and Caribbean,2004,7.43,26.8,16369,0.28,9.2,0,77.8
+Lao PDR,Asia,2006,3.71,21.7,1253,5.85,4.3,0,62.2
+Brunei Darussalam,Asia,2007,0.83,26,35065,0.37,8.6,0,74.4
+Malta,European Union,2010,6.99,27.1,20558,0.41,10.3,1,81.4
+Honduras,Central America and Caribbean,2004,2.83,25.3,1913,7.28,4.6,0,71.8
+Switzerland,Rest of Europe,2012,9.87,25.1,82800,8,13.4,1,82.7
+Tajikistan,Asia,2004,0.7,24.5,602,6.66,10.5,0,65.3
+Bangladesh,Asia,2013,0,21.4,1130,152.76,5.1,0,70.9
+Philippines,Asia,2005,4.19,22.5,2078,86.33,8.7,0,69.1
+Kyrgyz Republic,Asia,2014,6.18,26.4,1102,5.84,10.8,0,70.4
+Lebanon,Middle East,2001,2.32,26.4,6712,3.99,7.5,0,75
+North Macedonia,Rest of Europe,2014,3.56,26.6,4687,2.07,9.5,0,75.5
+Botswana,Africa,2005,6.38,23.9,4986,1.8,8.3,0,52.1
+Russian Federation,Rest of Europe,2010,10.82,26.1,8755,142.85,11.5,0,68.8
+Uruguay,South America,2005,6.26,26.3,10170,3.32,8,0,75.8
+Slovak Republic,European Union,2002,11.16,25.6,9641,5.38,10.3,1,73.6
+New Zealand,Oceania,2007,9.2,27.4,36363,4.22,11.8,1,80.2
+North Macedonia,Rest of Europe,2010,3.53,26.3,4340,2.06,9.1,0,75
+Jamaica,Central America and Caribbean,2011,2.99,27.1,4946,2.83,9,0,74
+Bolivia,South America,2015,3.15,26.4,3036,10.87,8.7,0,70.3
+Myanmar,Asia,2010,0.97,22.1,903,50.6,4.1,0,63.5
+Slovak Republic,European Union,2005,11.06,25.7,11426,5.37,10.8,1,73.9
+Azerbaijan,Asia,2013,0.52,26.7,5426,9.42,10.8,0,71.8
+Papua New Guinea,Oceania,2002,0.58,24.3,1801,6.1,3.4,0,59.7
+Tonga,Oceania,2010,1.24,31.8,3769,0.1,10.7,0,70.1
+El Salvador,Central America and Caribbean,2001,2.76,26.1,2999,5.93,5.3,0,69.2
+Ireland,European Union,2015,10.81,27.4,62012,4.7,12.3,1,81.5
+Canada,North America,2005,8,26.6,38573,32.24,12.2,1,80.2
+Mongolia,Asia,2000,2.15,24.3,1592,2.4,8.2,0,62.9
+Croatia,European Union,2014,9.5,27.1,11544,4.24,11.1,1,77.5
+"Venezuela, RB",South America,2002,6.99,26.3,3701,25.1,6.8,0,72.5
+Switzerland,Rest of Europe,2009,10.15,25.1,80262,7.74,13.3,1,82
+Burkina Faso,Africa,2005,5.87,21.4,518,13.42,1.3,0,53.3
+Lesotho,Africa,2013,2.55,24.8,1109,2.03,6,0,48.7
+Colombia,South America,2012,4.37,25.9,5631,46.08,7.6,0,75.9
+Morocco,Africa,2009,0.53,25.3,2473,31.93,4.2,0,74
+Austria,European Union,2000,13.35,25,38843,8.01,9,1,78.1
+Chile,South America,2011,7.02,27.5,12339,17.23,9.8,0,79
+Niger,Africa,2008,0.11,21.4,432,15.25,1.4,0,55.8
+El Salvador,Central America and Caribbean,2006,2.67,26.7,3262,6.08,6.4,0,70.3
+France,European Union,2004,13.14,25,34900,62.7,10.3,1,80.2
+Nicaragua,Central America and Caribbean,2001,3.48,25.9,1466,5.15,5.2,0,69.9
+Dominican Republic,Central America and Caribbean,2007,5.92,25.6,5309,9.34,7.2,0,71.3
+North Macedonia,Rest of Europe,2008,4.02,26.1,4231,2.05,8.7,0,74.4
+Kuwait,Middle East,2012,0,29.2,33455,3.35,7.2,0,74.7
+Samoa,Oceania,2006,3.52,31.1,3955,0.18,9.5,0,70.6
+United Arab Emirates,Middle East,2004,1.59,27.5,57910,4.07,8.9,0,75.2
+Uzbekistan,Asia,2007,1.75,25.6,1787,26.87,10.1,0,68.9
+Croatia,European Union,2015,9.64,27.3,11933,4.2,11.2,1,77.3
+Malta,European Union,2009,7.1,27.1,19574,0.41,10.2,1,80.2
+Estonia,European Union,2014,17.29,26.3,17097,1.31,12.6,1,77
+"Bahamas, The",Central America and Caribbean,2006,9.82,27.2,35863,0.33,10.9,0,72
+Botswana,Africa,2000,5.38,23.6,4569,1.64,7.6,0,50.6
+Sri Lanka,Asia,2007,2.29,22.2,2543,19.84,10.6,0,75
+Netherlands,European Union,2006,9.58,25.4,43592,16.35,11.8,1,79.7
+Sri Lanka,Asia,2010,2.31,22.5,2950,20.26,10.8,0,75.4
+Tonga,Oceania,2009,1.08,31.8,3742,0.1,10.4,0,70
+Malaysia,Asia,2008,0.5,24.8,8074,27.24,9.4,0,74.1
+Nicaragua,Central America and Caribbean,2004,3.75,26.2,1529,5.36,5.4,0,70.9
+Armenia,Rest of Europe,2003,3,25.8,1856,3.02,10.8,0,72.3
+St. Vincent and the Grenadines,Central America and Caribbean,2006,6.22,26.1,6918,0.11,8,0,71.4
+Eritrea,Africa,2001,0.67,20.2,870,2.37,3.7,0,55.9
+Bangladesh,Asia,2006,0.003,20.7,809,140.92,4.6,0,68.2
+Malawi,Africa,2014,2.01,22.8,381,16.29,4.4,0,61
+Kyrgyz Republic,Asia,2015,5.37,26.5,1121,5.96,10.8,0,70.7
+Nigeria,Africa,2013,4.45,23.1,2597,171.77,5.9,0,52.2
+Austria,European Union,2009,11.87,25.4,42655,8.34,11.7,1,80.3
+Serbia,Rest of Europe,2007,9.42,25.6,4968,7.38,10.2,0,73.6
+Honduras,Central America and Caribbean,2012,2.71,26.3,2207,8.64,5.5,0,73.8
+Dominican Republic,Central America and Caribbean,2006,5.84,25.5,5007,9.22,7.1,0,71
+Zambia,Africa,2012,2.78,22.3,1298,14.47,6.7,0,58.5
+Brunei Darussalam,Asia,2014,0.67,26.9,31679,0.41,9,0,75.2
+Ethiopia,Africa,2007,0.31,20.2,363,80.67,2.1,0,58.5
+Sao Tome and Principe,Central America and Caribbean,2010,5,24.4,1402,0.18,4.9,0,67.4
+Switzerland,Rest of Europe,2015,9.62,25.2,84776,8.28,13.4,1,82.9
+Albania,Rest of Europe,2014,4.1,26.5,3856,2.89,9.7,0,77.8
+Kiribati,Oceania,2002,0.51,28.9,1537,0.09,7,0,63.7
+Kiribati,Oceania,2012,0.38,29.7,1415,0.11,7.9,0,66.4
+Cameroon,Africa,2012,6.42,24.1,1278,21.49,5.7,0,56.1
+Lao PDR,Asia,2014,6.74,22.7,2025,6.64,5,0,66.1
+Guatemala,Central America and Caribbean,2015,1.65,26.5,3995,15.57,6.3,0,73.3
+Algeria,Africa,2003,0.33,24.5,3490,32.26,6.5,0,72.1
+Moldova,Rest of Europe,2009,6.24,26.6,2103,2.86,11,0,69.1
+Estonia,European Union,2003,11.64,25.7,12362,1.37,11.9,1,71.3
+Qatar,Middle East,2015,1.03,29.1,63039,2.57,9.8,0,79.8
+Madagascar,Africa,2000,1.17,20.6,488,15.77,5.2,0,58.5
+"Egypt, Arab Rep.",Africa,2010,0.21,28.8,3485,82.76,6.5,0,70.3
+Guyana,South America,2005,5.84,25.2,3944,0.75,7.9,0,66.7
+Tajikistan,Asia,2009,0.66,25.1,752,7.36,10.9,0,68.4
+Mauritania,Africa,2015,0,24.9,1524,4.05,4.3,0,63.9
+Kazakhstan,Asia,2012,3.73,26.1,9824,16.79,11.5,0,69.5
+Papua New Guinea,Oceania,2001,0.65,24.2,1842,5.97,3.3,0,59.5
+Guinea-Bissau,Africa,2009,2.89,23,574,1.48,2.5,0,54.1
+Bahrain,Middle East,2002,1.87,25.4,22258,0.74,8.4,0,74.8
+Norway,Rest of Europe,2013,6.21,26.5,73047,5.08,12.7,1,81.8
+Sri Lanka,Asia,2003,1.69,21.8,2037,19.22,10.2,0,73.8
+Peru,South America,2000,4.76,25,3304,26.46,8,0,71.1
+Mauritania,Africa,2010,0,24.6,1417,3.49,3.8,0,62.5
+Kenya,Africa,2004,0.69,22.3,1160,35.64,5.7,0,53.5
+"Micronesia, Fed. Sts.",Oceania,2000,2.23,28.8,2895,0.11,4.8,0,64.6
+United Kingdom,Rest of Europe,2001,11.31,26.4,39888,59.12,11.8,1,78
+Lithuania,European Union,2010,13.22,26.3,11107,3.1,11.6,1,73.3
+Australia,Oceania,2012,10.03,27,55255,22.73,12.6,1,82
+Barbados,Central America and Caribbean,2005,7.84,26.9,16952,0.28,9.2,0,77.9
+Togo,Africa,2005,1.84,22.6,468,5.61,4.2,0,54.6
+Uruguay,South America,2012,6.55,26.9,14541,3.38,8.5,0,77
+Thailand,Asia,2012,7.1,24,5531,67.84,7.7,0,75
+Georgia,Rest of Europe,2010,7.72,26.8,3101,3.79,12.2,0,71.5
+Jordan,Middle East,2010,0.46,28.5,4644,7.26,9.8,0,73.4
+Cameroon,Africa,2004,4.69,23.5,1224,17.26,5.1,0,52.3
+Jamaica,Central America and Caribbean,2007,3.31,26.5,5308,2.77,8.4,0,74.1
+Bolivia,South America,2006,3.13,25.4,2251,9.4,7.3,0,65.9
+Belarus,Rest of Europe,2005,11.19,26,3880,9.66,9.3,0,68.9
+Malta,European Union,2003,6.54,27,17747,0.4,8.5,1,78.5
+Mali,Africa,2003,0.56,21.9,678,11.98,1.5,0,50.4
+Vietnam,Asia,2013,2.68,21.5,2315,90.75,7.9,0,75
+Kenya,Africa,2010,1.52,22.8,1326,42.03,6.1,0,61
+Barbados,Central America and Caribbean,2006,8.12,27,17914,0.28,9.2,0,78
+Algeria,Africa,2006,0.38,24.7,3760,33.64,7,0,73.5
+Denmark,European Union,2003,11.53,25.1,49600,5.39,12.8,1,77.1
+Malaysia,Asia,2009,0.5,24.9,7809,27.74,9.6,0,74.3
+India,Asia,2008,1.92,21.2,1093,1200.67,5.2,0,65.8
+Sao Tome and Principe,Central America and Caribbean,2000,5.07,23.5,1081,0.14,4.2,0,61.4
+Barbados,Central America and Caribbean,2010,8.66,27.3,16784,0.28,9.4,0,78.4
+Cameroon,Africa,2003,4.6,23.4,1175,16.8,5.1,0,51.9
+Ukraine,Rest of Europe,2004,6.51,25.9,2065,47.45,10.7,0,68.2
+Gabon,Africa,2003,6.41,24,7647,1.32,6.6,0,57.8
+Germany,European Union,2003,11.92,26,34620,82.53,12.5,1,78.4
+Sao Tome and Principe,Central America and Caribbean,2005,5.5,24,1206,0.16,4.5,0,64.7
+Malawi,Africa,2001,1.3,21.8,273,11.43,3.1,0,45.2
+Solomon Islands,Oceania,2003,1.2,25.2,1706,0.45,4.7,0,68.5
+Guinea,Africa,2008,0.21,22.5,696,9.74,1.6,0,55.6
+Barbados,Central America and Caribbean,2013,9.05,27.5,16232,0.28,10.5,0,78.6
+Spain,European Union,2007,11.05,26.2,27219,45.23,9.1,1,80.9
+St. Lucia,Central America and Caribbean,2007,12.59,28.2,10174,0.17,7.7,0,74.4
+Kazakhstan,Asia,2005,6.57,25.8,7155,15.15,11.7,0,65.9
+El Salvador,Central America and Caribbean,2002,2.85,26.2,3029,5.96,5.5,0,69.4
+Australia,Oceania,2005,10.3,26.7,50333,20.39,11.7,1,80.8
+Portugal,European Union,2001,12.63,25.6,19026,10.36,6.9,1,76.8
+Eritrea,Africa,2010,1.13,20.5,654,3.17,3.9,0,62.2
+Uzbekistan,Asia,2001,2.92,24.9,1313,24.96,9.2,0,67.4
+Tajikistan,Asia,2007,0.54,24.8,699,7.06,10.5,0,67.4
+Canada,North America,2013,8.2,26.9,42846,35.08,12.9,1,81.7
+Uganda,Africa,2011,8.79,22,814,33.48,5.4,0,58.1
+Slovenia,European Union,2009,10.52,26,20428,2.04,12.1,1,79
+Djibouti,Africa,2008,0.49,23.8,1224,0.82,3.9,0,59.1
+Antigua and Barbuda,Central America and Caribbean,2005,7.44,25.6,15122,0.08,9.1,0,75
+Eswatini,Africa,2003,5.62,25.7,2662,1.02,3.4,0,43.4
+Slovenia,European Union,2000,12.8,25.4,16241,1.99,11.6,1,75.4
+Estonia,European Union,2013,17.75,26.3,16553,1.32,12.6,1,77.1
+Kyrgyz Republic,Asia,2001,5.7,24.8,749,4.95,9.9,0,68.7
+Mauritius,Africa,2013,3.17,25.1,8647,1.26,8.9,0,74
+New Zealand,Oceania,2006,9.36,27.3,35625,4.18,11.7,1,80
+Ghana,Africa,2007,0.67,23.4,1240,22.96,6.5,0,59.7
+Afghanistan,Asia,2001,0.02,21.8,163,21.61,2.2,0,56.3
+Ireland,European Union,2007,13.17,26.9,51625,4.4,11.9,1,79.6
+Moldova,Rest of Europe,2000,6.76,25.9,1338,2.92,9,0,67
+Rwanda,Africa,2000,8.71,20.9,345,7.93,2.3,0,48.6
+Suriname,South America,2008,4.82,26,8445,0.52,7.7,0,69.9
+"Gambia, The",Africa,2007,3.19,23,686,1.64,2.5,0,58.7
+Israel,Middle East,2000,2.58,26.1,28748,6.29,12,1,79
+Solomon Islands,Oceania,2004,1.21,25.3,1774,0.46,4.8,0,68.8
+Botswana,Africa,2011,6.24,24.2,5899,2.02,8.9,0,61.9
+Brazil,South America,2004,6.7,25.2,7206,184.01,6.2,0,71.5
+Brunei Darussalam,Asia,2006,0.63,25.9,35456,0.37,8.5,0,74.2
+Moldova,Rest of Europe,2012,8.3,26.8,2374,2.86,11.4,0,70.6
+Bhutan,Asia,2004,0.97,22.7,1410,0.64,2.3,0,64.5
+"Yemen, Rep.",Middle East,2015,0.03,23.7,1602,26.5,3,0,66.1
+Eritrea,Africa,2013,1.03,20.6,761,3.34,3.9,0,63.7
+Iraq,Middle East,2003,0.083,27.3,2352,25.64,5.5,0,68.6
+Zambia,Africa,2015,3.5,22.5,1338,15.88,6.9,0,61.7
+Madagascar,Africa,2001,1.05,20.7,501,16.26,5.2,0,59.1
+St. Vincent and the Grenadines,Central America and Caribbean,2002,5.21,25.7,5706,0.11,7.7,0,71
+Kazakhstan,Asia,2015,3.33,26.3,10511,17.54,11.7,0,72
+Denmark,European Union,2001,11.54,25,49470,5.36,11.4,1,76.8
+Mauritius,Africa,2000,4.58,24.5,5534,1.19,6.2,0,71.7
+Serbia,Rest of Europe,2015,7.2,26,5589,7.1,11,0,75.3
+Peru,South America,2005,4.65,25.5,3868,27.87,8.7,0,72.9
+Solomon Islands,Oceania,2013,0.94,26,2232,0.57,5.3,0,71.6
+United Kingdom,Rest of Europe,2003,11.28,26.5,41598,59.65,12,1,78.4
+Mauritania,Africa,2013,0,24.8,1470,3.82,4.1,0,63.4
+Belgium,European Union,2011,10.14,26,39929,11.04,11.2,1,80.6
+Paraguay,South America,2015,5.21,26.6,5414,6.69,8.5,0,73.7
+Cuba,Central America and Caribbean,2009,3.97,25.2,6601,11.23,10.8,0,78.3
+Malta,European Union,2011,6.89,27.1,20566,0.42,10.5,1,80.7
+Kyrgyz Republic,Asia,2004,6.65,25.1,831,5.1,10.1,0,68.2
+Belgium,European Union,2005,12.21,25.7,38426,10.48,10.7,1,79
+Bulgaria,European Union,2001,11.07,25.3,3937,8.01,9.9,1,71.8
+Slovenia,European Union,2001,11.58,25.4,16737,1.99,11.5,1,75.8
+Guinea,Africa,2000,0.18,21.8,628,8.24,1.5,0,51.2
+Bolivia,South America,2005,2.8,25.3,2186,9.23,7,0,65.3
+Saudi Arabia,Middle East,2001,0.049,27.6,17032,21.2,6.8,0,72.8
+"Micronesia, Fed. Sts.",Oceania,2015,1.59,29.6,2907,0.11,8,0,67.3
+Morocco,Africa,2011,0.46,25.5,2631,32.78,4.4,0,74.7
+Montenegro,Rest of Europe,2004,10.12,25.6,4819,0.61,10.4,0,73.4
+Hungary,European Union,2012,11.13,27,11470,9.92,12.2,1,75.1
+Benin,Africa,2000,1.44,22.1,906,6.87,2.6,0,55.4
+Vanuatu,Oceania,2011,1.82,26,2867,0.24,6.7,0,69.3
+Belize,Central America and Caribbean,2014,6.73,28.8,4770,0.35,10.5,0,73.8
+Samoa,Oceania,2003,4.16,30.8,3590,0.18,9.2,0,69.8
+Lesotho,Africa,2001,2.85,24.1,739,2.04,5,0,46.2
+Singapore,Asia,2002,2.16,23.5,34599,4.18,9.5,0,78.6
+Bolivia,South America,2001,2.19,24.8,2054,8.58,7.3,0,63.1
+Russian Federation,Rest of Europe,2014,8.86,26.2,9521,143.82,11.9,0,70.7
+Seychelles,Africa,2003,7.35,25.7,10198,0.08,7.6,0,71
+Lebanon,Middle East,2012,1.24,27.3,8434,5.54,8.1,0,78.6
+Chad,Africa,2012,0.63,21.7,738,12.78,2.1,0,51.9
+Belgium,European Union,2008,10.51,25.9,40152,10.71,11,1,79.7
+Dominican Republic,Central America and Caribbean,2004,5.31,25.3,4305,8.97,6.9,0,70.5
+Botswana,Africa,2013,5.07,24.2,6705,2.06,9.1,0,65
+Burkina Faso,Africa,2000,4.51,20.9,440,11.61,1.2,0,50.5
+Brunei Darussalam,Asia,2012,0.96,26.7,34097,0.4,8.9,0,75
+Botswana,Africa,2014,6.04,24.3,6896,2.09,9.2,0,66.3
+United Kingdom,Rest of Europe,2014,9.45,27.1,44596,64.6,12.7,1,81.3
+United States,North America,2014,8.78,28.8,55675,318.39,13.3,1,78.8
+Cabo Verde,Africa,2002,3.87,23.5,2053,0.44,3.8,0,69.6
+Luxembourg,European Union,2003,12.52,25.7,97598,0.45,10.9,1,77.7
+Chile,South America,2006,7.33,27.1,10714,16.35,9.5,0,77.9
+Cambodia,Asia,2008,1.35,21.4,867,13.88,3.9,0,65.4
+Iceland,Rest of Europe,2005,7.05,25.8,48851,0.3,10,1,81.5
+Myanmar,Asia,2004,0.64,21.6,481,48.56,3.5,0,61.3
+Bulgaria,European Union,2009,10.53,25.9,6289,7.44,10.6,1,73.4
+Russian Federation,Rest of Europe,2005,11.59,26,7323,143.52,11.4,0,65.5
+Norway,Rest of Europe,2000,5.67,25.6,67438,4.49,12,1,78.6
+"Iran, Islamic Rep.",Middle East,2013,0.01,26,5157,76.48,9.8,0,75.2
+Chad,Africa,2006,0.49,21.4,657,10.46,1.6,0,48.9
+Liberia,Africa,2012,3.75,23.9,713,4.14,4.3,0,60.7
+"Yemen, Rep.",Middle East,2000,0.07,22.3,2384,17.41,1.2,0,60.7
+Croatia,European Union,2012,10.58,26.9,11547,4.27,11,1,76.9
+Liberia,Africa,2008,3.9,23.7,626,3.61,4,0,58.2
+Iceland,Rest of Europe,2000,6.14,25.5,42175,0.28,9.4,1,79.7
+Saudi Arabia,Middle East,2012,0,28.2,20250,29.15,9.4,0,74.3
+Algeria,Africa,2004,0.45,24.6,3593,32.69,6.7,0,72.6
+Haiti,Central America and Caribbean,2000,3.63,23.3,1316,8.46,3.8,0,57.1
+Russian Federation,Rest of Europe,2002,10.87,25.8,5910,145.31,11.4,0,65.1
+"Micronesia, Fed. Sts.",Oceania,2011,1.87,29.4,3167,0.1,7.4,0,66.6
+Cameroon,Africa,2001,4.38,23.1,1124,15.93,4.9,0,51.2
+Indonesia,Asia,2010,0.08,22.5,2720,241.83,7.4,0,69.2
+Australia,Oceania,2013,10,27,55724,23.13,12.6,1,82.1
+"Egypt, Arab Rep.",Africa,2008,0.21,28.6,3291,79.64,6.2,0,70
+Austria,European Union,2005,12.14,25.2,41281,8.23,9.9,1,79.3
+North Macedonia,Rest of Europe,2009,3.67,26.2,4208,2.05,8.9,0,74.4
+France,European Union,2007,12.95,25,36468,64.02,10.7,1,81.1
+Samoa,Oceania,2014,2.05,32,3932,0.19,10.3,0,72.5
+Angola,Africa,2013,7.67,23.1,3169,26.02,4.9,0,58.1
+Bosnia and Herzegovina,Rest of Europe,2015,4.9,25.7,4730,3.43,9,0,76.9
+China,Asia,2012,5.52,23.4,6592,1354.19,7.5,0,75
+Benin,Africa,2014,1.53,23.4,1088,10.29,3.3,0,60.3
+Ethiopia,Africa,2014,0.65,20.5,596,98.09,2.5,0,64.5
+Mali,Africa,2010,0.6,22.6,732,15.05,2,0,55.3
+North Macedonia,Rest of Europe,2000,4.49,25.6,3283,2.03,6.5,0,72.9
+Uruguay,South America,2009,6.45,26.6,12496,3.35,8.4,0,76.6
+Bangladesh,Asia,2009,0.003,21,932,145.92,4.8,0,69.5
+South Africa,Africa,2009,7.25,26.9,5992,50.48,10.1,0,56.5
+Comoros,Africa,2005,0.24,23.3,1182,0.61,3.1,0,60.1
+Central African Republic,Africa,2012,1.96,22.6,576,4.44,3.8,0,48.6
+South Africa,Africa,2005,7.17,26.6,5588,47.88,8.9,0,53.4
+Ecuador,South America,2010,3.97,26.5,5324,15.01,7.9,0,75.1
+Tunisia,Africa,2001,1.18,25.2,2965,9.79,5.1,0,73.4
+France,European Union,2002,13.92,24.9,34152,61.81,10.1,1,79.3
+Peru,South America,2014,5.51,26.4,6109,30.09,9.4,0,75.5
+Brunei Darussalam,Asia,2015,0.67,27,31164,0.41,9,0,75.3
+Ireland,European Union,2002,13.95,26.5,44919,3.93,11.2,1,77.6
+Central African Republic,Africa,2003,1.61,21.8,442,3.88,3.1,0,44.2
+Timor-Leste,Oceania,2001,0.5,20,1075,0.9,2.8,0,59.9
+Cote d'Ivoire,Africa,2003,4.65,22.9,1567,17.6,3.5,0,49.6
+Lesotho,Africa,2000,3.09,24,715,2.03,4.9,0,47.7
+Trinidad and Tobago,Central America and Caribbean,2013,5.85,27.3,18441,1.35,10.8,0,72.6
+Senegal,Africa,2003,0.19,22.3,1093,10.54,2.4,0,59.3
+Bulgaria,European Union,2012,10.88,26.1,6694,7.31,10.8,1,74.3
+United Kingdom,Rest of Europe,2015,9.59,27.1,45405,65.12,12.8,1,81
+France,European Union,2012,12.22,25,36183,65.66,11,1,82
+Portugal,European Union,2012,9.76,25.8,18655,10.51,8.5,1,80.4
+Lesotho,Africa,2002,2.93,24.1,747,2.03,5.1,0,44.9
+Guatemala,Central America and Caribbean,2008,2.1,25.8,3621,13.74,4.3,0,70.8
+Slovak Republic,European Union,2010,10.16,26,14526,5.39,11.6,1,75.1
+Sierra Leone,Africa,2001,3.98,22.1,364,4.75,2.4,0,40.4
+Somalia,Africa,2012,0,22.9,331,12.72,2.1,0,54.7
+Seychelles,Africa,2009,5.2,26.2,11973,0.09,8,0,73.1
+Algeria,Africa,2007,0.34,24.8,3828,34.17,7.2,0,73.9
+Niger,Africa,2015,0.12,21.8,484,20,1.8,0,60.6
+Malta,European Union,2012,7.18,27.1,21222,0.42,10.8,1,80.7
+"Egypt, Arab Rep.",Africa,2003,0.14,28,2699,72.83,5.3,0,69.1
+Libya,Africa,2012,0.01,27.7,12386,6.29,7.3,0,71.9
+Armenia,Rest of Europe,2015,4.04,26.3,3607,2.93,11.6,0,74.5
+Suriname,South America,2012,5.79,26.3,9502,0.54,7.9,0,70.9
+Mexico,North America,2012,3.86,27.7,9280,117.27,8.6,0,75
+Guinea-Bissau,Africa,2000,3.02,22.1,577,1.2,2.3,0,50.4
+Fiji,Oceania,2005,2.03,26.7,4570,0.82,9.2,0,66.3
+Qatar,Middle East,2009,1.09,28.4,59091,1.65,9.2,0,78.9
+Bangladesh,Asia,2008,0.003,20.9,897,144.3,4.8,0,69.1
+Philippines,Asia,2003,4.42,22.4,1931,83.05,8,0,68.9
+Maldives,Asia,2012,1.23,24.9,8733,0.4,5.5,0,76.7
+Uganda,Africa,2006,10.97,21.6,655,28.57,4.6,0,52.8
+"Bahamas, The",Central America and Caribbean,2005,9.83,27.1,35649,0.32,10.9,0,72
+Malaysia,Asia,2007,0.46,24.7,7850,26.72,8.8,0,73.9
+Togo,Africa,2012,1.13,23.2,519,6.77,4.4,0,58.7
+Turkmenistan,Asia,2003,2.57,25,2398,4.66,9.9,0,64.4
+Barbados,Central America and Caribbean,2003,7.51,26.7,16197,0.27,9.1,0,77.7
+Azerbaijan,Asia,2009,1.92,26.3,5024,8.95,10.7,0,70.6
+Czechia,European Union,2009,13.43,26.8,16161,10.44,12.3,1,77.1
+Belarus,Rest of Europe,2013,12.58,26.5,6111,9.44,12,0,72.5
+Luxembourg,European Union,2007,12.27,26,112418,0.48,11.7,1,79.4
+Croatia,European Union,2002,13.88,25.8,9962,4.3,9.8,1,74.7
+Bangladesh,Asia,2015,0.01,21.6,1248,156.26,5.2,0,71.5
+Lao PDR,Asia,2009,5.25,22.1,1485,6.15,4.5,0,63.8
+Niger,Africa,2004,0.096,21.1,398,13.13,1.3,0,52.7
+Saudi Arabia,Middle East,2010,0,28.1,18568,27.42,8.9,0,73.9
+Switzerland,Rest of Europe,2000,11.26,24.8,74013,7.18,11.4,1,79.7
+"Venezuela, RB",South America,2007,8.89,26.5,8454,27.25,8.1,0,73
+Brazil,South America,2011,7.13,26,8966,197.51,7.1,0,73.9
+Djibouti,Africa,2012,0.41,23.9,1559,0.87,4,0,61.4
+Tanzania,Africa,2013,6.71,23,888,48.48,5.5,0,61.4
+Russian Federation,Rest of Europe,2000,10.21,25.7,5324,146.6,11.3,0,65.5
+Benin,Africa,2009,1.26,23,996,8.94,2.8,0,59
+Bhutan,Asia,2003,0.53,22.5,1353,0.63,2.3,0,63.6
+Vanuatu,Oceania,2012,1.84,26,2817,0.25,6.8,0,69.4
+Paraguay,South America,2008,6.89,25.8,4420,6.08,7.4,0,72.3
+Cabo Verde,Africa,2005,4.32,23.8,2411,0.46,4.3,0,70.4
+Cyprus,European Union,2002,11.68,26.4,23603,0.98,10.2,1,78.3
+Kenya,Africa,2012,1.49,23,1382,44.34,6.2,0,62.7
+Moldova,Rest of Europe,2005,11.81,26.3,1907,2.89,10.4,0,67.8
+Angola,Africa,2014,8.1,23.2,3207,26.94,4.9,0,58.8
+Philippines,Asia,2007,4.14,22.6,2251,89.41,8.9,0,69.4
+Bolivia,South America,2004,2.61,25.2,2131,9.07,7.1,0,64.8
+Antigua and Barbuda,Central America and Caribbean,2006,7.7,25.7,16786,0.08,9.2,0,75.2
+Sri Lanka,Asia,2012,2.89,22.7,3463,20.43,10.9,0,75.8
+Romania,European Union,2009,11.01,25.9,7889,20.37,10.6,1,73.3
+Sierra Leone,Africa,2005,3.65,22.4,472,5.65,2.7,0,44.5
+Suriname,South America,2010,5.27,26.1,8942,0.53,7.7,0,70.5
+Honduras,Central America and Caribbean,2008,2.85,25.8,2184,7.98,5.1,0,72.8
+Turkiye,Middle East,2001,1.6,26.8,6076,64.19,5.6,0,70.6
+Estonia,European Union,2008,16.61,26,16608,1.34,12.3,1,73.8
+Switzerland,Rest of Europe,2001,11.12,24.8,74705,7.23,11.6,1,80.2
+Tajikistan,Asia,2012,0.77,25.5,865,7.87,10.7,0,69.3
+Somalia,Africa,2015,0,23.1,386,13.8,2.1,0,55.9
+Algeria,Africa,2014,0.54,25.4,4112,38.92,7.9,0,75.9
+Thailand,Asia,2013,6.89,24.1,5654,68.14,7.5,0,75.4
+Niger,Africa,2003,0.096,21,411,12.65,1.2,0,52
+Cyprus,European Union,2013,9.07,26.8,22682,1.14,12,1,80
+United Arab Emirates,Middle East,2000,1.66,27.2,60716,3.13,8.3,0,74.3
+Brazil,South America,2013,6.86,26.2,9248,201.04,7.4,0,74.5
+Uzbekistan,Asia,2015,2.59,26.7,2754,31.3,11.4,0,70.9
+Eritrea,Africa,2011,1.19,20.6,701,3.21,3.9,0,62.7
+Malawi,Africa,2008,1.9,22.4,328,13.73,3.9,0,52.2
+Cote d'Ivoire,Africa,2001,4.67,22.7,1765,16.85,3.3,0,49.5
+Estonia,European Union,2010,14.97,26.1,14586,1.33,12.5,1,75.4
+Canada,North America,2007,8.3,26.7,42097,32.89,12.4,1,80.5
+Bahrain,Middle East,2013,1.65,24.9,22079,1.32,9,0,76.5
+Azerbaijan,Asia,2014,0.36,26.8,5506,9.54,10.7,0,72
+Dominican Republic,Central America and Caribbean,2010,5.54,25.9,5772,9.7,7.3,0,72
+Belarus,Rest of Europe,2006,12.61,26.1,4294,9.6,10,0,69.4
+Belize,Central America and Caribbean,2000,4.7,27.4,4275,0.25,10.1,0,68.8
+Ghana,Africa,2014,1.83,23.8,1777,27.22,6.9,0,62.4
+"Congo, Dem. Rep.",Africa,2002,2.33,20.9,334,49.87,3.7,0,51.4
+Russian Federation,Rest of Europe,2008,12.09,26.1,9094,142.74,11.4,0,67.9
+Uruguay,South America,2000,7.11,25.9,10083,3.32,8,0,74.7
+Kenya,Africa,2005,0.88,22.4,1196,36.62,5.8,0,54.7
+Latvia,European Union,2003,8.24,25.8,8593,2.29,11.2,1,71.3
+Cambodia,Asia,2010,2.16,21.6,892,14.31,4.4,0,66.6
+Peru,South America,2012,5.35,26.2,5749,29.51,8.6,0,75
+Ghana,Africa,2008,1.26,23.4,1319,23.56,6.6,0,60.2
+Argentina,South America,2006,7.8,26.7,11971,39.29,9,0,74.6
+Mauritius,Africa,2004,4.1,24.7,6243,1.22,7,0,72.3
+Comoros,Africa,2013,0.23,24.1,1261,0.74,4.7,0,62.9
+Uruguay,South America,2015,6,27.3,15614,3.41,8.7,0,77.4
+India,Asia,2004,1.18,21,898,1129.62,4.7,0,64.1
+Ireland,European Union,2003,13.04,26.6,45523,4,11.4,1,78.1
+Lao PDR,Asia,2008,5.15,22,1405,6.05,4.4,0,63.3
+North Macedonia,Rest of Europe,2013,3.61,26.5,4531,2.06,9.4,0,75.4
+Oman,Middle East,2014,0.42,26.2,18611,4.03,9.3,0,76.6
+Paraguay,South America,2012,5.8,26.3,4803,6.42,7.8,0,73.1
+Timor-Leste,Oceania,2005,0.35,20.3,919,1,3.3,0,63.9
+Belarus,Rest of Europe,2009,13.98,26.3,5204,9.5,11.9,0,70.4
+Malaysia,Asia,2014,0.54,25.5,9601,29.87,10.1,0,75.3
+Tonga,Oceania,2006,1.79,31.6,3839,0.1,9.4,0,69.9
+United States,North America,2002,8.33,27.8,49095,287.63,12.7,1,76.9
+Argentina,South America,2009,8.34,27,12398,40.48,9.3,0,75.1
+Pakistan,Asia,2001,0.014,22.6,1039,145.98,3.5,0,63.1
+Burkina Faso,Africa,2012,5.57,21.9,623,16.57,1.4,0,58.4
+Philippines,Asia,2008,4.15,22.6,2310,90.9,9,0,69.5
+Greece,European Union,2001,8.75,26.7,19312,10.86,8.8,1,78.4
+Mauritius,Africa,2005,3.83,24.8,6316,1.23,7.2,0,72.4
+Georgia,Rest of Europe,2011,8.29,27,3357,3.76,12.2,0,71.8
+Sierra Leone,Africa,2002,3.9,22.2,441,4.97,2.5,0,41.4
+Saudi Arabia,Middle East,2006,0.08,27.8,18670,24.5,7.8,0,73.4
+Bangladesh,Asia,2012,0,21.3,1078,151.01,5.1,0,70.6
+Guyana,South America,2000,6.82,24.6,3851,0.75,7.7,0,65.2
+Benin,Africa,2012,1.41,23.2,1009,9.73,3,0,59.8
+Somalia,Africa,2004,0,22.4,213,10.13,2.1,0,52
+Jordan,Middle East,2000,0.47,27.8,3588,5.12,9.5,0,71.7
+Suriname,South America,2005,4.52,25.8,7550,0.5,7.7,0,68.9
+Ghana,Africa,2012,1.72,23.7,1686,26,6.8,0,61.7
+Portugal,European Union,2000,12.77,25.5,18795,10.29,6.8,1,76.3
+"Gambia, The",Africa,2011,2.7,23.5,671,1.85,2.9,0,59.9
+Russian Federation,Rest of Europe,2007,12.24,26,8640,142.81,11.4,0,67.6
+Romania,European Union,2003,11.55,25.1,5386,21.57,9.7,1,71.3
+United States,North America,2013,8.81,28.7,54831,316.06,13.2,1,78.7
+Libya,Africa,2010,0,27.6,13539,6.2,7.3,0,72
+China,Asia,2002,2.88,22.5,2558,1280.4,6.6,0,72.1
+Tonga,Oceania,2013,0.22,32,4160,0.1,11,0,70.3
+Papua New Guinea,Oceania,2000,0.67,24.1,1884,5.85,3.3,0,59.3
+Timor-Leste,Oceania,2007,0.046,20.4,933,1.04,3.5,0,65.6
+Mali,Africa,2011,0.62,22.6,732,15.51,2,0,55.7
+Ethiopia,Africa,2006,0.29,20.2,335,78.49,2,0,57.3
+Mozambique,Africa,2005,0.6,22,384,20.49,2.9,0,50.4
+Netherlands,European Union,2010,9.34,25.5,44391,16.62,12,1,80.7
+Bahrain,Middle East,2001,1.89,25.5,22698,0.7,8.4,0,74.6
+Chile,South America,2015,7.89,27.9,13495,17.97,10.3,0,79.6
+Brunei Darussalam,Asia,2002,0.12,25.5,34927,0.35,8.4,0,73.3
+Germany,European Union,2015,11.06,26.5,41103,81.69,14.1,1,80.6
+Luxembourg,European Union,2005,12.31,25.9,101222,0.47,11.3,1,79.4
+Argentina,South America,2007,8.16,26.8,12919,39.68,8.9,0,74.8
+Estonia,European Union,2011,16.27,26.2,15693,1.33,12.5,1,76.2
+Singapore,Asia,2004,1.44,23.5,39857,4.17,10.2,0,79.5
+Bulgaria,European Union,2005,10.22,25.6,5231,7.66,10.2,1,72.6
+Sweden,European Union,2001,6.5,25.2,41601,8.9,11.5,1,79.8
+Guinea,Africa,2009,0.19,22.5,673,9.96,1.6,0,56.3
+Sweden,European Union,2000,6.2,25.1,41117,8.87,11.4,1,79.6
+Ecuador,South America,2006,3.88,26,5023,14.06,7.3,0,74.3
+Uzbekistan,Asia,2009,1.7,25.9,2038,27.77,10.5,0,69.4
+China,Asia,2000,3.01,22.4,2194,1262.65,6.5,0,71.4
+Solomon Islands,Oceania,2002,1.09,25.1,1644,0.44,4.7,0,68.2
+Afghanistan,Asia,2007,0.018,22.4,393,27.1,2.9,0,59.4
+Tunisia,Africa,2013,1.4,26.1,4016,10.95,6.8,0,75.6
+Guinea,Africa,2014,0.32,22.8,760,11.15,2.6,0,59
+Jordan,Middle East,2013,0.35,28.8,4275,8.52,9.9,0,73.9
+Eswatini,Africa,2010,6.49,26.4,3304,1.06,5.7,0,46.6
+Samoa,Oceania,2005,3.63,31,3897,0.18,9.4,0,70.4
+Uzbekistan,Asia,2002,2.73,25,1349,25.27,9.4,0,67.6
+Ghana,Africa,2006,0.65,23.3,1220,22.38,6.5,0,59.2
+Angola,Africa,2000,1.47,21.7,1832,16.4,4.4,0,46.5
+Nepal,Asia,2010,0.23,21.8,730,27.01,3.3,0,67.6
+"Congo, Rep.",Africa,2007,1.3,22.6,2047,3.88,5.9,0,57.5
+Spain,European Union,2014,7.85,26,24772,46.48,9.7,1,83.2
+Poland,European Union,2009,10.17,26.1,10437,38.15,12.1,1,75.7
+Liberia,Africa,2015,3.18,24,722,4.47,4.4,0,62.3
+Saudi Arabia,Middle East,2008,0.082,27.9,19118,25.89,8.3,0,73.6
+Belize,Central America and Caribbean,2011,6.34,28.5,4730,0.33,10.5,0,72.6
+Angola,Africa,2011,7.66,22.9,2988,24.22,4.7,0,56.3
+Cote d'Ivoire,Africa,2009,0.99,23.4,1616,20.06,4.1,0,52.3
+Guyana,South America,2012,5.72,26,5339,0.76,8.3,0,68.6
+Bolivia,South America,2014,3.17,26.3,2939,10.71,8.5,0,69.9
+Georgia,Rest of Europe,2007,6.89,26.5,2901,3.86,12.1,0,70.8
+Denmark,European Union,2015,9.42,25.3,53255,5.68,12.5,1,80.7
+Greece,European Union,2003,8.91,26.8,21105,10.93,9.3,1,78.8
+Eswatini,Africa,2008,5.64,26.2,3179,1.05,5.4,0,44.2
+Hungary,European Union,2006,13.25,26.4,11747,10.07,11.1,1,73.1
+Lao PDR,Asia,2002,3.35,21.3,1016,5.49,4,0,59.9
+Rwanda,Africa,2015,6.31,22,751,11.37,4,0,67.5
+Tanzania,Africa,2004,5.69,22.4,663,37.38,4.5,0,53.6
+Thailand,Asia,2011,6.61,23.9,5182,67.52,7.5,0,74.6
+Hungary,European Union,2005,12.95,26.3,11283,10.09,10.9,1,72.6
+Botswana,Africa,2010,5.7,24.1,5642,1.99,8.9,0,60.2
+Norway,Rest of Europe,2007,6.6,26.2,75624,4.71,12.6,1,80.4
+Somalia,Africa,2014,0,23.1,346,13.42,2.1,0,55.5
+Greece,European Union,2007,8.89,27,24073,11.05,10,1,79.4
+Kenya,Africa,2001,1.64,22.1,1157,32.85,5.4,0,51.1
+Vanuatu,Oceania,2014,1.39,26.1,2759,0.26,6.8,0,69.7
+North Macedonia,Rest of Europe,2007,3.84,26.1,4018,2.04,8.5,0,73.8
+Niger,Africa,2011,0.13,21.6,437,17.11,1.5,0,58.1
+Japan,Asia,2010,8.28,22.7,32942,128.07,11.5,1,82.8
+Syrian Arab Republic,Middle East,2001,0.95,27,1326,16.77,4.8,0,73.4
+Ethiopia,Africa,2001,0.2,19.9,276,68.16,1.6,0,52.6
+Paraguay,South America,2001,5.49,25,3797,5.43,6.2,0,70.8
+"Bahamas, The",Central America and Caribbean,2002,10.94,26.9,36548,0.31,10.9,0,72
+Comoros,Africa,2002,0.13,23,1186,0.57,3,0,59.6
+Eritrea,Africa,2004,0.72,20.3,772,2.72,3.7,0,57.9
+Belize,Central America and Caribbean,2007,6.99,28.1,4828,0.3,10.4,0,70.6
+Cuba,Central America and Caribbean,2011,4.32,25.3,6942,11.24,11.3,0,78.4
+"Micronesia, Fed. Sts.",Oceania,2014,1.51,29.6,2815,0.11,8,0,67.2
+Chad,Africa,2007,0.58,21.5,656,10.82,1.7,0,49.3
+"Egypt, Arab Rep.",Africa,2006,0.17,28.3,2971,76.87,5.8,0,69.6
+Morocco,Africa,2008,0.5,25.3,2402,31.54,4.1,0,73.5
+Mongolia,Asia,2004,1.7,24.7,1952,2.5,8.5,0,64.7
+Trinidad and Tobago,Central America and Caribbean,2004,5.52,26.4,14556,1.29,9.8,0,70.4
+Russian Federation,Rest of Europe,2012,10.56,26.1,9476,143.2,11.7,0,70.1
+Burkina Faso,Africa,2007,5.55,21.6,540,14.25,1.3,0,54.8
+Malta,European Union,2006,8.25,27.1,18522,0.41,9.8,1,79.4
+Turkiye,Middle East,2008,1.51,27.3,8451,70.42,6.3,0,73.6
+Lithuania,European Union,2001,10.2,26,6899,3.47,10.9,1,71.7
+Mauritius,Africa,2008,2.47,24.9,7286,1.24,7.8,0,72.6
+Mauritius,Africa,2015,2.83,25.2,9260,1.26,9.1,0,74.4
+Sweden,European Union,2007,6.98,25.6,49145,9.15,12.5,1,80.9
+Comoros,Africa,2000,0.08,22.8,1190,0.54,3,0,59.5
+China,Asia,2004,2.96,22.7,3062,1296.08,6.8,0,72.7
+Mauritius,Africa,2011,3.36,25,8124,1.25,8.5,0,73.3
+Sri Lanka,Asia,2014,2.45,22.9,3694,20.78,10.9,0,76.1
+Azerbaijan,Asia,2006,0.85,26,3501,8.48,10.7,0,69.3
+Libya,Africa,2000,0.012,26.9,10747,5.36,5.6,0,70.9
+Cabo Verde,Africa,2011,5.09,24.3,3091,0.5,5.3,0,71.2
+Denmark,European Union,2007,10.99,25.2,53936,5.46,12.5,1,78.2
+Albania,Rest of Europe,2003,4.33,25.4,2381,3.04,9,0,74.8
+Turkmenistan,Asia,2002,2.41,24.9,2345,4.61,9.9,0,64.1
+Guatemala,Central America and Caribbean,2002,2.3,25.2,3240,12.15,3.8,0,68.7
+Namibia,Africa,2006,1.87,23.5,3875,1.97,6,0,51.6
+Lao PDR,Asia,2003,3.43,21.4,1061,5.58,4.1,0,60.5
+Chile,South America,2009,7.67,27.3,11200,16.89,9.9,0,78.6
+Albania,Rest of Europe,2008,5.56,25.9,3298,2.95,9.2,0,75.9
+"Venezuela, RB",South America,2000,8.09,26.2,4842,24.19,6.4,0,72.1
+Turkiye,Middle East,2005,1.39,27.1,7739,67.9,6,0,72.4
+United Kingdom,Rest of Europe,2004,11.58,26.6,42337,59.99,12.1,1,78.7
+Kuwait,Middle East,2013,0,29.3,32136,3.53,6.7,0,74.9
+Kenya,Africa,2002,1.67,22.2,1132,33.75,5.5,0,51.6
+China,Asia,2001,2.81,22.5,2360,1271.85,6.5,0,71.7
+Singapore,Asia,2001,2.08,23.5,33598,4.14,9.2,0,78.3
+Mozambique,Africa,2011,0.89,22.4,502,24.19,3.2,0,53
+Peru,South America,2011,5.22,26.1,5461,29.26,9.1,0,74.7
+Chad,Africa,2008,0.64,21.5,654,11.18,1.8,0,49.8
+Fiji,Oceania,2011,2.31,27.3,4627,0.86,9.8,0,66.8
+Chile,South America,2004,6.32,26.9,9748,16.01,9.6,0,77.4
+Solomon Islands,Oceania,2011,1.03,25.9,2195,0.54,5.2,0,71
+Equatorial Guinea,Africa,2000,6.7,22.6,4454,0.61,5.4,0,53.3
+Panama,Central America and Caribbean,2005,4.9,26.1,7815,3.33,9,0,75.9
+St. Lucia,Central America and Caribbean,2002,13.15,27.2,8896,0.16,7.2,0,73.6
+Tanzania,Africa,2007,6.89,22.6,745,40.68,4.9,0,55.9
+Guatemala,Central America and Caribbean,2009,2.03,25.9,3570,14,4.6,0,71.1
+United Arab Emirates,Middle East,2012,1.78,28.1,33997,9.14,10.2,0,76.7
+Chad,Africa,2003,0.46,21.2,465,9.37,1.4,0,48.1
+South Africa,Africa,2000,7.7,26.1,4930,44.97,8.8,0,56
+Suriname,South America,2001,4.41,25.5,6387,0.48,7.7,0,67.9
+Fiji,Oceania,2010,2.42,27.2,4524,0.86,9.6,0,66.7
+Maldives,Asia,2006,1.41,24,8110,0.33,3.6,0,74.1
+Afghanistan,Asia,2009,0.01,22.6,473,28.39,3.1,0,60.5
+Israel,Middle East,2001,2.83,26.2,28107,6.44,12.1,1,79.4
+Senegal,Africa,2008,0.36,22.7,1143,12,2.4,0,62.9
+Iraq,Middle East,2014,0.15,28.5,4628,34.41,6.6,0,69.7
+Algeria,Africa,2002,0.36,24.4,3298,31.86,6.3,0,71.6
+Philippines,Asia,2000,4.72,22.2,1831,77.99,7.6,0,68.8
+Iraq,Middle East,2013,0.16,28.4,4794,33.16,6.6,0,69.4
+Syrian Arab Republic,Middle East,2012,0.21,27.9,1347,20.44,6.3,0,70.6
+Mozambique,Africa,2000,0.65,21.6,295,17.71,2.2,0,48.9
+Kyrgyz Republic,Asia,2013,6.03,26.2,1081,5.72,10.7,0,70.2
+Kazakhstan,Asia,2013,3.8,26.2,10264,17.04,11.6,0,70.6
+Central African Republic,Africa,2007,1.69,22.1,479,4.2,3.4,0,45.6
+Central African Republic,Africa,2009,1.66,22.3,514,4.34,3.5,0,46.7
+Guyana,South America,2002,8.47,24.9,3994,0.74,7.8,0,65.8
+Papua New Guinea,Oceania,2015,1.36,25.5,2679,8.11,4.3,0,63.5
+Romania,European Union,2010,10.01,26,7626,20.25,10.7,1,73.5
+Israel,Middle East,2003,2.58,26.4,27311,6.69,12.2,1,79.6
+Kyrgyz Republic,Asia,2011,5.95,26,1011,5.51,10.6,0,69.6
+Singapore,Asia,2015,1.82,23.6,55647,5.54,11.5,0,82.7
+Uzbekistan,Asia,2014,2.5,26.6,2614,30.76,11.3,0,70.7
+Malawi,Africa,2009,1.73,22.4,346,14.13,4.1,0,53.9
+Canada,North America,2006,8.2,26.7,39776,32.57,12.3,1,80.3
+Iraq,Middle East,2012,0.17,28.3,4631,31.89,6.6,0,69.1
+Portugal,European Union,2005,11.97,25.8,19224,10.5,7.5,1,78.1
+India,Asia,2006,1.35,21.1,1015,1165.49,4.9,0,64.9
+Nepal,Asia,2012,0.26,22,791,26.99,4,0,68.4
+Norway,Rest of Europe,2011,6.44,26.4,72195,4.95,12.8,1,81.3
+Fiji,Oceania,2004,2.05,26.6,4559,0.82,9.3,0,66.2
+Botswana,Africa,2007,6.87,24,5612,1.88,8.5,0,55
+"Iran, Islamic Rep.",Middle East,2011,0.03,25.8,5576,74.63,9.2,0,74.4
+Benin,Africa,2002,1.34,22.3,940,7.3,2.7,0,56
+Thailand,Asia,2000,5.81,22.9,3518,62.95,6.1,0,70.6
+Honduras,Central America and Caribbean,2006,3.03,25.6,2063,7.63,4.8,0,72.3
+Netherlands,European Union,2012,9,25.5,44243,16.75,12,1,81.1
+Canada,North America,2011,8.2,26.8,42037,34.34,12.7,1,81.4
+"Congo, Dem. Rep.",Africa,2009,3.45,21.5,390,62.45,5.2,0,56.4
+Hungary,European Union,2007,12.54,26.5,11797,10.06,11.3,1,73.2
+Vanuatu,Oceania,2001,0.76,25.5,2679,0.19,6.5,0,67.6
+Nepal,Asia,2000,0.084,20.7,561,23.94,2.4,0,62.3
+United States,North America,2010,8.56,28.5,52963,309.33,13.2,1,78.5
+Cote d'Ivoire,Africa,2002,4.56,22.8,1679,17.23,3.4,0,49.5
+Antigua and Barbuda,Central America and Caribbean,2012,8.22,26.3,13803,0.09,9.2,0,76.1
+Bangladesh,Asia,2000,0.005,20.2,654,127.66,4.1,0,65.4
+Iraq,Middle East,2008,0.17,27.8,3860,28.39,6.2,0,68.2
+Fiji,Oceania,2002,2.27,26.4,4301,0.82,9.4,0,66
+Comoros,Africa,2004,0.27,23.2,1177,0.6,2.8,0,59.9
+Mexico,North America,2010,4.05,27.5,8879,114.09,8,0,75.1
+Uzbekistan,Asia,2003,2.92,25.1,1390,25.57,9.5,0,67.9
+Peru,South America,2003,4.59,25.3,3529,27.37,8.4,0,72.2
+Pakistan,Asia,2008,0.036,23.2,1239,171.65,4.4,0,64.7
+Georgia,Rest of Europe,2005,4.36,26.3,2330,3.9,12.1,0,70.5
+Myanmar,Asia,2009,0.88,22,826,50.25,4,0,63.1
+Benin,Africa,2001,1.39,22.2,926,7.08,2.6,0,55.7
+Iceland,Rest of Europe,2007,7.53,25.9,53646,0.31,10.3,1,81.5
+Lithuania,European Union,2003,11.29,26.1,8276,3.42,11.3,1,72.1
+"Iran, Islamic Rep.",Middle East,2015,0.01,26.1,5201,78.49,9.8,0,75.8
+Samoa,Oceania,2010,2.96,31.5,4083,0.19,10,0,71.7
+Poland,European Union,2015,10.47,26.6,12578,37.99,12.1,1,77.5
+Grenada,Central America and Caribbean,2011,7.68,26.5,8077,0.11,8.4,0,72.8
+Moldova,Rest of Europe,2011,8.21,26.7,2388,2.86,11.1,0,70.1
+Australia,Oceania,2011,10.3,27,54108,22.34,12.5,1,81.9
+Indonesia,Asia,2014,0.09,22.9,3217,255.13,7.8,0,70.5
+Israel,Middle East,2002,2.79,26.3,27493,6.57,12.1,1,79.5
+Oman,Middle East,2006,0.54,25.7,19941,2.58,7,0,74.6
+Italy,European Union,2015,7.14,25.6,30242,60.73,10.2,1,82.5
+Cuba,Central America and Caribbean,2015,4.65,25.6,7694,11.32,11.4,0,78.6
+Lesotho,Africa,2009,2.92,24.6,948,1.99,5.9,0,44.1
+Gabon,Africa,2007,8.65,24.5,7301,1.47,7.2,0,59.2
+Kyrgyz Republic,Asia,2005,6.52,25.2,821,5.16,10.2,0,68
+Mali,Africa,2009,0.57,22.5,717,14.58,1.9,0,54.8
+Senegal,Africa,2001,0.24,22.2,1086,10.04,2.3,0,58.2
+Cambodia,Asia,2011,2.4,21.7,940,14.54,4.4,0,67
+Libya,Africa,2009,0.014,27.5,13025,6.13,7.1,0,72.1
+Tajikistan,Asia,2000,0.81,24.1,434,6.22,10.6,0,62
+Lao PDR,Asia,2011,6.3,22.3,1687,6.35,4.8,0,64.8
+Japan,Asia,2008,7.06,22.6,33558,128.06,11.4,1,82.6
+Togo,Africa,2011,1.12,23.2,501,6.6,4.4,0,58.1
+Albania,Rest of Europe,2004,4.42,25.5,2522,3.03,9.1,0,75
+Cabo Verde,Africa,2006,4.36,23.9,2569,0.47,4.5,0,70.6
+Burundi,Africa,2013,3.98,21.5,325,9.54,2.8,0,59.1
+Burundi,Africa,2002,6.51,20.8,311,6.7,2,0,50.8
+Seychelles,Africa,2010,5.54,26.2,12336,0.09,8.1,0,73.2
+Kenya,Africa,2014,1.45,23.2,1430,46.7,6.3,0,64.1
+Peru,South America,2015,5.68,26.5,6229,30.47,9.1,0,75.8
+Iraq,Middle East,2011,0.18,28.1,4218,30.73,6.6,0,68.8
+Vanuatu,Oceania,2015,1.42,26.1,2696,0.27,6.8,0,69.9
+Equatorial Guinea,Africa,2008,7.71,23.4,16439,0.86,5.4,0,55.1
+Azerbaijan,Asia,2000,0.66,25.6,1481,8.05,10.6,0,66.8
+Georgia,Rest of Europe,2006,5.69,26.4,2564,3.88,12.1,0,70.6
+Belgium,European Union,2004,12.05,25.7,37761,10.42,10.5,1,78.9
+Antigua and Barbuda,Central America and Caribbean,2008,8.41,25.9,17771,0.09,9.3,0,75.5
+Eritrea,Africa,2009,0.85,20.5,650,3.12,3.8,0,61.6
+Chad,Africa,2011,0.6,21.7,701,12.36,2,0,51.4
+Panama,Central America and Caribbean,2014,6.3,26.8,13113,3.9,9.9,0,77.6
+Honduras,Central America and Caribbean,2011,2.71,26.2,2160,8.48,5.6,0,73.6
+"Yemen, Rep.",Middle East,2009,0.028,23.2,2599,22.52,2.5,0,65.3
+Guatemala,Central America and Caribbean,2001,2.41,25.1,3192,11.87,3.8,0,68.3
+"Yemen, Rep.",Middle East,2002,0.07,22.5,2427,18.44,1.5,0,61.8
+Ecuador,South America,2005,3.9,25.9,4893,13.83,7.3,0,74.1
+Cyprus,European Union,2007,11.58,26.7,27155,1.06,11.2,1,78.9
+Haiti,Central America and Caribbean,2013,2.85,25,1367,10.4,5,0,61.7
+Albania,Rest of Europe,2009,5.79,26,3432,2.93,9.3,0,76.2
+Thailand,Asia,2009,6.74,23.7,4826,66.87,7.5,0,73.8
+Thailand,Asia,2006,6.1,23.4,4604,65.81,7,0,72.5
+Mexico,North America,2001,5.02,26.8,8703,100.3,6.8,0,74.7
+Somalia,Africa,2005,0,22.5,225,10.45,2.1,0,52.3
+Bosnia and Herzegovina,Rest of Europe,2006,4.72,25.1,3691,3.77,7.4,0,75.3
+Rwanda,Africa,2005,9.25,21.3,457,8.84,2.8,0,55.3
+Switzerland,Rest of Europe,2003,10.82,24.9,73556,7.34,11.8,1,80.5
+Paraguay,South America,2005,5.51,25.5,3923,5.82,7.3,0,71.7
+Moldova,Rest of Europe,2002,5.84,26,1538,2.91,9.6,0,67.4
+Belize,Central America and Caribbean,2006,6.28,28,4898,0.29,10.3,0,70.3
+"Congo, Rep.",Africa,2008,1.3,22.7,2103,4.01,6,0,58.5
+Central African Republic,Africa,2000,1.68,21.5,460,3.64,2.9,0,44.2
+Czechia,European Union,2005,13.66,26.6,14978,10.21,11.9,1,75.9
+Cambodia,Asia,2015,3.34,22.1,1163,15.52,4.7,0,68.6
+Vietnam,Asia,2005,1.19,20.4,1557,83.83,6.4,0,74.1
+Slovak Republic,European Union,2001,11.12,25.5,9222,5.38,10.1,1,73.4
+Georgia,Rest of Europe,2012,7.23,27.1,3597,3.73,12.5,0,72.1
+Hungary,European Union,2015,10.95,27.2,12721,9.84,11.8,1,75.6
+Brunei Darussalam,Asia,2013,0.69,26.8,32925,0.4,8.9,0,75.1
+Sierra Leone,Africa,2009,3.98,22.6,520,6.27,3,0,48.5
+Guinea-Bissau,Africa,2012,3,23.2,590,1.6,2.8,0,55.6
+Luxembourg,European Union,2010,11.84,26.1,106544,0.51,11.8,1,80.6
+Costa Rica,Central America and Caribbean,2013,3.02,27.1,11090,4.74,8.5,0,79.2
+Russian Federation,Rest of Europe,2009,11.25,26.1,8382,142.79,11.5,0,68.7
+Timor-Leste,Oceania,2011,0.44,20.8,1234,1.11,4.5,0,67.5
+Philippines,Asia,2013,4.61,22.9,2740,98.87,9.1,0,70.3
+Mauritania,Africa,2007,0.022,24.4,1510,3.2,3.5,0,61.8
+Bulgaria,European Union,2011,9.88,26.1,6605,7.35,10.7,1,74.2
+Greece,European Union,2005,9.15,26.9,22186,10.99,9.8,1,79.2
+Angola,Africa,2005,3.49,22.3,2407,19.43,4.4,0,50.2
+Ireland,European Union,2014,10.88,27.3,50010,4.66,12.3,1,81.3
+Vietnam,Asia,2012,2.57,21.3,2217,89.8,7.8,0,75
+"Micronesia, Fed. Sts.",Oceania,2013,1.6,29.5,2923,0.11,8,0,67
+Guyana,South America,2013,5.72,26.1,5505,0.76,8.3,0,68.8
+Iceland,Rest of Europe,2010,6.79,26,48194,0.32,10.6,1,81.9
+Italy,European Union,2011,6.98,25.7,32229,59.38,9.8,1,82.2
+Rwanda,Africa,2014,6.5,21.9,708,11.08,4,0,66.9
+"Congo, Dem. Rep.",Africa,2007,2.91,21.3,381,58.45,4.8,0,55.1
+Zimbabwe,Africa,2006,2.35,23.5,1091,12.16,6.8,0,43.9
+India,Asia,2005,1.25,21,954,1147.61,4.8,0,64.5
+Denmark,European Union,2006,11.02,25.2,53687,5.44,12.8,1,78.1
+Kuwait,Middle East,2008,0.032,28.9,39777,2.66,6.5,0,74
+Honduras,Central America and Caribbean,2013,2.7,26.4,2228,8.8,5.8,0,74.1
+Liberia,Africa,2004,4.25,23.3,540,3.14,3.7,0,54.4
+Singapore,Asia,2008,1.69,23.5,44602,4.84,10.5,0,80.8
+Azerbaijan,Asia,2008,1.12,26.2,4693,8.76,10.2,0,70.2
+Burkina Faso,Africa,2011,5.32,21.9,603,16.08,1.4,0,57.8
+Liberia,Africa,2003,4.23,23.2,536,3.08,3.7,0,53.6
+Gabon,Africa,2008,8.31,24.6,6846,1.52,7.3,0,59.9
+Vietnam,Asia,2014,2.78,21.6,2438,91.71,7.8,0,75.1
+Kuwait,Middle East,2009,0.1,29,34800,2.82,6.6,0,74.2
+Trinidad and Tobago,Central America and Caribbean,2014,5.9,27.4,18167,1.36,10.8,0,72.8
+El Salvador,Central America and Caribbean,2012,2.41,27.3,3529,6.24,6.7,0,71.7
+Singapore,Asia,2009,1.73,23.5,43333,4.99,10.5,0,81.2
+Uganda,Africa,2008,11.37,21.8,725,30.43,5.2,0,55
+Hungary,European Union,2010,10.7,26.8,11314,10,11.9,1,74.2
+"Iran, Islamic Rep.",Middle East,2012,0.02,25.9,5302,75.54,9.5,0,74.8
+Albania,Rest of Europe,2012,4.43,26.3,3736,2.9,9.6,0,77.3
+Cuba,Central America and Caribbean,2006,4.17,25,5808,11.26,10.1,0,77.9
+Papua New Guinea,Oceania,2004,0.55,24.5,1814,6.35,3.5,0,60.2
+Grenada,Central America and Caribbean,2008,9.04,26.2,8736,0.11,8.1,0,73
+"Venezuela, RB",South America,2014,6.6,26.6,16056,30.04,10,0,72.8
+"Bahamas, The",Central America and Caribbean,2003,10.59,27,35456,0.31,10.9,0,72
+Romania,European Union,2001,12.07,24.9,4853,22.13,9.7,1,71.2
+Bhutan,Asia,2000,1.66,22.2,1108,0.59,2.3,0,60.9
+Peru,South America,2004,4.54,25.4,3671,27.62,8.6,0,72.6
+Slovenia,European Union,2005,11.19,25.7,19239,2,11.7,1,77.6
+Antigua and Barbuda,Central America and Caribbean,2000,6.86,25.1,14070,0.08,7,0,73.9
+Nepal,Asia,2001,0.091,20.8,578,24.35,2.5,0,62.9
+Trinidad and Tobago,Central America and Caribbean,2000,4.81,25.9,10669,1.27,9.2,0,69.4
+Central African Republic,Africa,2015,0.9,22.8,377,4.49,4.2,0,50.9
+Uganda,Africa,2007,10.77,21.7,688,29.49,4.8,0,53.9
+Oman,Middle East,2002,0.53,25.5,20702,2.33,5.9,0,73
+Norway,Rest of Europe,2008,6.75,26.3,75044,4.77,12.7,1,80.6
+Mexico,North America,2005,5.03,27.2,8878,106.01,7.6,0,75.3
+Senegal,Africa,2011,0.21,22.8,1133,13.03,2.4,0,64.9
+Lesotho,Africa,2012,2.47,24.8,1097,2.01,5.9,0,47.4
+Uruguay,South America,2004,5.88,26.2,9464,3.32,8,0,75.6
+Pakistan,Asia,2010,0.04,23.4,1239,179.42,4.7,0,65.3
+Russian Federation,Rest of Europe,2013,9.77,26.2,9622,143.51,11.8,0,70.6
+Ukraine,Rest of Europe,2012,8.54,26.4,2460,45.59,11.3,0,70.9
+Liberia,Africa,2001,4.42,23.1,770,2.95,3.5,0,52.2
+Samoa,Oceania,2011,2.1,31.6,4219,0.19,10.2,0,71.9
+Bulgaria,European Union,2014,10.3,26.3,6797,7.22,10.9,1,74.5
+Cote d'Ivoire,Africa,2012,1.2,23.6,1637,21.55,4.5,0,54.3
+Denmark,European Union,2010,10.27,25.3,51173,5.55,12.7,1,79.1
+Trinidad and Tobago,Central America and Caribbean,2009,5.93,26.9,17700,1.32,10.7,0,71.7
+Switzerland,Rest of Europe,2002,10.85,24.9,74138,7.28,11.7,1,80.4
+Togo,Africa,2001,0.88,22.1,496,5.06,4,0,53.6
+Mali,Africa,2001,0.6,21.6,641,11.27,1.3,0,48.8
+Colombia,South America,2010,4.22,25.7,5163,45.22,7.4,0,75.4
+Mali,Africa,2004,0.55,22,667,12.37,1.6,0,51.2
+China,Asia,2013,5.62,23.5,7056,1363.24,7.5,0,75.3
+Malawi,Africa,2012,1.87,22.6,362,15.4,4.3,0,58.6
+Algeria,Africa,2008,0.37,24.9,3856,34.73,6.7,0,74.3
+South Africa,Africa,2003,7.32,26.4,5203,46.72,8.8,0,53.7
+Colombia,South America,2004,4.13,25.2,4257,42.08,6.6,0,74
+Mexico,North America,2006,5.2,27.2,9143,107.56,8,0,75.3
+India,Asia,2009,2.46,21.3,1162,1217.73,5.3,0,66.2
+Slovak Republic,European Union,2003,10.23,25.6,10178,5.37,10.4,1,73.6
+South Africa,Africa,2013,7.21,27.1,6285,53.69,9.9,0,61.1
+Libya,Africa,2003,0.012,27.1,11265,5.62,6.1,0,71.5
+Uganda,Africa,2014,7.25,22.3,834,36.91,5.5,0,60.7
+Cambodia,Asia,2005,1.1,21.1,696,13.27,3.5,0,63.1
+Cabo Verde,Africa,2004,4.25,23.7,2287,0.46,4.2,0,70.2
+Armenia,Rest of Europe,2001,2.87,25.7,1422,3.05,10.7,0,71.8
+Norway,Rest of Europe,2002,5.89,25.8,69106,4.54,12.1,1,79
+Ukraine,Rest of Europe,2003,6.81,25.9,1833,47.81,10.6,0,68.2
+Slovenia,European Union,2014,10.92,26.4,20454,2.06,11.9,1,81.1
+Liberia,Africa,2014,3.02,24,740,4.36,4.4,0,61.7
+Estonia,European Union,2002,12.16,25.6,11417,1.38,11.9,1,70.9
+India,Asia,2003,1.17,20.9,845,1111.52,4.7,0,63.7
+Bhutan,Asia,2008,0.16,23.1,1909,0.67,2.3,0,67.3
+Croatia,European Union,2001,13.69,25.7,9428,4.3,9.8,1,74.5
+Australia,Oceania,2015,9.68,27.1,56707,23.82,12.8,1,82.4
+St. Vincent and the Grenadines,Central America and Caribbean,2000,5.13,25.5,5339,0.11,7.6,0,70.8
+"Egypt, Arab Rep.",Africa,2015,0.18,29.5,3563,92.44,7.1,0,71.3
+Zambia,Africa,2000,2.82,21.5,774,10.42,5.9,0,44
+Zambia,Africa,2004,2.75,21.8,879,11.55,6.2,0,47.4
+Brazil,South America,2009,6.95,25.7,8169,193.89,6.8,0,73.3
+Belgium,European Union,2003,11.28,25.6,36617,10.38,10.4,1,78.1
+Mauritius,Africa,2009,2.8,24.9,7508,1.25,8,0,72.9
+Hungary,European Union,2002,13.28,26.1,9829,10.16,10.3,1,72.3
+Moldova,Rest of Europe,2004,7.61,26.2,1770,2.9,10.1,0,67.7
+Cote d'Ivoire,Africa,2010,1.12,23.5,1687,20.53,4.2,0,53
+Denmark,European Union,2005,11.26,25.1,51836,5.42,12.8,1,77.8
+Georgia,Rest of Europe,2015,6.95,27.5,4014,3.73,12.7,0,73
+United Arab Emirates,Middle East,2001,1.62,27.2,58422,3.3,8.4,0,74.5
+New Zealand,Oceania,2000,8.83,26.7,30863,3.86,11.6,1,78.6
+Barbados,Central America and Caribbean,2007,8.07,27.1,18205,0.28,9.3,0,78.1
+Lesotho,Africa,2005,1.94,24.3,836,2,5.3,0,42.7
+United Kingdom,Rest of Europe,2002,11.33,26.5,40563,59.37,11.9,1,78.1
+Ghana,Africa,2003,1.91,22.9,1105,20.75,6.3,0,57.8
+India,Asia,2002,1.08,20.8,797,1093.32,4.6,0,63.3
+Iceland,Rest of Europe,2001,6.32,25.6,43288,0.28,9.6,1,80.7
+Japan,Asia,2001,8.01,22.5,31476,127.15,10.8,1,81.4
+Georgia,Rest of Europe,2003,2.79,26.1,1984,3.95,12,0,70.3
+Ethiopia,Africa,2013,0.57,20.5,556,95.39,2.5,0,64
+North Macedonia,Rest of Europe,2001,4.4,25.7,3169,2.03,6.8,0,73.4
+Tunisia,Africa,2006,1.32,25.6,3494,10.2,5.9,0,74.4
+Montenegro,Rest of Europe,2012,9.37,26.2,5996,0.62,11.2,0,76.2
+St. Lucia,Central America and Caribbean,2013,8.93,29.4,10148,0.18,8.4,0,75.3
+Liberia,Africa,2005,4.2,23.4,554,3.22,3.8,0,55.4
+Guatemala,Central America and Caribbean,2011,2.05,26.1,3689,14.52,5.3,0,71.9
+Fiji,Oceania,2003,2.07,26.5,4339,0.82,9.3,0,66.2
+Nigeria,Africa,2006,11.18,22.8,2013,142.54,5.2,0,48.8
+Namibia,Africa,2012,2.37,23.9,4421,2.19,6.4,0,59.4
+Cameroon,Africa,2002,4.54,23.3,1144,16.36,5.1,0,51.5
+Vanuatu,Oceania,2010,1.36,25.9,2856,0.24,6.7,0,69.1
+Hungary,European Union,2004,13.28,26.2,10797,10.11,10.6,1,72.6
+Guinea,Africa,2003,0.18,22,653,8.75,1.5,0,51.9
+Cyprus,European Union,2012,10.58,26.8,24217,1.14,11.8,1,79.8
+Bosnia and Herzegovina,Rest of Europe,2000,3.87,24.8,2848,3.75,7,0,74.4
+Luxembourg,European Union,2008,11.99,26,110095,0.49,11.7,1,80.5
+Bosnia and Herzegovina,Rest of Europe,2007,5.03,25.2,3910,3.76,7.5,0,75.5
+Vanuatu,Oceania,2013,1.61,26,2751,0.26,6.8,0,69.6
+Seychelles,Africa,2014,8.44,26.6,14672,0.09,9.4,0,73.2
+"Bahamas, The",Central America and Caribbean,2015,9.27,27.9,31699,0.37,11.1,0,73.1
+Trinidad and Tobago,Central America and Caribbean,2001,4.7,26,11074,1.27,9.3,0,69.7
+Suriname,South America,2015,4.75,26.5,9168,0.56,8.4,0,71.2
+Luxembourg,European Union,2015,11.37,26.3,105462,0.57,12,1,82.3
+Comoros,Africa,2011,0.11,23.9,1228,0.71,4.4,0,62.2
+Russian Federation,Rest of Europe,2003,11.32,25.9,6370,144.65,11.4,0,65
+Finland,European Union,2007,10.45,25.9,46213,5.29,12,1,79.3
+Portugal,European Union,2010,11.26,25.8,19670,10.57,8.1,1,79
+Jordan,Middle East,2005,0.51,28.2,4341,5.77,9.7,0,72.6
+Kazakhstan,Asia,2009,3.16,26,8488,16.09,11.5,0,68.4
+Equatorial Guinea,Africa,2014,8.64,23.9,12927,1.12,5.5,0,57
+Lithuania,European Union,2012,14.97,26.4,12679,2.99,11.7,1,73.9
+"Gambia, The",Africa,2012,2.74,23.6,685,1.91,3.1,0,60.2
+Iceland,Rest of Europe,2009,7.24,26,49527,0.32,10.5,1,81.8
+Antigua and Barbuda,Central America and Caribbean,2013,9.43,26.4,13554,0.09,9.2,0,76.2
+"Egypt, Arab Rep.",Africa,2014,0.19,29.3,3490,90.42,7,0,71.1
+United States,North America,2008,8.74,28.4,53854,304.09,13.2,1,78
+Libya,Africa,2015,0.01,28,7590,6.42,7.3,0,72.1
+Romania,European Union,2012,9.66,26.3,8005,20.06,10.9,1,74.4
+Lebanon,Middle East,2008,1.57,27,7961,4.76,7.8,0,77.9
+"Congo, Rep.",Africa,2006,1.3,22.5,2269,3.75,5.9,0,56.6
+Sweden,European Union,2005,6.53,25.5,45990,9.03,12.4,1,80.5
+Niger,Africa,2010,0.11,21.5,443,16.46,1.4,0,57.3
+Nicaragua,Central America and Caribbean,2009,3.32,26.6,1630,5.75,5.9,0,72.2
+Denmark,European Union,2000,11.68,24.9,49242,5.34,10.7,1,76.6
+Ghana,Africa,2004,0.55,23.1,1139,21.27,6.4,0,58.2
+Libya,Africa,2006,0.011,27.3,13386,5.89,6.6,0,72.1
+Timor-Leste,Oceania,2002,0.48,20,980,0.92,2.9,0,60.9
+Israel,Middle East,2007,2.46,26.7,31208,7.18,12.5,1,80.5
+Peru,South America,2013,5.27,26.3,6030,29.77,8.8,0,75.3
+Trinidad and Tobago,Central America and Caribbean,2005,5.75,26.5,15383,1.3,10,0,70.7
+Maldives,Asia,2010,1.58,24.6,8522,0.37,4.9,0,75.9
+El Salvador,Central America and Caribbean,2014,2.45,27.5,3636,6.3,6.5,0,72.2
+Malawi,Africa,2006,1.94,22.2,295,12.97,3.6,0,49.1
+Denmark,European Union,2002,11.32,25,49542,5.38,12.1,1,76.9
+United States,North America,2015,8.78,28.8,56763,320.74,13.3,1,78.7
+Albania,Rest of Europe,2010,4.88,26.1,3577,2.91,9.3,0,76.6
+Kazakhstan,Asia,2004,6.23,25.7,6581,15.01,11.5,0,66.1
+Burundi,Africa,2011,4.56,21.4,316,8.96,2.6,0,57.9
+Niger,Africa,2006,0.1,21.3,420,14.14,1.3,0,54.2
+Latvia,European Union,2014,10.6,26.5,13163,1.99,12.9,1,74.1
+Maldives,Asia,2011,1.69,24.7,8893,0.38,5.2,0,76.3
+"Venezuela, RB",South America,2009,7.75,26.6,11765,28.03,8.3,0,73.1
+Croatia,European Union,2000,13.24,25.6,8806,4.47,9.4,1,72.8
+United Kingdom,Rest of Europe,2010,10.01,27,42488,62.77,13.2,1,80.4
+Argentina,South America,2010,8.15,27.1,13551,40.79,9.8,0,75.3
+Argentina,South America,2015,8.49,27.6,13789,43.13,9.8,0,76.1
+Chile,South America,2005,7.57,27,10210,16.18,9.5,0,77.6
+Mauritania,Africa,2008,0.018,24.4,1462,3.3,3.6,0,62
+Luxembourg,European Union,2006,12.5,25.9,105614,0.47,11.5,1,79.3
+Indonesia,Asia,2009,0.074,22.4,2595,238.62,7.4,0,68.9
+South Africa,Africa,2008,7.46,26.8,6171,49.78,9.7,0,55.4
+Syrian Arab Republic,Middle East,2004,0.61,27.2,1486,17.83,5.4,0,74.3
+United States,North America,2006,8.63,28.2,53738,298.38,12.8,1,77.7
+Gabon,Africa,2013,7.57,25,7305,1.82,8.1,0,63.6
+Syrian Arab Republic,Middle East,2011,0.6,27.8,1773,21.08,6.3,0,71.3
+Namibia,Africa,2000,2.65,22.9,3125,1.79,5.6,0,52.2
+Bhutan,Asia,2015,0.04,23.8,2753,0.73,3.1,0,70.4
+Niger,Africa,2013,0.09,21.7,470,18.5,1.7,0,59.5
+Maldives,Asia,2000,1.99,23.1,6982,0.28,3,0,70.2
+Turkiye,Middle East,2009,1.52,27.4,7942,71.32,6.5,0,74.1
+Turkmenistan,Asia,2008,2.12,25.6,3795,4.94,9.9,0,66
+Sierra Leone,Africa,2007,3.67,22.5,501,5.99,2.8,0,46.5
+"Micronesia, Fed. Sts.",Oceania,2010,1.75,29.3,3085,0.1,7.2,0,66.5
+Tanzania,Africa,2006,6.09,22.5,717,39.55,4.8,0,55.1
+Thailand,Asia,2002,5.86,23,3795,64.07,6.5,0,71.1
+Tunisia,Africa,2011,1.25,25.9,3836,10.74,6.9,0,75.2
+Timor-Leste,Oceania,2014,0.41,21.1,1321,1.17,4.5,0,68.2
+Syrian Arab Republic,Middle East,2014,0.19,28.1,973,18.71,5.6,0,69.8
+Bangladesh,Asia,2010,0,21.1,973,147.58,4.9,0,69.9
+New Zealand,Oceania,2004,9.17,27.1,34310,4.09,11.6,1,79.5
+Sweden,European Union,2014,7.2,26,49855,9.7,12.3,1,82.3
+Ethiopia,Africa,2002,0.16,20,272,70.14,1.7,0,53.3
+Malawi,Africa,2003,1.22,22,279,12,3.3,0,46.1
+Cyprus,European Union,2015,9.59,26.8,23408,1.16,11.9,1,80.4
+Jamaica,Central America and Caribbean,2005,3.36,26.2,5138,2.74,8.1,0,74.1
+Jordan,Middle East,2014,0.35,28.8,4221,8.92,10.1,0,74
+Georgia,Rest of Europe,2000,3.29,25.8,1567,4.08,11.7,0,69.9
+Mexico,North America,2008,4.27,27.4,9181,110.82,8,0,75.2
+Turkmenistan,Asia,2005,2.63,25.2,2787,4.75,9.9,0,65
+Cyprus,European Union,2008,12.03,26.7,27447,1.08,11.3,1,79.1
+Belgium,European Union,2000,11.21,25.5,35675,10.25,10,1,77.7
+Uganda,Africa,2002,11.64,21.3,555,25.17,4.2,0,48.3
+Cabo Verde,Africa,2015,4.54,24.5,3043,0.52,5.9,0,72.1
+Morocco,Africa,2013,0.46,25.7,2755,33.72,4.8,0,75.2
+Somalia,Africa,2011,0,22.9,313,12.38,2.1,0,54.3
+Qatar,Middle East,2007,1.16,28.2,60927,1.22,9.6,0,78.6
+Bolivia,South America,2007,3.38,25.5,2314,9.56,7.1,0,66.4
+Lao PDR,Asia,2015,7.09,22.8,2140,6.74,5.1,0,66.5
+Nepal,Asia,2004,0.23,21.1,603,25.42,2.7,0,64.7
+Botswana,Africa,2008,7.52,24.1,5838,1.92,8.6,0,56.7
+Nigeria,Africa,2007,11.04,22.8,2090,146.34,5.2,0,49.4
+Belarus,Rest of Europe,2008,14.58,26.2,5181,9.53,11.3,0,70.5
+Turkiye,Middle East,2006,1.39,27.2,8174,68.76,6.1,0,72.8
+Guinea-Bissau,Africa,2004,3.56,22.5,552,1.31,2.3,0,51.9
+United Kingdom,Rest of Europe,2009,9.98,26.9,41929,62.28,13.1,1,80.1
+Lithuania,European Union,2009,12.97,26.3,10700,3.16,11.5,1,72.9
+Singapore,Asia,2011,1.89,23.6,50714,5.18,11.2,0,81.7
+Gabon,Africa,2009,8.12,24.6,6635,1.57,7.4,0,60.6
+Belize,Central America and Caribbean,2012,6.35,28.6,4734,0.34,10.5,0,73
+Kyrgyz Republic,Asia,2000,5.33,24.7,718,4.9,9.8,0,68.6
+"Micronesia, Fed. Sts.",Oceania,2004,2.03,29,2949,0.11,5.8,0,65.3
+Sweden,European Union,2004,6.51,25.4,44891,8.99,12.3,1,80.5
+Mexico,North America,2004,5,27.1,8801,104.51,7.4,0,75.2
+Niger,Africa,2002,0.088,20.9,418,12.19,1.2,0,51.3
+Eswatini,Africa,2012,6.49,26.5,3513,1.08,6.1,0,49.9
+Malta,European Union,2004,6.61,27,17653,0.4,8.6,1,79.3
+Equatorial Guinea,Africa,2010,8.96,23.5,13841,0.94,5.5,0,55.6
+Montenegro,Rest of Europe,2010,9.94,26.1,5982,0.62,11.1,0,76
+Syrian Arab Republic,Middle East,2010,0.77,27.7,1701,21.36,6.3,0,72.1
+Guinea,Africa,2004,0.34,22.1,655,8.93,1.6,0,52.5
+Cuba,Central America and Caribbean,2014,4.54,25.5,7379,11.31,11.2,0,78.5
+Argentina,South America,2003,7.62,26.4,9630,38.09,9.3,0,74.1
+Norway,Rest of Europe,2006,6.47,26.1,74190,4.66,12.5,1,80.3
+Barbados,Central America and Caribbean,2012,8.9,27.5,16505,0.28,10.5,0,78.5
+Rwanda,Africa,2008,7.51,21.5,554,9.52,3.2,0,60.6
+Bangladesh,Asia,2002,0.003,20.4,687,132.48,4.3,0,66.4
+Timor-Leste,Oceania,2012,0.48,20.9,1271,1.13,4.5,0,67.7
+North Macedonia,Rest of Europe,2003,5.18,25.8,3301,2.03,7.5,0,73.2
+Tonga,Oceania,2004,1.79,31.5,3899,0.1,9.2,0,69.8
+Kuwait,Middle East,2007,0.029,28.8,41171,2.5,6.3,0,73.8
+Iceland,Rest of Europe,2015,7.66,26.2,52952,0.33,12.2,1,82.5
+Greece,European Union,2002,8.22,26.8,19997,10.9,9.1,1,78.6
+Mozambique,Africa,2003,0.6,21.8,353,19.33,2.6,0,49.9
+Netherlands,European Union,2002,9.72,25.1,40914,16.15,11.1,1,78.3
+Jamaica,Central America and Caribbean,2012,3.02,27.2,4888,2.84,9.2,0,74
+Senegal,Africa,2012,0.19,22.8,1146,13.4,2.6,0,65.4
+Togo,Africa,2015,1.36,23.5,571,7.32,4.7,0,59.9
+Libya,Africa,2001,0.002,26.9,10392,5.44,5.8,0,71
+Paraguay,South America,2006,5.92,25.6,4049,5.91,7.1,0,71.9
+Syrian Arab Republic,Middle East,2002,0.9,27,1353,17.08,4.7,0,73.7
+Malta,European Union,2014,7.14,27.1,23286,0.43,11.1,1,82
+Tonga,Oceania,2003,1.79,31.4,4020,0.1,9.2,0,69.8
+Trinidad and Tobago,Central America and Caribbean,2003,5.44,26.2,13552,1.28,9.5,0,70.2
+Argentina,South America,2008,8.42,26.9,13311,40.08,8.9,0,75
+Finland,European Union,2010,9.72,26,43564,5.36,12.3,1,79.9
+Spain,European Union,2005,11.92,26.2,26146,43.65,8.9,1,80.2
+United Kingdom,Rest of Europe,2000,10.82,26.3,39229,58.89,11.7,1,77.7
+Luxembourg,European Union,2013,11.25,26.2,105339,0.54,11.8,1,81.8
+Madagascar,Africa,2013,0.85,21.2,463,22.96,6.1,0,64.7
+Mongolia,Asia,2007,9.12,25,2411,2.59,8.9,0,66
+Australia,Oceania,2004,9.84,26.6,49439,20.13,11.8,1,80.5
+Cabo Verde,Africa,2007,5.4,24,2922,0.48,4.6,0,70.7
+Georgia,Rest of Europe,2014,6.49,27.3,3903,3.72,12.6,0,72.7
+Sri Lanka,Asia,2001,1.68,21.6,1880,18.91,10.2,0,72.2
+Bahrain,Middle East,2006,1.94,25.2,22069,0.96,8.4,0,75.5
+Ecuador,South America,2001,4.19,25.4,4299,12.91,7,0,73.1
+Estonia,European Union,2015,16.72,26.4,17402,1.32,12.7,1,77.6
+Algeria,Africa,2001,0.23,24.4,3163,31.45,6.1,0,71.1
+El Salvador,Central America and Caribbean,2008,2.59,26.9,3364,6.13,6.4,0,70.8
+Turkmenistan,Asia,2011,2.88,25.9,4811,5.17,9.9,0,66.9
+Thailand,Asia,2008,7.54,23.6,4884,66.53,7.3,0,73.3
+Seychelles,Africa,2007,7.25,26,12702,0.09,7.9,0,73.1
+Bhutan,Asia,2014,0.21,23.7,2613,0.72,3.1,0,70
+Cuba,Central America and Caribbean,2010,4.28,25.2,6759,11.23,11,0,78.3
+Spain,European Union,2010,8.94,26.2,25703,46.58,9.4,1,81.6
+Mexico,North America,2013,3.81,27.7,9283,118.83,8.4,0,74.9
+"Iran, Islamic Rep.",Middle East,2009,0.027,25.7,5255,72.92,8.8,0,73.5
+Tunisia,Africa,2000,1.2,25.1,2881,9.71,4.9,0,73.2
+Bulgaria,European Union,2003,10.92,25.5,4519,7.78,10.1,1,72.1
+Estonia,European Union,2006,17.87,25.9,16155,1.35,12.2,1,72.7
+"Congo, Rep.",Africa,2011,1.9,22.9,2408,4.39,6.2,0,60.8
+India,Asia,2001,0.98,20.7,781,1075,4.5,0,62.9
+Indonesia,Asia,2003,0.05,21.9,2035,220.31,7.2,0,66.6
+Guinea,Africa,2013,0.25,22.8,750,10.89,2.6,0,58.4
+Afghanistan,Asia,2011,0.01,22.8,512,30.12,3.3,0,61.6
+Ecuador,South America,2008,4.12,26.2,5281,14.54,7.9,0,74.7
+Jordan,Middle East,2007,0.56,28.3,4679,6.26,9.8,0,72.9
+Portugal,European Union,2006,11.81,25.8,19501,10.52,7.6,1,78.4
+Guinea-Bissau,Africa,2014,3.07,23.3,584,1.69,2.9,0,56.6
+Burundi,Africa,2009,4.49,21.3,308,8.4,2.6,0,56.5
+Sao Tome and Principe,Central America and Caribbean,2004,5.92,23.9,1154,0.15,4.4,0,64
+Belgium,European Union,2010,10.27,25.9,39778,10.9,11.1,1,80.2
+Pakistan,Asia,2004,0.014,22.9,1129,156.66,4.3,0,63.7
+Philippines,Asia,2015,4.52,23.1,3001,102.11,9.3,0,70.6
+Poland,European Union,2014,10.45,26.5,12059,38.01,11.3,1,77.6
+Georgia,Rest of Europe,2009,6.26,26.7,2897,3.81,12.2,0,71.2
+Fiji,Oceania,2008,1.96,27,4532,0.85,9.4,0,66.5
+Lithuania,European Union,2014,14.9,26.4,13850,2.93,13,1,74.5
+Namibia,Africa,2005,1.97,23.4,3681,1.94,6,0,50.9
+Somalia,Africa,2007,3e-04,22.6,250,11.08,2.1,0,53
+Guatemala,Central America and Caribbean,2007,2.36,25.7,3574,13.48,3.9,0,70.4
+"Congo, Dem. Rep.",Africa,2011,4.19,21.6,418,66.76,5.6,0,57.4
+New Zealand,Oceania,2001,8.69,26.8,31745,3.88,11.6,1,78.7
+Pakistan,Asia,2009,0.035,23.3,1246,175.53,4.5,0,65
+Japan,Asia,2002,7.86,22.5,31416,127.45,10.9,1,81.6
+Vietnam,Asia,2010,2.26,21,2016,87.97,7.5,0,74.8
+Ethiopia,Africa,2008,0.32,20.2,391,82.92,2.2,0,59.6
+Turkmenistan,Asia,2001,2.36,24.8,2363,4.56,9.9,0,63.8
+Senegal,Africa,2007,0.34,22.6,1132,11.69,2.4,0,62.1
+Bahrain,Middle East,2010,1.96,25,20982,1.24,8.4,0,76.1
+Costa Rica,Central America and Caribbean,2002,4.16,26,7940,4.1,8,0,77.7
+Comoros,Africa,2008,0.12,23.6,1183,0.66,3.7,0,61.1
+Japan,Asia,2012,8.5,22.7,33518,127.63,12,1,83.1
+Zimbabwe,Africa,2002,2.39,23.3,1559,11.95,6.9,0,43.5
+Austria,European Union,2008,12.03,25.3,44440,8.32,11.5,1,80.4
+Mali,Africa,2007,0.56,22.3,697,13.65,1.8,0,53.6
+Romania,European Union,2015,9.45,26.7,8969,19.82,10.9,1,74.9
+El Salvador,Central America and Caribbean,2004,2.78,26.5,3072,6.02,5.8,0,69.9
+Eswatini,Africa,2011,6.89,26.4,3356,1.07,5.9,0,48.1
+Israel,Middle East,2004,2.44,26.5,28151,6.81,12.2,1,80.1
+Ghana,Africa,2001,1.85,22.7,1056,19.76,6.2,0,57.2
+Papua New Guinea,Oceania,2010,0.73,25,2235,7.31,4,0,62
+St. Lucia,Central America and Caribbean,2005,12.87,27.8,9665,0.16,7.5,0,74.1
+Haiti,Central America and Caribbean,2015,2.78,25.2,1387,10.7,5.2,0,62.5
+China,Asia,2008,4.27,23,4712,1324.66,7,0,73.8
+Ecuador,South America,2003,4.04,25.7,4441,13.37,7.1,0,73.6
+South Africa,Africa,2002,7.47,26.3,5116,46.15,8.5,0,54.3
+Mozambique,Africa,2009,0.69,22.3,463,22.89,3.1,0,51.7
+"Bahamas, The",Central America and Caribbean,2010,9.21,27.5,32248,0.35,10.9,0,72.1
+Kiribati,Oceania,2000,0.56,28.7,1554,0.08,6.8,0,63.1
+North Macedonia,Rest of Europe,2012,3.54,26.4,4408,2.06,9.3,0,74.9
+United Arab Emirates,Middle East,2003,1.57,27.4,57932,3.71,8.7,0,75
+Equatorial Guinea,Africa,2002,7.12,22.8,8004,0.66,5.4,0,53.8
+Denmark,European Union,2013,9.44,25.3,51832,5.61,13.2,1,80.3
+Haiti,Central America and Caribbean,2012,2.43,24.8,1329,10.25,4.9,0,61.3
+Syrian Arab Republic,Middle East,2009,0.76,27.6,1629,21.21,6.6,0,72.9
+Tunisia,Africa,2008,1.28,25.7,3806,10.41,6.3,0,74.7
+Italy,European Union,2003,9.3,25.5,32897,57.31,8.9,1,80
+Samoa,Oceania,2004,3.62,30.9,3678,0.18,9.3,0,70.1
+Zambia,Africa,2009,3.05,22.1,1134,13.22,6.5,0,54.1
+Vietnam,Asia,2006,1.35,20.6,1651,84.62,6.6,0,74.3
+Ecuador,South America,2009,4.2,26.4,5225,14.77,7.9,0,74.9
+France,European Union,2008,12.53,25,36357,64.37,10.7,1,81.2
+"Egypt, Arab Rep.",Africa,2002,0.14,27.9,2665,71.49,5.1,0,69
+Norway,Rest of Europe,2005,6.37,26,73037,4.62,12.4,1,80
+Vietnam,Asia,2004,1.13,20.3,1462,83.06,6.2,0,73.9
+St. Lucia,Central America and Caribbean,2010,10.33,28.7,10151,0.17,8.4,0,74.9
+Samoa,Oceania,2000,3,30.5,3059,0.17,8.8,0,68.7
+Latvia,European Union,2005,9.92,25.9,10528,2.24,12.1,1,71.4
+Panama,Central America and Caribbean,2003,4.92,25.9,7037,3.21,8.8,0,75.6
+Botswana,Africa,2009,5.36,24.1,5287,1.95,8.8,0,58.4
+Malaysia,Asia,2012,0.55,25.3,8889,29.07,10.1,0,74.9
+Cabo Verde,Africa,2013,3.73,24.4,3070,0.51,5.6,0,71.7
+Angola,Africa,2008,5.19,22.6,3048,21.7,4.6,0,53.2
+New Zealand,Oceania,2014,8.98,27.9,38002,4.52,12.2,1,81.4
+Netherlands,European Union,2014,8.38,25.5,44522,16.87,12.1,1,81.7
+Chad,Africa,2010,0.55,21.6,724,11.95,1.9,0,50.9
+Nigeria,Africa,2000,11.47,22.3,1451,122.28,5.2,0,46.3
+Tajikistan,Asia,2014,0.83,25.8,945,8.25,10.6,0,69.9
+Saudi Arabia,Middle East,2005,0.054,27.8,18683,23.82,7.6,0,73.3
+Sao Tome and Principe,Central America and Caribbean,2008,4.56,24.3,1353,0.17,4.7,0,66.4
+Colombia,South America,2009,4.24,25.6,4993,44.75,7.3,0,75.2
+"Yemen, Rep.",Middle East,2003,0.04,22.6,2447,18.99,1.6,0,62.4
+Mauritania,Africa,2012,0,24.7,1454,3.71,4,0,63.1
+Jamaica,Central America and Caribbean,2008,3.35,26.6,5240,2.78,8.6,0,74.1
+Burkina Faso,Africa,2002,5.48,21.1,462,12.29,1.3,0,51.4
+Honduras,Central America and Caribbean,2009,2.76,25.9,2086,8.15,5.2,0,73.1
+Belgium,European Union,2012,10.09,26,39976,11.11,11.2,1,80.4
+"Congo, Rep.",Africa,2010,1.75,22.8,2423,4.27,6.1,0,60.1
+Panama,Central America and Caribbean,2001,4.9,25.7,6861,3.09,8.6,0,75.2
+Malaysia,Asia,2000,0.56,23.8,6393,23.19,8.6,0,72.6
+Spain,European Union,2000,11.61,26.1,23938,40.57,8.4,1,79
+Guinea,Africa,2002,0.21,21.9,657,8.59,1.5,0,51.5
+Grenada,Central America and Caribbean,2014,7.88,26.8,8601,0.11,8.6,0,72.5
+Niger,Africa,2005,0.096,21.2,411,13.62,1.3,0,53.4
+Benin,Africa,2011,1.47,23.2,990,9.46,2.8,0,59.6
+New Zealand,Oceania,2010,9.62,27.6,35394,4.35,12,1,80.7
+Jamaica,Central America and Caribbean,2010,2.94,26.9,4889,2.81,8.9,0,74
+Mexico,North America,2003,5.01,27,8587,103.08,7.1,0,75.1
+Cote d'Ivoire,Africa,2015,1.54,23.7,1973,23.23,5,0,56.1
+Lao PDR,Asia,2012,6.33,22.4,1795,6.44,5,0,65.3
+Romania,European Union,2000,9,24.8,4549,22.44,9.9,1,71.2
+Denmark,European Union,2011,10.45,25.3,51644,5.57,12.7,1,79.8
+Kiribati,Oceania,2010,0.49,29.6,1366,0.1,7.9,0,65.8
+Poland,European Union,2012,10.21,26.3,11520,38.06,11.7,1,76.7
+St. Vincent and the Grenadines,Central America and Caribbean,2013,6.96,26.9,6965,0.11,8.6,0,71.9
+Burundi,Africa,2004,6.24,20.9,303,7.13,2.2,0,52.5
+Angola,Africa,2004,2.41,22.2,2168,18.76,4.4,0,49.3
+Kyrgyz Republic,Asia,2003,6.35,25,786,5.04,10,0,68.3
+Colombia,South America,2001,4.31,24.9,3966,40.26,6.5,0,73.2
+Benin,Africa,2010,1.35,23.1,989,9.2,2.8,0,59.3
+Cote d'Ivoire,Africa,2005,0.85,23.1,1565,18.35,3.7,0,50.1
+Myanmar,Asia,2003,0.61,21.5,427,48.15,3.4,0,61
+Denmark,European Union,2008,10.7,25.2,53345,5.49,12.9,1,78.4
+Lebanon,Middle East,2011,1.3,27.2,8754,5.2,8,0,78.5
+Israel,Middle East,2010,2.78,26.9,32505,7.62,12.6,1,81.6
+Indonesia,Asia,2013,0.09,22.8,3104,251.81,7.8,0,70.2
+Angola,Africa,2010,7.58,22.8,2994,23.36,4.7,0,55.4
+Tunisia,Africa,2007,1.17,25.7,3691,10.3,6.1,0,74.6
+Algeria,Africa,2000,0.25,24.3,3111,31.04,5.9,0,70.6
+Rwanda,Africa,2010,7.13,21.7,599,10.04,3.8,0,63.4
+Indonesia,Asia,2001,0.06,21.7,1909,214.43,6.9,0,66
+Australia,Oceania,2000,10.17,26.2,45559,19.15,11.9,1,79.2
+Iraq,Middle East,2002,0.17,27.2,3819,24.93,5.4,0,68.8
+Oman,Middle East,2010,0.51,25.9,20640,3.04,7.9,0,75.7
+Paraguay,South America,2000,5.64,24.9,3904,5.32,5.9,0,70.5
+Qatar,Middle East,2006,1.13,28.1,61522,1.02,9.2,0,78.4
+Madagascar,Africa,2014,0.87,21.2,465,23.59,6.1,0,65.1
+Comoros,Africa,2010,0.13,23.8,1208,0.69,4.2,0,61.9
+Belize,Central America and Caribbean,2002,4.92,27.6,4448,0.26,10.2,0,69.3
+Australia,Oceania,2014,9.9,27.1,56306,23.48,12.7,1,82.3
+Pakistan,Asia,2012,0.03,23.6,1262,187.28,4.8,0,65.8
+Grenada,Central America and Caribbean,2009,8.55,26.3,8133,0.11,8.2,0,73
+Kenya,Africa,2000,1.51,22,1146,31.96,5.3,0,50.9
+Montenegro,Rest of Europe,2005,10.3,25.7,5013,0.61,10.5,0,74
+Burkina Faso,Africa,2015,7.03,22.1,653,18.11,1.4,0,59.9
+Cuba,Central America and Caribbean,2003,4.39,24.8,4419,11.23,9.8,0,77.3
+Liberia,Africa,2007,4.05,23.6,609,3.46,3.9,0,57.4
+Ecuador,South America,2015,3.69,27.1,6124,16.21,8.4,0,76.1
+Australia,Oceania,2008,10.76,26.8,53339,21.25,12.3,1,81.4
+Ecuador,South America,2000,4.01,25.3,4209,12.68,7,0,72.8
+Norway,Rest of Europe,2012,6.21,26.5,73179,5.02,12.6,1,81.5
+India,Asia,2011,2.95,21.4,1293,1250.29,5.4,0,67.1
+Tanzania,Africa,2000,5.96,22.1,568,33.5,4.2,0,50.8
+Morocco,Africa,2003,0.48,24.9,1995,29.78,3.7,0,70.4
+Mexico,North America,2011,4,27.6,9076,115.7,8.4,0,75
+United Kingdom,Rest of Europe,2007,11.06,26.8,44576,61.32,12.6,1,79.4
+Colombia,South America,2007,4.54,25.4,4890,43.74,7.2,0,74.7
+Guyana,South America,2009,5.87,25.7,4682,0.75,8,0,67.8
+Ireland,European Union,2008,12.18,27,48314,4.49,12,1,80.1
+Samoa,Oceania,2001,3.42,30.6,3268,0.18,8.9,0,69.1
+Turkmenistan,Asia,2004,2.58,25.1,2492,4.7,9.9,0,64.7
+Jamaica,Central America and Caribbean,2004,3.32,26.1,5121,2.73,8,0,74.1
+Mexico,North America,2014,3.94,27.8,9426,120.36,8.4,0,74.9
+Thailand,Asia,2003,6.07,23.1,4038,64.55,6.7,0,71.4
+Mozambique,Africa,2008,0.74,22.2,448,22.28,3.1,0,51.3
+"Venezuela, RB",South America,2001,8.15,26.3,4987,24.65,6.4,0,72.3
+Saudi Arabia,Middle East,2011,0,28.1,19813,28.27,9.1,0,74.1
+Latvia,European Union,2000,7.13,25.6,6727,2.37,9.5,1,70.3
+Timor-Leste,Oceania,2015,0.41,21.2,1333,1.2,4.5,0,68.5
+Myanmar,Asia,2012,1.24,22.3,1017,51.41,4.5,0,64.5
+Czechia,European Union,2006,13.58,26.7,15949,10.24,12.1,1,76.5
+Iceland,Rest of Europe,2002,6.53,25.6,43143,0.29,9.7,1,80.5
+Australia,Oceania,2007,10.56,26.8,52539,20.83,12,1,81.3
+Chad,Africa,2001,0.34,21,403,8.68,1.4,0,47.8
+Tunisia,Africa,2012,1.35,26,3959,10.85,6.8,0,75.4
+Suriname,South America,2009,4.93,26.1,8600,0.52,7.7,0,70.2
+Nicaragua,Central America and Caribbean,2002,3.46,26,1456,5.22,5.2,0,70.3
+Fiji,Oceania,2015,2.63,27.6,5391,0.87,10.8,0,67.1
+Moldova,Rest of Europe,2003,6.27,26.1,1644,2.9,9.8,0,67.5
+Italy,European Union,2010,6.95,25.7,32058,59.28,9.7,1,82
+Germany,European Union,2013,11.08,26.5,40135,80.65,14,1,80.5
+Bahrain,Middle East,2014,1.57,24.9,22677,1.34,9.1,0,76.6
+Seychelles,Africa,2000,8.33,25.4,11178,0.08,7.4,0,72.8
+Uruguay,South America,2003,5.4,26.1,9008,3.32,8,0,75.4
+Greece,European Union,2000,8.6,26.7,18643,10.81,8.6,1,77.9
+Bosnia and Herzegovina,Rest of Europe,2014,4.69,25.6,4518,3.48,9.2,0,76.7
+Canada,North America,2000,7.6,26.3,34122,30.69,11,1,79.1
+Nepal,Asia,2009,0.22,21.7,700,26.88,3.2,0,67.2
+Mali,Africa,2015,0.62,22.9,751,17.44,2.3,0,57.5
+Vanuatu,Oceania,2002,0.9,25.5,2478,0.19,6.5,0,67.8
+Djibouti,Africa,2014,0.32,24,2509,0.9,4.1,0,63.2
+North Macedonia,Rest of Europe,2006,3.79,26,3780,2.04,8.4,0,73.9
+Rwanda,Africa,2003,8.65,21.2,401,8.56,2.6,0,52.2
+Timor-Leste,Oceania,2004,0.39,20.2,913,0.97,3.1,0,62.9
+North Macedonia,Rest of Europe,2004,4.98,25.9,3446,2.03,7.8,0,73.6
+"Iran, Islamic Rep.",Middle East,2006,0.017,25.5,4959,70.55,9.1,0,72.3
+"Congo, Dem. Rep.",Africa,2014,4.52,21.9,481,73.77,6.2,0,58.8
+Uzbekistan,Asia,2012,1.95,26.3,2355,29.77,11.1,0,70.2
+Zambia,Africa,2007,3.17,22,1018,12.5,6.4,0,51.1
+Senegal,Africa,2004,0.36,22.4,1115,10.81,2.4,0,59.9
+Finland,European Union,2003,9.31,25.8,40044,5.21,9.6,1,78.4
+Gabon,Africa,2000,8.89,23.7,7888,1.23,6.2,0,58.3
+Burundi,Africa,2003,6.37,20.8,298,6.91,2.1,0,51.7
+Singapore,Asia,2012,1.94,23.6,51680,5.31,11.3,0,82
+Mali,Africa,2006,0.55,22.2,697,13.2,1.7,0,52.8
+Lesotho,Africa,2003,1.97,24.2,785,2.02,5.1,0,43.8
+Samoa,Oceania,2015,2.1,32.1,4074,0.19,10.3,0,72.7
+"Micronesia, Fed. Sts.",Oceania,2007,1.63,29.1,3013,0.1,6.5,0,65.9
+Morocco,Africa,2012,0.46,25.6,2673,33.24,4.6,0,75
+Qatar,Middle East,2008,1.15,28.3,60799,1.44,9.7,0,78.8
+Poland,European Union,2006,9.74,25.8,9101,38.14,11.7,1,75.1
+Cuba,Central America and Caribbean,2000,3.93,24.5,4106,11.13,9.6,0,76.7
+"Venezuela, RB",South America,2006,8.37,26.5,6833,26.85,7.6,0,72.9
+Trinidad and Tobago,Central America and Caribbean,2012,5.89,27.2,18151,1.34,10.8,0,72.4
+Syrian Arab Republic,Middle East,2007,0.74,27.5,1571,19.88,6.5,0,74.2
+"Venezuela, RB",South America,2005,7.98,26.5,5505,26.43,7.4,0,72.9
+Uzbekistan,Asia,2008,1.72,25.7,1918,27.3,10.3,0,69.2
+Qatar,Middle East,2000,0.55,27.6,56865,0.59,7.9,0,77.5
+Paraguay,South America,2010,6.27,26,4767,6.25,7.7,0,72.7
+Sao Tome and Principe,Central America and Caribbean,2007,4.32,24.2,1287,0.17,4.6,0,65.9
+Haiti,Central America and Caribbean,2001,3.62,23.4,1289,8.61,3.9,0,57.4
+Namibia,Africa,2008,1.01,23.6,4044,2.04,6.1,0,53.8
+Cote d'Ivoire,Africa,2014,1.35,23.7,1887,22.65,4.4,0,55.5
+Ecuador,South America,2012,3.92,26.7,5885,15.47,8.1,0,75.5
+Turkiye,Middle East,2010,1.42,27.5,8492,72.33,6.7,0,74.5
+Maldives,Asia,2004,1.67,23.7,7788,0.31,3.4,0,73
+Qatar,Middle East,2003,0.92,27.9,57076,0.68,8.2,0,77.9
+Portugal,European Union,2003,12.22,25.7,18819,10.46,7.2,1,77.2
+Sri Lanka,Asia,2015,2.72,23,3844,20.97,10.9,0,76.3
+Ecuador,South America,2014,3.81,27,6218,15.95,8.5,0,75.9
+Jamaica,Central America and Caribbean,2001,3.72,25.6,4870,2.67,7.5,0,74.1
+Armenia,Rest of Europe,2008,3.96,25.9,3335,2.91,11,0,72.9
+Trinidad and Tobago,Central America and Caribbean,2002,5.25,26.1,11901,1.28,9.4,0,69.9
+Malta,European Union,2002,6.12,27,17165,0.4,8.3,1,78.7
+"Iran, Islamic Rep.",Middle East,2001,0.012,25.1,3967,66.45,6.4,0,70.6
+Bahrain,Middle East,2009,1.95,25,21057,1.19,8.4,0,75.9
+Burkina Faso,Africa,2003,5.57,21.2,484,12.65,1.3,0,52
+Ethiopia,Africa,2015,0.76,20.5,641,100.84,2.6,0,65
+Latvia,European Union,2011,10.11,26.3,11451,2.06,12.6,1,73.6
+France,European Union,2015,11.87,25,36653,66.55,11.5,1,82.3
+Peru,South America,2002,3.93,25.2,3422,27.1,8.3,0,71.9
+Honduras,Central America and Caribbean,2005,3.02,25.4,1981,7.46,4.7,0,72
+Georgia,Rest of Europe,2008,7.27,26.6,2980,3.85,12.2,0,70.9
+Bolivia,South America,2013,3.21,26.2,2831,10.54,8.4,0,69.5
+Burkina Faso,Africa,2008,5.47,21.7,554,14.69,1.3,0,55.6
+Panama,Central America and Caribbean,2000,5.08,25.6,6955,3.03,8.5,0,75.1
+Indonesia,Asia,2007,0.061,22.2,2403,232.37,7.1,0,68.1
+Turkmenistan,Asia,2009,2,25.7,3968,5.01,9.9,0,66.4
+Kuwait,Middle East,2000,0.013,28.3,29952,2.05,6.2,0,73.1
+Switzerland,Rest of Europe,2004,10.54,24.9,75113,7.39,11.9,1,81.1
+Lebanon,Middle East,2003,1.96,26.6,6517,4.39,7.5,0,76
+Poland,European Union,2005,9.07,25.7,8569,38.17,11.6,1,75
+"Gambia, The",Africa,2013,2.65,23.7,684,1.96,3.2,0,60.4
+Sweden,European Union,2008,7.02,25.7,48544,9.22,12.2,1,81.1
+Malaysia,Asia,2015,0.55,25.6,9955,30.27,10.2,0,75.5
+"Micronesia, Fed. Sts.",Oceania,2008,1.97,29.2,2966,0.1,6.7,0,66.1
+Barbados,Central America and Caribbean,2000,7.31,26.5,16277,0.27,9,0,77.2
+Turkiye,Middle East,2003,1.53,26.9,6644,66.09,5.8,0,71.6
+Panama,Central America and Caribbean,2006,5.07,26.1,8338,3.39,9.1,0,76.1
+Haiti,Central America and Caribbean,2003,3.56,23.7,1304,8.9,4.1,0,58
+Cuba,Central America and Caribbean,2007,4.12,25,6236,11.25,10.4,0,78
+Kuwait,Middle East,2006,0.015,28.7,40977,2.37,6.2,0,73.7
+Bulgaria,European Union,2007,10.66,25.8,6045,7.55,10.5,1,72.7
+Kazakhstan,Asia,2001,5.55,25.6,5055,14.86,10.7,0,65.8
+Tonga,Oceania,2015,0.23,32.1,4336,0.1,11.2,0,70.5
+Georgia,Rest of Europe,2001,2.77,25.9,1668,4.01,11.8,0,70.1
+Guatemala,Central America and Caribbean,2006,2.36,25.6,3428,13.21,3.7,0,70.1
+Uganda,Africa,2010,8.55,22,768,32.43,5.7,0,57.1
+Bahrain,Middle East,2004,1.98,25.3,22423,0.83,8.4,0,75.2
+Belize,Central America and Caribbean,2008,6.95,28.2,4835,0.31,10.4,0,71.1
+Vanuatu,Oceania,2009,0.83,25.9,2893,0.23,6.6,0,69
+China,Asia,2006,3.28,22.8,3801,1311.02,6.9,0,73.3
+Morocco,Africa,2005,0.46,25,2109,30.46,3.9,0,71.7
+Paraguay,South America,2007,6.03,25.7,4208,6,7.1,0,72.1
+Belize,Central America and Caribbean,2009,6.44,28.3,4729,0.31,10.4,0,71.5
+Zimbabwe,Africa,2005,2.17,23.5,1137,12.08,6.8,0,43.2
+Ethiopia,Africa,2000,0.19,19.8,262,66.22,1.5,0,51.9
+Austria,European Union,2011,11.9,25.4,44451,8.39,11.8,1,81
+Sierra Leone,Africa,2011,3.41,22.6,557,6.56,3.1,0,50.2
+South Africa,Africa,2015,7.2,27.2,6260,55.39,10.1,0,62.6
+Tunisia,Africa,2015,1.5,26.3,4095,11.18,7,0,75.9
+Latvia,European Union,2006,10.4,26,11896,2.22,12.2,1,70.9
+Georgia,Rest of Europe,2004,2.89,26.2,2112,3.93,12,0,70.5
+Paraguay,South America,2011,6.14,26.2,4904,6.33,7.8,0,72.9
+Turkmenistan,Asia,2013,3.18,26.2,5679,5.37,9.8,0,67.4
+Guyana,South America,2007,5.73,25.4,4443,0.75,8,0,67.2
+Oman,Middle East,2007,0.52,25.7,20230,2.66,7.3,0,74.9
+Luxembourg,European Union,2012,11.67,26.2,104488,0.53,11.8,1,81.4
+Uganda,Africa,2004,11.06,21.5,593,26.82,4.4,0,50.6
+United States,North America,2004,8.48,28,51485,292.81,12.8,1,77.5
+Syrian Arab Republic,Middle East,2013,0.15,28,1037,19.58,6.3,0,70
+St. Vincent and the Grenadines,Central America and Caribbean,2001,5.07,25.6,5427,0.11,7.6,0,70.9
+Sierra Leone,Africa,2004,3.81,22.3,469,5.43,2.6,0,43.5
+Maldives,Asia,2005,1.23,23.8,6589,0.32,3.5,0,73.6
+Netherlands,European Union,2007,9.45,25.4,45139,16.38,12,1,80.1
+New Zealand,Oceania,2003,8.92,27,33475,4.03,11.6,1,79.1
+Equatorial Guinea,Africa,2005,7.82,23.1,12908,0.75,5.4,0,54.4
+"Iran, Islamic Rep.",Middle East,2005,0.012,25.4,4777,69.76,7,0,71.9
+Papua New Guinea,Oceania,2013,0.81,25.3,2305,7.79,4.3,0,62.9
+Benin,Africa,2006,1.29,22.7,953,8.22,2.8,0,57.8
+Guatemala,Central America and Caribbean,2004,2.38,25.4,3282,12.68,3.6,0,69.4
+Somalia,Africa,2002,0,22.2,192,9.5,2.1,0,51.5
+Sri Lanka,Asia,2013,2.65,22.8,3553,20.59,10.9,0,76
+Algeria,Africa,2010,0.35,25.1,3918,35.98,7.1,0,74.9
+Turkmenistan,Asia,2000,2.89,24.7,2288,4.52,9.9,0,63.6
+Chile,South America,2010,7.55,27.4,11733,17.06,9.8,0,78.8
+Suriname,South America,2004,4.66,25.7,7310,0.49,7.7,0,68.6
+Portugal,European Union,2009,11.5,25.8,19343,10.57,7.9,1,78.7
+Austria,European Union,2007,12.54,25.3,43938,8.3,11.6,1,80.2
+Bahrain,Middle East,2008,1.99,25.1,21833,1.11,8.4,0,75.8
+Madagascar,Africa,2007,0.64,20.9,495,19.43,5.8,0,62.1
+Brunei Darussalam,Asia,2004,0.092,25.7,34850,0.36,8.4,0,73.8
+Montenegro,Rest of Europe,2003,10.3,25.5,4623,0.61,10.3,0,73.3
+Brazil,South America,2006,6.93,25.4,7561,188.17,6.4,0,72.3
+Zimbabwe,Africa,2007,2.26,23.5,1042,12.26,7,0,44.9
+Mauritania,Africa,2009,0.004,24.5,1422,3.39,3.7,0,62.3
+El Salvador,Central America and Caribbean,2005,2.68,26.6,3140,6.05,6,0,70.1
+United Arab Emirates,Middle East,2007,2.28,27.7,45389,6.17,9.4,0,75.8
+Chad,Africa,2013,0.65,21.8,754,13.22,2.1,0,52.4
+Tajikistan,Asia,2011,0.71,25.4,823,7.7,10.8,0,69.1
+Indonesia,Asia,2005,0.059,22.1,2199,226.29,7.4,0,67.3
+Finland,European Union,2008,10.26,25.9,46359,5.31,12.2,1,79.6
+Tunisia,Africa,2004,1.22,25.4,3265,10.02,5.6,0,74
+Chile,South America,2008,7.31,27.3,11447,16.71,9.9,0,78.3
+Israel,Middle East,2006,2.3,26.6,29940,7.05,12.1,1,80.6
+Mexico,North America,2000,5.16,26.7,8862,98.9,6.7,0,74.3
+Fiji,Oceania,2014,2.67,27.5,5172,0.87,10.5,0,67
+Qatar,Middle East,2011,1.05,28.6,65129,2.04,8.7,0,79.3
+Zimbabwe,Africa,2010,3.38,23.6,1110,12.7,7.3,0,50.6
+United States,North America,2005,8.55,28.1,52790,295.52,12.8,1,77.5
+Sierra Leone,Africa,2003,3.87,22.2,460,5.2,2.5,0,42.4
+Romania,European Union,2013,9.65,26.4,8338,19.98,10.9,1,75.1
+Togo,Africa,2010,1.26,23.1,483,6.42,4.3,0,57.5
+Austria,European Union,2010,12.1,25.4,43335,8.36,11.8,1,80.6
+Switzerland,Rest of Europe,2013,9.74,25.1,83345,8.09,13.4,1,82.8
+Chile,South America,2007,7.39,27.2,11148,16.53,9.4,0,78.1
+Liberia,Africa,2011,3.73,23.9,680,4.02,4.2,0,60.1
+Jordan,Middle East,2008,0.58,28.4,4787,6.56,9.8,0,73.1
+Czechia,European Union,2007,13.83,26.7,16739,10.3,12.2,1,76.7
+Brunei Darussalam,Asia,2003,0.11,25.6,35278,0.35,8.4,0,73.6
+"Congo, Dem. Rep.",Africa,2010,4.02,21.6,404,64.56,5.4,0,56.9
+Mauritius,Africa,2006,3.72,24.8,6593,1.23,7.4,0,72.4
+"Venezuela, RB",South America,2013,6.84,26.6,12458,29.78,9.9,0,72.9
+"Egypt, Arab Rep.",Africa,2013,0.19,29.2,3468,88.4,6.9,0,70.9
+Colombia,South America,2002,4.32,25,4003,40.88,6.5,0,73.5
+Botswana,Africa,2003,5.63,23.8,4817,1.73,8,0,50.5
+El Salvador,Central America and Caribbean,2009,2.48,27,3280,6.16,6.5,0,71
+"Venezuela, RB",South America,2015,6.21,26.7,17318,30.08,10.1,0,72.6
+"Yemen, Rep.",Middle East,2012,0.04,23.4,2302,24.47,3,0,65.9
+Tunisia,Africa,2005,1.25,25.5,3351,10.11,5.8,0,74.2
+Czechia,European Union,2000,13.9,26.5,12312,10.26,10.6,1,75
+Turkiye,Middle East,2002,1.59,26.9,6373,65.15,5.7,0,71.1
+Guyana,South America,2010,5.56,25.8,4847,0.75,8.1,0,68.1
+Haiti,Central America and Caribbean,2002,3.65,23.5,1281,8.75,4,0,57.7
+Angola,Africa,2009,6.12,22.7,2962,22.51,4.7,0,54.3
+Tunisia,Africa,2003,1.19,25.4,3097,9.95,5.4,0,73.8
+Guinea-Bissau,Africa,2002,2.6,22.3,560,1.25,2.3,0,51.1
+Haiti,Central America and Caribbean,2007,3.44,24.2,1325,9.5,4.5,0,59.4
+St. Lucia,Central America and Caribbean,2001,12.92,27.1,8927,0.16,7.1,0,73.5
+Slovak Republic,European Union,2013,9.9,26.2,15149,5.41,12.2,1,76.4
+Trinidad and Tobago,Central America and Caribbean,2008,5.99,26.8,18604,1.31,10.7,0,71.5
+Timor-Leste,Oceania,2000,0.5,19.9,942,0.88,2.8,0,59
+Gabon,Africa,2010,8.36,24.7,6864,1.62,7.6,0,61.4
+Myanmar,Asia,2000,0.12,21.3,310,46.72,3.1,0,60.1
+Costa Rica,Central America and Caribbean,2011,3.21,26.9,10559,4.63,8.4,0,78.9
+Chile,South America,2012,8.35,27.6,12973,17.4,9.9,0,79.2
+Djibouti,Africa,2007,0.45,23.8,1053,0.81,3.9,0,58.7
+Djibouti,Africa,2015,0.32,24,2653,0.91,4.1,0,64.1
+Central African Republic,Africa,2010,1.96,22.4,532,4.39,3.6,0,47.3
+Seychelles,Africa,2004,6.56,25.8,9944,0.08,7.7,0,72.7
+Kiribati,Oceania,2014,0.33,29.9,1417,0.11,7.9,0,67
+Burkina Faso,Africa,2006,5.67,21.5,534,13.83,1.3,0,54.1
+Argentina,South America,2000,7.68,26.1,10731,36.87,9.1,0,73.6
+Nicaragua,Central America and Caribbean,2015,3.72,27.2,2050,6.22,6.5,0,73.6
+Poland,European Union,2008,10.8,26,10157,38.13,11.9,1,75.5
+Bahrain,Middle East,2015,1.53,24.8,22634,1.37,9.3,0,76.8
+Brunei Darussalam,Asia,2009,0.24,26.3,32992,0.38,8.7,0,74.6
+Belgium,European Union,2009,10.1,25.9,39025,10.8,11.1,1,80
+Mozambique,Africa,2004,0.59,21.9,370,19.91,2.8,0,50.1
+Nigeria,Africa,2012,4.73,23.1,2501,167.23,5.7,0,51.8
+Lao PDR,Asia,2000,5.19,21.1,936,5.32,3.9,0,58.8
+Fiji,Oceania,2013,2.53,27.4,4902,0.87,10.3,0,67
+Finland,European Union,2001,8.94,25.8,38785,5.19,9.4,1,78
+Japan,Asia,2014,8.4,22.7,34387,127.28,12.5,1,83.6
+Belarus,Rest of Europe,2000,12.92,25.7,2617,9.98,8.9,0,68.9
+"Iran, Islamic Rep.",Middle East,2007,0.023,25.6,5305,71.34,8.9,0,72.6
+Niger,Africa,2000,0.092,20.8,399,11.33,1.1,0,49.9
+Mongolia,Asia,2009,6.56,25.3,2515,2.67,9.1,0,66.9
+Sri Lanka,Asia,2004,1.56,21.9,2130,19.39,10.3,0,74.3
+Lithuania,European Union,2002,11,26.1,7424,3.44,11.1,1,71.8
+Iceland,Rest of Europe,2011,6.84,26.1,48934,0.32,11,1,82.4

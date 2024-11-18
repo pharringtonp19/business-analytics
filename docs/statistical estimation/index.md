@@ -17,3 +17,9 @@ nav_order: 9
 ### **Multivariate Regression Tutorial**
 - [Lecture Notes](https://daffodil-brand-804.notion.site/Multivariate-Regression-Tutorial-13052d8e3f6d80449462fda931b1b1e5)
 - [Colab Notebook](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/regression/multivariate_regression_basics_class.ipynb)
+
+### **Feature Transformations**
+- [Lecture Notes](https://daffodil-brand-804.notion.site/Feature-Transformations-14052d8e3f6d802fa48ff7277c4b69ae)
+- [Slides](https://slides.com/pharringtonp19/business-analytics-feature-transformations/fullscreen)
+- [Colab Notebook #1](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/regression/regression_transformations_motivation.ipynb)
+- [Colab Notebook #2](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/regression/regression_transformations_basics.ipynb)

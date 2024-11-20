@@ -27,3 +27,9 @@ nav_order: 9
 - [Slides](https://slides.com/pharringtonp19/business-analytics-feature-transformations/fullscreen)
 - [Colab Notebook #1](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/regression/regression_transformations_motivation.ipynb)
 - [Colab Notebook #2](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/regression/regression_transformations_basics.ipynb)
+
+### **Causal Inference**
+- [Lecture Notes](https://daffodil-brand-804.notion.site/Causality-13552d8e3f6d8036b86af8b80c107519)
+- [Slides](https://slides.com/pharringtonp19/business-analytics-causal-inference/fullscreen)
+- [Colab Notebook #1](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/regression/casuality_motivation1.ipynb)
+- [Colab Notebook #2](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/regression/casuality_motivation2.ipynb)

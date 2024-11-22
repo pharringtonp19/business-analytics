@@ -33,3 +33,5 @@ nav_order: 9
 - [Slides](https://slides.com/pharringtonp19/business-analytics-causal-inference/fullscreen)
 - [Colab Notebook #1](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/regression/casuality_motivation1.ipynb)
 - [Colab Notebook #2](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/regression/casuality_motivation2.ipynb)
+- [Colab Notebook #3](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/regression/causality_ovb.ipynb)
+- [Colab Notebook #4](https://github.com/pharringtonp19/business-analytics/blob/main/notebooks/regression/causality_selection.ipynb)
